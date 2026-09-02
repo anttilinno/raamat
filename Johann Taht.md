@@ -1,0 +1,49 @@
+---
+created: 2026-09-02
+updated: 2026-09-02
+tags:
+  - stsenaarium
+  - film
+status: seedling
+type: note
+---
+
+# Johann Taht
+
+> Metsavenna ballaad kolmes vaatuses, ühe hobuse ja kolmeharulise porgandiga.
+
+**Žanr:** märul / must komöödia · **Aeg:** 1946 · **Koht:** Ülemiste, Peipsi äärsed alad
+**Keeled:** eesti, vene (3. klassi tasemel)
+
+## Logline
+
+Nad võtsid tal porgandi. Aga ajasid sassi ka malelaua.
+
+Johann Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakanud porgandit kasvatama. Kui NKVD kaagid murravad öösel bunkrisse, varastavad tema püha kolmeharulise porgandi ja ajavad sassi Paul Kerese võidupartii seisu, siis kaotab Eesti oma viimase rahuliku mehe — ja Nõukogude Liit umbes kaks rügementi.
+
+## Struktuur
+
+| Vaatus | Stseenid | Fail | Staatus |
+|---|---|---|---|
+| I — Taht süttib | 1–4 | [[Vaatus I - Taht süttib]] | visand |
+| II — Blingimine ja varustamine | 5–8 | [[Vaatus II - Blingimine ja varustamine]] | visand |
+| III — Peipsi arveteklaarimine | 9–11 | [[Vaatus III - Peipsi arveteklaarimine]] | visand |
+
+## Materjal
+
+- [[Tegelased]]
+- [[Toon ja viited]]
+- [[Johann_Taht_Notes]] — algsed toormärkmed, puutumata
+
+## Lahtised otsad
+
+- [ ] Zoja «beebi-sommeljee» monoloog: 5. stseeni telefonikõnesse või eraldi stseenina restoranis? Praegu pole teda ekraanil enne III vaatust.
+- [ ] Turutüdruk: punapõskne talutüdruk või tikk-kontsadega näitsik. Valik muudab kogu 2. stseeni tooni.
+- [ ] Kolmeharuline porgand peab III vaatuses tagasi tulema. Kelle taskus ta on, kui Zoja langeb?
+- [ ] Tank saab II vaatuses blingi, aga ei sõida III vaatuses kordagi. Kas peaks — või on nali just selles, et ei?
+- [ ] Saunaliin on praegu üks kaader. Kas jääbki üheks kaadriks?
+- [ ] «Kapsapea, minu nunnu» — täpsustada viide (tsitaat või stseeniparalleel 2. stseeni jaoks).
+
+## Veebiversioon
+
+https://claude.ai/code/artifact/3d779134-9ce0-4426-8e3a-c1d9a43ba4cc
