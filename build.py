@@ -369,7 +369,10 @@ def build():
             sys.exit(f"missing source file: {path}")
         docs[stem] = path.read_text(encoding="utf-8")
 
-    extra = sorted(p.stem for p in SRC.glob("*.md") if p.stem not in ORDER)
+    # README is repo documentation, not a chapter.
+    extra = sorted(
+        p.stem for p in SRC.glob("*.md") if p.stem not in ORDER and p.stem != "README"
+    )
     if extra:
         print(f"warning: not in ORDER, skipped: {', '.join(extra)}", file=sys.stderr)
 
