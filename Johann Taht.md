@@ -46,4 +46,4 @@ Johann Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakan
 
 ## Veebiversioon
 
-https://claude.ai/code/artifact/3d779134-9ce0-4426-8e3a-c1d9a43ba4cc
+https://raamat.k3s.lan
