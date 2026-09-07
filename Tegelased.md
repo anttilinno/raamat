@@ -18,13 +18,20 @@ Vt [[Juhan Taht]]
 Vaikne mees, kes tahab kasvatada porgandit ja mängida malet iseenda vastu. Kust ta tuli, näitab [[Vaatus 0 - Enne porgandit]] ja seletab [[Juhan Taht - paritolu]]; ükski tegelane ei tea sellest midagi. Bunkri sissepääsus tavaline mullaauk, all pallibassein, kinosaal ja relvakamber. Ei tõsta häält kordagi terve filmi jooksul.
 
 ## Zoja Kosmodemjanskaja
-*Antagonist · surematu polgu viimane*
+*Antagonist · surematu polgu liige*
 
-Turske meesgorilla. Vasakul bitsepsil sirp, paremal vasar. Hobid: naiste ragbi. Sööb beebisid ja arutleb nende üle nagu sommeljee — 2020 oli hea aastakäik, lõunanõlvad, kerge puuviljabukett. Üleküpsenud beebid talle ei maitse. Ülejäänud polk saadeti NL-i lagunemise ajal laiali; nad töötavad nüüd tuumareaktorites ja moetööstuses.
+Turske meesgorilla. Vasakul bitsepsil sirp, paremal vasar. Hobid: naiste ragbi. Sööb beebisid ja arutleb nende üle nagu sommeljee — 2020 oli hea aastakäik, lõunanõlvad, kerge puuviljabukett.
+
+Üleküpsenud beebid talle ei maitse ja üleküpsenuteks peab ta mustanahalisi. Ta ütleb seda sama rahulikult, nagu ta räägib nõlvadest, ja ei pea seda arvamuseks — tema jaoks on see toidutundmine.
+
+Surematu polk ei ole tema jaoks mälestuskäik, vaid koosseis. Ülejäänud polk saadeti NL-i lagunemise ajal laiali; nad töötavad nüüd tuumareaktorites ja moetööstuses.
 
 1940. aastal juhendas ta ühe kooli oktoobrilaste rühma ideoloogilist tööd. Peab siiani nimekirja: kes rühmast on elus, kes ei ole, kes helistab. [[Tegelased|Dima]] on nimekirjas.
 
 Hing on väljaspool keha, Kaštšei muna sees, köögikapis. Vt [[Vaatus III - Peipsi arveteklaarimine]].
+
+> [!note] Koht, kus naer lõpeb
+> Sommeljeeregister on selleks hetkeks olnud naljakas kaks stseeni. Siin ta lakkab olemast ja seda ei märgi ära ükski muusika, lõige ega reaktsioon — Zoja räägib edasi ja mehed kuulavad viisakalt. Kaadris ei tohi keegi teda korrigeerida ega tema peale naerda. Publik peab ise aru saama, et ta on lõpetanud koleda naljanumbri vaatamise ja alustanud koletise vaatamist.
 
 ## Muri
 *Kõrvaltegelane · mäger · PTSD*
