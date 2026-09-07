@@ -29,7 +29,7 @@ Juhan Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakanu
 | I — Taht süttib | 1–4 | [[Vaatus I - Taht süttib]] | visand |
 | II — Blingimine ja varustamine | 5–9 | [[Vaatus II - Blingimine ja varustamine]] | visand |
 | III — Peipsi arveteklaarimine | 10–12 | [[Vaatus III - Peipsi arveteklaarimine]] | visand |
-| Epiloog — Neljas kirjapanek | E.1–E.2 | [[Epiloog - Neljas kirjapanek]] | visand |
+| Epiloog — Viies kirjapanek | E.1–E.2 | [[Epiloog - Viies kirjapanek]] | visand |
 
 ## Materjal
 

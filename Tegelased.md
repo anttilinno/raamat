@@ -55,7 +55,7 @@ Käitub nagu turumüüja, mitte nagu naljanumber. Kaalub, annab raha tagasi, kur
 
 ## Vaatuse 0 ja epiloogi näod
 
-Kõik nad saavad tiitri. Juhan ei saa. Vt [[Vaatus 0 - Enne porgandit]] · [[Epiloog - Neljas kirjapanek]]
+Kõik nad saavad tiitri. Juhan ei saa. Vt [[Vaatus 0 - Enne porgandit]] · [[Epiloog - Viies kirjapanek]]
 
 ### Kalevipoeg
 *Tiitel: KALEVIPOEG, kuningakandidaat → KALEVIPOEG, kuningas*
@@ -87,7 +87,12 @@ Jäädvustab operatsiooni molberti taga, kolm sammu positsioonist. Maalib töö 
 
 Kaotas auraha Kadrioru tualetti ja sai selle tagasi. Ei küsinud kunagi vapside kohta nõu mesinikult, kes oleks osanud vastata.
 
+### Davai Lama
+*Tiitel: DAVAI LAMA, pagulane*
+
+Sündinud Pihkva kandis, nimi tuli sealt kaasa. Tiibetis ei saa seda niimoodi välja öelda, nii et paari aasta pärast on ta kõigi jaoks Dalai Laama ja keegi ei mäleta enam, miks. Kannatakse üle mägede seljas; küsib piiri peal nime ja kuuleb seda korra, tuule sees.
+
 ### Richard Gere
 *Tiitel: RICHARD GERE, külaline · mängib iseennast*
 
-Jääb delegatsioonist maha ja satub mesila juurde. Kuuleb ühte lauset, mida publik ei kuule. Räägib selle aastaid hiljem Los Angeleses edasi ja sealt tuleb välja midagi muud.
+Kuuleb loo laamalt ja räägib selle Los Angeleses õhtusöögilauas edasi. Kolmas suu, kolmas keel — ja sealt tuleb välja midagi muud.

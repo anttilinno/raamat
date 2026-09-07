@@ -384,8 +384,8 @@ Rinne Sinimägedes seisab. Punased otsustavad rünnata mujalt.
 > [!note] Mida ei näidata
 > Lahingut ei ole ekraanil ega helis. Enne on mesi ja pärast on tool; vahepeal on lõige. Kogu töö teeb ära see, et me juba teame, mida see mees teeb, kui talle jalgu jäädakse.
 
-> [!note] Viies kirjapanek
-> Kroonika teeb sedasama, mida enne teda tegid pärgament, lõuend, Rooma ja hiljem Hollywood: paneb kirja midagi, mis on peaaegu õige. Kaotused on kaadris näha ja hääl nimetab neid stabiliseerumiseks — mitte vale, ainult vale sõna. Ja seekord ei ole kirjapanekus mitte ainult vale sõna, vaid ka puuduv mees. Juhan seda kroonikat ei näe ega tea, et ta selles ei ole.
+> [!note] Neljas kirjapanek
+> Kroonika teeb sedasama, mida enne teda tegid Rooma, pärgament ja lõuend ning pärast teda Hollywood: paneb kirja midagi, mis on peaaegu õige. Kaotused on kaadris näha ja hääl nimetab neid stabiliseerumiseks — mitte vale, ainult vale sõna. Ja seekord ei ole kirjapanekus mitte ainult vale sõna, vaid ka puuduv mees. Juhan seda kroonikat ei näe ega tea, et ta selles ei ole.
 
 > [!note] Vale pool mäge
 > Ta ei lähe sinna sõdima ega otsusta midagi. Ta viib mett ja läheb koju valet nõlva mööda alla, sest mägi on üks mägi. Sellel poolel juhtub see, mis juhtub, ja rinne nihkub. Kogu Sinimägede lahingu tulemus filmi loogikas on üks vale pööre — ja mitte ükski tegelane, tiiter ega lause ei ütle seda kunagi välja.

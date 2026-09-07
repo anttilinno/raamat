@@ -50,6 +50,6 @@ John Wick 1–4 · SISU · 1944 · Nimed marmortahvlil · Nähtamatu võitlus ·
 | Kuldmündid / markerid | Nikolai kuldmündid |
 | Continental | Restoran, mis tegeleb varastatud juurviljaga |
 
-Tabelit loetakse epiloogis tagurpidi, vt [[Epiloog - Neljas kirjapanek]]: seal ei ole meie lugu John Wicki eestindus, vaid John Wick on meie loo amerikaniseering. Filmis ennast ei tohi see kordagi välja öeldud saada.
+Tabelit loetakse epiloogis tagurpidi, vt [[Epiloog - Viies kirjapanek]]: seal ei ole meie lugu John Wicki eestindus, vaid John Wick on meie loo amerikaniseering. Filmis ennast ei tohi see kordagi välja öeldud saada.
 
 Porgand ei ole selles tabelis valuuta ega saa kunagi olema. Kuldmünt ostab laua, vaikimise ja inimese. Porgand on hindamatu — mitte kallis, vaid hinnata. Kui keegi filmis pakub tema eest raha, on see märk, et ta ei ole aru saanud, kuhu ta sattunud on.
