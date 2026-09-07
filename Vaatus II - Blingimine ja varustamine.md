@@ -233,8 +233,27 @@ Pealt on see tavaline metsavenna mullaauk. All on kolm korrust: pallibassein, ki
 
 Kuuris seisab roostes T-34. Xzibit, Ryan Friedlinghaus ja Mad Mike ilmuvad bunkrisse ette teatamata. Tank värvitakse üle, topitakse blingi täis — militaarne ja mittemilitaarne segamini, kristall-luster laskemoonasalve kohal.
 
+Montaaž lõpeb. Muusika lõpeb koos sellega ja midagi ei tule asemele.
+
+Kuuri uksed tõmmatakse lahti. Tank seisab hommikuvalguses: kahekümne kuue tollised kroomitud valuveljed, poldid roomikute vahelt läbi, nii et masin ei saa enam kuhugi sõita. Toru otsas vibreerib väike lipp. Torniluugist ripub alla diskopall ja pöörleb aeglaselt, sest keegi lülitas selle demonstratsiooniks sisse.
+
+Johann astub ligi. Käib tanki ümber üks kord, terve ringi, ja ei puuduta seda.
+
+Ta ei ole vihane. Ta on kurb, ja see on palju halvem. Kaamera jääb tema näole nii kauaks, et keegi peaks midagi ütlema, ja mitte keegi ei ütle.
+
+Xzibit ootab. Ta on selle hetke jaoks olemas, ta on seda tuhat korda teinud ja ta teab, mis nüüd tavaliselt tuleb. Seekord ei tule.
+
+Nad hakkavad ükshaaval välja minema. Mad Mike võtab mütsi peast. Ryan sirutab käe torniluugi juurde ja lülitab diskopalli välja, ettevaatlikult, nagu kustutaks küünla. Keegi ei ütle head aega, sest head aega ütlemiseks peaks keegi kõigepealt midagi ütlema.
+
+Uks pannakse kinni ilma paugutamata.
+
+Johann jääb kuuri. Diskopall keerleb veel natuke, hoo pealt, ja jääb siis seisma.
+
 > [!note] Tempo
-> Kaks kõrvalliini ühes stseenis, montaažina. See on filmi ainus koht, kus muusika on rõõmus.
+> Kaks kõrvalliini ühes stseenis, montaažina. See on filmi ainus koht, kus muusika on rõõmus — ja ta lõpeb enne stseeni, mitte koos temaga.
+
+> [!note] Miks ta kurb on
+> Johann ei ütle kordagi, mis viga on, ja seletust ei tule ka hiljem. Ainus asi, mida ta terve stseeni jooksul teeb, on üks ring ümber masina, mis enam ei liigu. Häbi kaadris on külaliste oma, mitte tema oma, ja just see teeb stseeni valusaks: nemad said aru enne teda ja tema ei pidanud selleks midagi tegema.
 
 ---
 
