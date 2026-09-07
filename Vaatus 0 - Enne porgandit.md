@@ -365,6 +365,16 @@ Vale pool on see pool, kus on punased.
 
 Sellest ei näidata ühtegi kaadrit.
 
+**KINOKROONIKA — MUSTVALGE**
+
+Kroonikatunnus, marss, kriimuline koopia. Kaader on kraavist: mudased rattad, kantavad haavatud, tankid, mis seisavad seal, kus nad seisma jäid. Loeb kiire mehehääl, kelle toon ei muutu kordagi.
+
+Kaader loetakse ette nii, nagu loetakse head uudist. Kaadris on kaotused, mida ükski hääl ära ei kata: rivid, mis ei liigu, ja mäenõlv, mille peale ei minda enam tagasi.
+
+Alla jookseb tiitel: **SINIMÄED · RINNE ON STABILISEERUNUD**.
+
+Kroonikas ei ole kaadrit mehest, kes tuli mäest alla valet nõlva mööda. Kroonika ei ole sellisest mehest kunagi kuulnudki.
+
 **VÄL. TALUÕU — SAMA SUVI**
 
 Kiiktool. Juhan istub tagasi. Sõda käib edasi ja tema enam kaasa ei lähe.
@@ -373,6 +383,9 @@ Rinne Sinimägedes seisab. Punased otsustavad rünnata mujalt.
 
 > [!note] Mida ei näidata
 > Lahingut ei ole ekraanil ega helis. Enne on mesi ja pärast on tool; vahepeal on lõige. Kogu töö teeb ära see, et me juba teame, mida see mees teeb, kui talle jalgu jäädakse.
+
+> [!note] Viies kirjapanek
+> Kroonika teeb sedasama, mida enne teda tegid pärgament, lõuend, Rooma ja hiljem Hollywood: paneb kirja midagi, mis on peaaegu õige. Kaotused on kaadris näha ja hääl nimetab neid stabiliseerumiseks — mitte vale, ainult vale sõna. Ja seekord ei ole kirjapanekus mitte ainult vale sõna, vaid ka puuduv mees. Juhan seda kroonikat ei näe ega tea, et ta selles ei ole.
 
 > [!note] Vale pool mäge
 > Ta ei lähe sinna sõdima ega otsusta midagi. Ta viib mett ja läheb koju valet nõlva mööda alla, sest mägi on üks mägi. Sellel poolel juhtub see, mis juhtub, ja rinne nihkub. Kogu Sinimägede lahingu tulemus filmi loogikas on üks vale pööre — ja mitte ükski tegelane, tiiter ega lause ei ütle seda kunagi välja.
