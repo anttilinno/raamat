@@ -148,6 +148,12 @@ Ta ei ütle midagi. See on ainus stseen terves filmis, kus tema lauset ei tule.
 
 **VÄL. NARVA SILD — TALV** · *beat: must töö*
 
+Enne seda on üks lõige, mis kestab paar sekundit: eesti vanemad istuvad ringis ja otsustavad. Me ei kuule, mida. Juhan seisab ringi taga ja kuulab lõpuni.
+
+Otsus on osalt rumal. Mitte täiesti — osalt, ja see on hullem.
+
+Ta ei vaidle, ei plahvata ega pea kõnet. Ta lakkab ootamast, ja seda ei ole näost näha.
+
 Ta teeb tööd neile, kes parasjagu käsivad. Põhiliselt idasuunal.
 
 Sild. Morn mees läheb üle. Sama sild, teine sajand, teine vorm valvuri seljas: morn mees läheb üle. Kolmas kord: valvur ei küsi enam midagi, sest kõik teavad juba seda meest.
@@ -191,6 +197,12 @@ Tagasi jõudes annab ta aru. [[Tegelased|Kirjutaja]] kastab sule ja ootab. Tiite
 > *— Juhan Taht*
 
 Rohkem ei küsita ja rohkem ta ei ütle. Kirjutaja paneb pärgamendile kirja pikema lause, kui öeldi, rullib kokku ja pitseerib.
+
+Mõned aastad hiljem võtavad venelased Eestimaa üle. Seda ei näidata: näidatakse ainult, kuidas Juhan paneb hangu kuuri seina äärde tagasi ja jääb seisma.
+
+Ta läheb erru. Erruminek näeb välja nii, et ta ostab kaks taru ja kannab need ise koju.
+
+Naaber tuleb vaatama ja paneb käe taru peale. Ainult korra. Lõige on lühike ja me ei näe, mis edasi saab; me näeme järgmises kaadris, et rohkem ei pane keegi.
 
 > [!note] Käsuta ta ei tee
 > See peab olema kaadris jäine ja täiesti tavaline: mitte kõhklus, mitte halastus, vaid tööreegel. Sama reegel murdub III vaatuses ühe juurvilja pärast ja seda ei kommenteeri keegi.
@@ -280,13 +292,35 @@ Laual on paberid. Pealmine on värske, tint pole veel päris kuiv: Molotov-Ribbe
 
 Juhan loeb selle läbi. Kaamera on paberil ja siis tema näol ja siis jälle paberil.
 
-Ta paneb selle käest.
+Paberi all on kaks lõikepilti, nagu neid pannakse toimikusse: kaks nägu, kaks allkirja.
+
+Esimene nägu. Tiitel: **JOSSIF STALIN, allakirjutanu**. Juhan vaatab seda niisama kaua, kui vaadatakse ilmateadet. Selle mehega ei aja ta asju, sest see on punane tibla, ja rohkem sellest ei räägita.
+
+Teine nägu. Tiitel: **ADOLF HITLER, allakirjutanu**. Selle pildi juures ta peatub.
+
+Toimikus on tema kohta ka muud: mees ei söö liha, ja mees on maalinud. Lõikepiltide vahel on üks reproduktsioon — akvarell, korralik maja, korralik perspektiiv, mitte ühtegi inimest.
+
+Juhan vaatab akvarelli kauem kui pakti.
+
+> — Taimetoitlane. Ja kunstnik.
+>
+> *— Juhan Taht*
+
+Rohkem diagnoosi ei tule ja rohkem ei ole vaja.
+
+Ta paneb pakti käest.
 
 Pätsiga on ta tülis. Keegi ei ole küsinud. Ilma küsimata ta ei tee.
 
 Ta võtab lambi, paneb mütsi pähe ja läheb välja. Uks jääb praokile. Paber jääb lauale.
 
 Mesilased tahavad talveks sööta.
+
+> [!note] Ainus arvamus
+> Juhan ei ütle terve filmi jooksul ühegi inimese kohta midagi hinnangulist peale nende kahe rea, ja mõlemad on siin. Stalinist saab poole lausega üle, sest tema on lihtsalt see, kes ta on. Hitleri juures ta peatub, ja peatub maali pärast, mitte poliitika pärast. Vaatus ei seleta seda kordagi ega anna talle õigust — mees, kes on üheksa tuhat aastat vaikinud, ütleb ühe diagnoosi ja eksib sellega ajaloo mastaabis nii rängalt, kui üldse eksida saab.
+
+> [!note] Akvarell ja lõuend
+> Teine kord kahe stseeni jooksul, kui maal ütleb tõtt, mida keegi ei loe. [[Vaatus 0 - Enne porgandit|0.6]] lõuendil oli töö, mida ei tehtud; siin on maja, kus ei ole ühtegi inimest. Juhan vaatab mõlemat korra ja läheb edasi. Kummalgi korral ei tee ta midagi ja mõlemal korral oleks pidanud.
 
 > [!note] Kaal
 > Kaal on tahtlikult vale ja seda ei paranda mitte keegi. Maailmasõda jääb vahele tüli pärast, mis käis herilaste üle. Kui keegi kaadris seda kaalu välja ütleks, oleks stseen naljanumber; kuna keegi ei ütle, on ta kohutav.
@@ -299,6 +333,10 @@ Mesilased tahavad talveks sööta.
 
 Kiiktool õue peal. Juhan istub.
 
+Enne kui keegi kuhugi jookseb, on üks kaader: telefon seinal. See ei helise.
+
+Ta ütles Pätsule, et see oli viimane kord. See ei olnud ähvardus, vaid ajakava.
+
 Maantee käib õuest mööda. Mööda jooksevad punased. Hiljem jooksevad mööda sakslased. Hiljem jooksevad mööda jälle punased.
 
 Suund muutub kolm korda. Tool ei muutu kordagi. Kaader on sama kaader, sama kõrgus, sama nurk, ainult valgus ja vorm on iga kord teine.
@@ -309,7 +347,7 @@ Siis tõuseb ta püsti, sest tal on asja.
 
 **VÄL. SINIMÄED — SUVI**
 
-Kraavid, savi, väsinud poisid, keeduvesi tulel. Juhan tuleb kohale ja annab üle kannu mett. Tee jaoks, sest tee ilma meeta ei ole tee.
+Kraavid, savi, väsinud poisid, keeduvesi tulel. Kaugel paremal on jõgi ja jõe peal sild — seesama sild, mida mööda ta paarsada aastat tagasi morni mehena üle ja tagasi käis. Kaamera ei näita seda eraldi ja keegi ei ütle selle kohta midagi. Juhan tuleb kohale ja annab üle kannu mett. Tee jaoks, sest tee ilma meeta ei ole tee.
 
 > — Aitäh.
 >
