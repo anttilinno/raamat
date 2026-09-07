@@ -34,7 +34,7 @@ Rivi möödub taludest. Väravate taga seisavad kohalikud ja vaatavad marssijate
 
 Lahing algab. Johann teeb Mosini vintpüssiga hüperstiliseeritud gun-fud: iga lukupäraliigutus on osa võttest, laadimine on löök, rihm on relv. Kaamera ei lõika — pikad plaanid, nagu peabki.
 
-Külainimesed tulevad appi. Poiss ragulkaga võtab maha valvuri. Ratastoolis vanaema võtab maha kolm meest ainult hea sõnaga — *hea sõna võidab võõra väe* — ja kaamera näitab seda kui täiesti tavalist relvasüsteemi.
+Külainimesed tulevad appi. Enne esimest lasku annab Johann sametkarbi üle poisile värava tagant — sõnadeta, nagu antakse edasi tööriist, mitte relv. Poiss võtab kadakast ragulka ja tõru pühast hiiest ning võtab maha valvuri. Tõrusid oli kuus. Kaamera ei rõhuta, aga õhtuks on karp tühi. Ratastoolis vanaema võtab maha kolm meest ainult hea sõnaga — *hea sõna võidab võõra väe* — ja kaamera näitab seda kui täiesti tavalist relvasüsteemi.
 
 Kuskil taamal tassitakse kedagi sauna. Uksepiidale ilmub käsi. Uks läheb kinni. Rohkem me sellest ei tea.
 

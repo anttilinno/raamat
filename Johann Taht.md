@@ -12,7 +12,7 @@ type: note
 
 > Metsavenna ballaad kolmes vaatuses, ühe hobuse ja kolmeharulise porgandiga.
 
-**Žanr:** märul / must komöödia · **Aeg:** 1956 (aasta on hägus — võib olla ka 1970, ENSV-s ei muutu midagi) · **Koht:** Ülemiste, Peipsi-äärsed alad
+**Žanr:** märul / must komöödia · **Aeg:** 1956 (aasta on hägus — võib olla ka 1970, ENSV-s ei muutu midagi) · **Koht:** Vabaduse väljak, Peipsi-äärsed alad
 **Keeled:** eesti, vene (3. klassi tasemel)
 
 ## Lühikokkuvõte

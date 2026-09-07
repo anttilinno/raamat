@@ -22,7 +22,9 @@ Johanni peas käib neoonis mürisev kõrgoktaaniline märul. Kõrvalvaataja jaok
 
 ## Vene keele õpik
 
-Kaagid räägivad omavahel puhast eesti keelt. Ähvardama hakates lülituvad puisele õpikuvenele — «Мой дядя очень любит морковь». Subtiitrid tõlgivad korrektselt ja seetõttu veel hullemini.
+Kaagid räägivad omavahel puhast eesti keelt. Ähvardama hakates lülituvad puisele õpikuvenele — «Мой дядя очень любит морковь».
+
+Subtiitrid ei tõlgi seda venet. Nad tõlgivad vestlust, mis tegelikult käib: turgu, hinda, keeldumist. Kumbki pool vahet ei märka. Publik kuuleb kolmandat klassi ja loeb tanklat.
 
 ## Küla, mitte kangelane
 
@@ -38,5 +40,6 @@ John Wick 1–4 · SISU · 1944 · Nimed marmortahvlil · Nähtamatu võitlus ·
 |---|---|
 | Koer | Paul Kerese võidupartii seis |
 | Kutsikas | «Kapsapea, minu nunnu» — kolmeharuline porgand |
+| Surnud naine, kes kutsika jättis | Turutüdruk, kelle nime Johann ei küsinud |
 | Kuldmündid / markerid | Porgandid |
 | Continental | Restoran, mis tegeleb varastatud juurviljaga |

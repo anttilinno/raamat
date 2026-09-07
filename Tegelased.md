@@ -32,7 +32,7 @@ Psühhootiliste vägivallahoogudega mäger. Kargab kallale igale NKVD-lasele, ke
 ## Dima
 *Kaak · Bolti kuller*
 
-Teenib elatist taksojuhina, mis on ainus põhjus, miks ta teab bunkrini viivat kõrvalteed. Räägib eesti keelt paremini kui Johann. Vene keelt mitte.
+Teenib elatist Bolti kullerina. Sõidab tuunitud elektritõuksiga — piiraja maha võetud, aku üle normi — ja see on ainus põhjus, miks ta teab bunkrini viivat kulleriteed ja pääseb sealt läbi. Räägib eesti keelt paremini kui Johann. Vene keelt mitte.
 
 ## Mäša
 *Zoja abikaasa · kodune*
@@ -42,4 +42,6 @@ Ei tea filmi sündmustest midagi. Teeb hommikusööki. Otsustab filmi lõpu ära
 ## Turutüdruk
 *Kõrvaltegelane · porgandimüüja*
 
-Punapõskne talutüdruk või hoopis pikkade jalgade, lühikese kleidi ja tikk-kontsadega näitsik — otsustatakse kaameraproovis. Tema kingitus paneb kogu loo käima.
+Näitsik toateenija kostüümis: must kleit, valge põll, lühike. Peas sinimustvalge tanu. Jalas mustad võrksukad ja nende otsas viisud. Kostüüm on täiesti tõsine, sest tema jaoks on see tööriietus ja rohkem seda ei seletata.
+
+Käitub nagu turumüüja, mitte nagu naljanumber. Kaalub, annab raha tagasi, kurdab ilma üle. Tema kingitus paneb kogu loo käima.

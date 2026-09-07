@@ -131,10 +131,13 @@ def render_quote(lines, doc_ids):
         while body and not body[-1].strip():
             body.pop()
 
-    lines_html = "".join(
-        f'<span class="line">{inline(l, doc_ids)}</span>' if l.strip() else ""
-        for l in body
-    )
+    def line_html(l):
+        # A line wrapped whole in *asterisks* is a subtitle under the line above.
+        if len(l) > 2 and l.startswith("*") and l.endswith("*"):
+            return f'<span class="line sub">{inline(l[1:-1], doc_ids)}</span>'
+        return f'<span class="line">{inline(l, doc_ids)}</span>'
+
+    lines_html = "".join(line_html(l) for l in body if l.strip())
     out = f'<blockquote class="dialogue">{lines_html}'
     if attrib:
         out += f'<footer>{inline(attrib, doc_ids)}</footer>'
@@ -323,6 +326,8 @@ blockquote.dialogue{margin:1.6rem 0;padding:1rem 0 1rem 1.3rem;
   border-left:2px solid var(--accent);background:var(--quote);
   padding-right:1.1rem;border-radius:0 3px 3px 0}
 blockquote.dialogue .line{display:block;margin:0 0 .35rem}
+blockquote.dialogue .sub{font-size:.84rem;color:var(--muted);
+  font-style:normal;margin:0 0 .8rem;padding-left:1.1em}
 blockquote.dialogue footer{margin-top:.7rem;font-size:.82rem;color:var(--muted);
   font-style:italic}
 aside.callout{margin:1.6rem 0;padding:.95rem 1.15rem;border-radius:4px;
@@ -369,9 +374,10 @@ def build():
             sys.exit(f"missing source file: {path}")
         docs[stem] = path.read_text(encoding="utf-8")
 
-    # README is repo documentation, not a chapter.
+    # Repo documentation, not chapters.
+    DOCS = {"README", "AGENT", "CLAUDE"}
     extra = sorted(
-        p.stem for p in SRC.glob("*.md") if p.stem not in ORDER and p.stem != "README"
+        p.stem for p in SRC.glob("*.md") if p.stem not in ORDER and p.stem not in DOCS
     )
     if extra:
         print(f"warning: not in ORDER, skipped: {', '.join(extra)}", file=sys.stderr)
