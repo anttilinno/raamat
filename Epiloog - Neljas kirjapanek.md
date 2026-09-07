@@ -21,7 +21,7 @@ Buss. Ametlik delegatsioon, tõlk, kaks meest halkides ülikondades, kes ei ole 
 
 Näidiskolhoos on pühitud puhtaks. Traktorid on pestud, lehmad on valitud, aed on värvitud eile.
 
-Delegatsiooni sees on ameeriklane. Ta on filmistaar, aga siin ei tea seda peale tõlgi mitte keegi, ja tõlk ei ütle midagi. Ta on tulnud siia sellepärast, et teda toodi.
+Delegatsiooni sees on ameeriklane. See on [[Tegelased|Richard Gere]] ja ta mängib iseennast. Tiitel: **RICHARD GERE, külaline** — ainus tiiter terves epiloogis. Siin ei tea seda peale tõlgi mitte keegi, ja tõlk ei ütle midagi. Ta on tulnud siia sellepärast, et teda toodi.
 
 Ta jääb grupist maha. Läheb aia taha, kus keegi ei näita midagi ette.
 
@@ -81,4 +81,4 @@ Kaamera ei näita, mis paberile jääb.
 > Kogu [[Toon ja viited|võtmetabel]] pööratakse siin ümber. Publik on terve filmi arvanud, et see lugu on John Wicki eestindus. Epiloog ütleb, ilma seda välja ütlemata, et John Wick on selle loo amerikaniseering — ja et originaalis oli koera asemel porgand, sest originaalis oli tegemist mehega, kellel ei olnud koera.
 
 > [!note] Kuidas seda mängida
-> Mitte ühtegi silmapilgutust. Ameeriklast ei nimetata nimepidi, tiitrites on ta «külaline», ja kui ta on äratuntav, siis on ta äratuntav vaikides. Kui keegi kaadris ütleb «John Wick», on epiloog rikutud.
+> Mitte ühtegi silmapilgutust. Nimi on tiitrites, mitte kaadris: ükski tegelane ei ütle seda välja, keegi ei tunne teda ära ja keegi ei küsi autogrammi. Täpselt nii nagu Ostratiga [[Vaatus II - Blingimine ja varustamine|5. stseenis]], kus samuti ei maini keegi, kes ta on. Kui keegi kaadris ütleb «John Wick», on epiloog rikutud.

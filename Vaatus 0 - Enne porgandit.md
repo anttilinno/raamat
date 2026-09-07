@@ -9,9 +9,11 @@ type: note
 
 # Vaatus 0 — Enne porgandit
 
-Eellugu. Kümme stseeni, üheksa tuhat aastat, kokku alla veerandtunni. Vt [[Johann Taht]] · [[Johann Taht - paritolu]]
+Eellugu. Üksteist stseeni, üheksa tuhat aastat, kokku alla veerandtunni. Vt [[Johann Taht]] · [[Johann Taht - paritolu]]
 
 Reegel, mis kehtib terve vaatuse: **ülimalt üks lause stseeni kohta**, ja enamasti mitte ühtegi. Ei seletata, ei jutustata, jutustajahäält ei ole. Aastaarve ekraanile ei kirjutata mitte kordagi.
+
+Nimed käivad tiitritega. Iga ajalooline nägu saab all vasakus servas tiitri — sama kiri, sama koht, sama rahulik kaks sekundit nagu [[Vaatus II - Blingimine ja varustamine|Aktuaalse kaamera]] omadel, ainult tuhandeid aastaid liiga vara. Keegi kaadris ei reageeri sellele kordagi. **Johann tiitrit ei saa.** Terve vaatuse jooksul mitte ühtegi.
 
 ---
 
@@ -67,7 +69,9 @@ Sellepärast on Johann siin. Ta seisab viskejoone kõrval ja ütleb, mis toimub,
 
 Ta töötab hästi. Nimetab viskaja, nimetab kauguse, nimetab vahe. Hääl on ühtlane ja rahulik ning täiesti tohutu.
 
-Kalevipoeg viskab. Kivi läheb kaugele.
+[[Tegelased|Kalevipoeg]] astub joonele. Alla jookseb tiitel: **KALEVIPOEG, kuningakandidaat**.
+
+Ta viskab. Kivi läheb kaugele.
 
 > — Vise oli tugev. Nurk oli madal.
 >
@@ -83,7 +87,7 @@ Kivi maandub. Keegi ei plaksuta. Kalevipoeg vaatab viskejoone poole ja Johann ei
 
 Aastad on läinud. Jõgi on madal.
 
-Kalevipoeg on vees ja tema oma mõõk on vee all. Juhtub see, mis juhtub. Kaamera on kaldal, kaugel, ja ei lähe lähemale.
+Kalevipoeg on vees ja tema oma mõõk on vee all. Tiitel tuleb ka siia, sama rahulikult: **KALEVIPOEG, kuningas**. Juhtub see, mis juhtub. Kaamera on kaldal, kaugel, ja ei lähe lähemale.
 
 Verd kannab allavoolu. Kaal kaob koos verega.
 
@@ -111,7 +115,9 @@ Ta pöörab ümber ja läheb. Matustele ta ei lähe, sest teda ei kutsutud.
 
 **VÄL. RANNIK — PÄEV** · *beat: giid*
 
-Võõras mees kirjutuslaudadega. Küsib.
+Võõras mees kirjutuslaudadega. Tiitel: **[[Tegelased|CORNELIUS TACITUS]], ajaloolane**.
+
+Ta küsib. Johanni alla ei jookse midagi ja keegi ei märka, et midagi puudu on.
 
 Johann vastab. Ühe sõnaga korraga, täpselt, ilma järjeta, nii nagu ta vastab kolmkümmend seitse põlvkonda hiljem [[Vaatus II - Blingimine ja varustamine|Aktuaalse kaamera]] reporterile.
 
@@ -154,9 +160,13 @@ Ta on positsioonil olnud pärastlõunast saati. Lamab liikumatult, hingab aeglas
 
 Relv on hang.
 
-Missiooniga on kaasas kunstnik, sest töö teostamine tuleb jäädvustada. Molbert seisab kolm sammu positsiooni taga, lõuend on pingutatud, värvid on segatud juba enne pimedat. Kunstnik töötab vaikselt ja aeglaselt, sest aega on.
+Missiooniga on kaasas [[Tegelased|kunstnik]], sest töö teostamine tuleb jäädvustada. Molbert seisab kolm sammu positsiooni taga, lõuend on pingutatud, värvid on segatud juba enne pimedat. Kunstnikul on üle kuue tõmmatud vest ja vesti seljal on suur silt: **KUNSTNIK**.
 
-Sihik on paigas. Sihiku otsas on Peeter Esimene, tuli selja taga, täiesti kaitsetu. Objekt on tuvastatud. Kaugus on hea. Tuult ei ole.
+Vest on selleks, et oma mehed teda pimedas maha ei võtaks. Süsteem töötab: teda ei võeta maha. Kunstnik töötab vaikselt ja aeglaselt, sest aega on.
+
+Sihik on paigas. Sihiku otsas on [[Tegelased|Peeter Esimene]], tuli selja taga, täiesti kaitsetu. Tiitel tuleb sihiku sisse: **PEETER I, objekt**.
+
+Objekt on tuvastatud. Kaugus on hea. Tuult ei ole.
 
 Ta ootab luba.
 
@@ -174,7 +184,7 @@ Ta tõmbub tagasi täpselt mööda seda teed, mida mööda ta tuli, ega jäta en
 
 Luba ise oleks tulnud pärgamendil, vahakärbisega, kolm päeva hobuse seljas. Nii käib side.
 
-Tagasi jõudes annab ta aru. Kirjutaja kastab sule ja ootab.
+Tagasi jõudes annab ta aru. [[Tegelased|Kirjutaja]] kastab sule ja ootab. Tiitel: **KIRJUTAJA, kroonik**.
 
 > — Objekt oli sihikul.
 >
@@ -193,7 +203,50 @@ Rohkem ei küsita ja rohkem ta ei ütle. Kirjutaja paneb pärgamendile kirja pik
 
 ---
 
-## 0.7. Mesila
+## 0.7. Dresiin
+
+**VÄL. RAUDTEE — TALV** · *beat: selg*
+
+Kakssada aastat on ta mesilas olnud ja mesilast välja tulnud ainult sööta ostma.
+
+Nüüd on lumi, nüüd on rööpad, nüüd on sõda, mille lõpus võib tulla riik.
+
+Soomusrong seisab. Tiitel: **SOOMUSRONG, seisab**. Vedur on külm, kivisütt ei ole ja mehed on vagunite peal — kolmsada tonni rauda, kahurid, kuulipildujad, kõik olemas ja mitte midagi ei liigu.
+
+Johann tuleb mööda rööpaid kohale. Kellelegi ta ennast ei tutvusta.
+
+Ta läheb rongi ette, võtab käsidresiini, seob selle raudrongi külge ja hakkab kangi vajutama. Üles-alla. Aeglaselt.
+
+Rong hakkab liikuma.
+
+Kaamera ei tee sellest suurt asja: lai plaan, talvine metsaserv, üks mees pumpab kangi ja tema taga tuleb terve soomusrong. Kiirus on jalakäija kiirus. Kiirus jääb jalakäija kiiruseks kogu sõja jooksul.
+
+Vagunilt küsib keegi poiss midagi, sest kõik teised vaikivad.
+
+> — Mis te tsiviilis olete?
+> — Mesinik.
+>
+> *— soldat ja Johann Taht*
+
+Punased tulevad vastu. Alguses ettevaatlikult, siis ülemeelikult, sest neid on palju ja rong sõidab jalgsi.
+
+Johann kummardub, võtab lund ja hakkab loopima.
+
+Lumepallid on täpsed. Mehed lähevad katuselt maha, mehed lähevad kraavi, mehed lähevad tagasi sinna, kust tulid. Ühtegi lasku ei tehta ja ühtegi käsku ei anta. Kangi vajutamises ei tule pausi.
+
+Rong läheb edasi.
+
+Pärast Tartu rahu paneb ta dresiini tagasi sinna, kust võttis, ja läheb tarude juurde.
+
+> [!note] Selg sirgu
+> See on ainus kord üheksa tuhande aasta jooksul, kui ta läheb kaasa millegagi, mis on suurem kui üks inimene, ja ta ei tee sellest sündmust. Ta ei astu kellegi teenistusse, ei saa auastet ega kanna vormi. Ta lihtsalt veab rongi, sest rong seisab.
+
+> [!note] Lumepallid
+> Ülemeelikuse eest saab lumepalli, mitte kuuli. Nii püsib vaatuse loogika terve: [[Vaatus 0 - Enne porgandit|0.6]] näitas, et käsuta ta ei tapa, ja siin ei ole käsku andjat olemaski. Lahingut ei võideta relvaga, vaid sellega, et vastane otsustab ära minna — täpselt nagu Sinimägedes 0.10. stseenis.
+
+---
+
+## 0.8. Mesila
 
 **VÄL. MESILA — SUVI** · *beat: mesi*
 
@@ -201,7 +254,7 @@ Rahu. Tarud, suits, aeglane liikumine. Vabariik on olemas ja mees on erus.
 
 Johann töötab lahtise taru juures ilma võrguta. Mesilased käivad üle käte ja üle näo. Ta ei kiirusta ega vehi.
 
-Auto tuleb koduteed mööda. Kadriorust. Mees autost seletab piinlikult ja pikalt; me ei kuule sõnu, näeme ainult käsi. Kuskil on tualett ja kuskil on presidendi auraha, mis läks alla.
+Auto tuleb koduteed mööda. Kadriorust. Autost tuleb [[Tegelased|Konstantin Päts]] ise, mitte käskjalg. Tiitel: **KONSTANTIN PÄTS, president**. Ta seletab piinlikult ja pikalt; me ei kuule sõnu, näeme ainult käsi. Kuskil on tualett ja kuskil on presidendi auraha, mis läks alla.
 
 Lõige: Johann tuleb kummuli, käised üleval, ja annab auraha üle. Puhas. Ta ei küsi, kuidas see juhtus.
 
@@ -219,7 +272,7 @@ Telefon ei helise. Ta läheb tagasi tarude juurde.
 
 ---
 
-## 0.8. Paber
+## 0.9. Paber
 
 **SISE. MESINIKU TUBA — ÖÖ** · *beat: paber*
 
@@ -240,7 +293,7 @@ Mesilased tahavad talveks sööta.
 
 ---
 
-## 0.9. Tool
+## 0.10. Tool
 
 **VÄL. TALUÕU — NELI AASTAAEGA** · *beat: tool*
 
@@ -275,7 +328,7 @@ Kiiktool. Johann istub tagasi. Sõda käib edasi ja tema enam kaasa ei lähe.
 
 ---
 
-## 0.10. Vanker
+## 0.11. Vanker
 
 **VÄL. MAANTEE — HOMMIK** · *beat: üleminek*
 
@@ -293,6 +346,12 @@ Ta keerab linna poole.
 > Vaatus 0 lõpeb täpselt seal, kust film algab, ja ei anna 1. stseenile ühtegi uut infot — annab ainult kaalu. Sama drift, sama hobune, sama poiss risti all. Publik teab nüüd, kes seal vankri peal istub, ja mitte ükski tegelane ei tea seda kunagi.
 
 ---
+
+> [!note] Tiitrid
+> Tiitel on riigi žest: riik ütleb, kes sa oled. Vaatuses 0 saab selle igaüks peale Johanni — kuningas, ajaloolane, tsaar, president, isegi kirjutaja ja kunstnik vesti peal. Johanni all ei jookse mitte kordagi midagi. Esimene kord, kui film ta nime kirja paneb, on 5. stseeni Aktuaalses kaameras, ja see on vale nimi. Üheksa tuhat aastat ilma tiitrita, siis üks tiiter, ja see on **JOHANNES TÄHT, aednik**.
+
+> [!note] Vest
+> Ainus kord, kui nimesilt on kaadris eseme, mitte tiitrina. Ta töötab täpselt nii, nagu tänapäeval töötab helkurvest: et omad sind pimedas ära tunneksid. Seda ei kommenteerita ja kaamera ei jää selle peale seisma — vest on lihtsalt olemas, nagu hang on relv ja pärgament on side.
 
 > [!note] Miks see vaatus töötab ainult vaikides
 > Materjal on suur: jääaeg, kuningas, püramiidid, Rooma, katk, tsaar, president, pakt, sõda. Kui keegi hakkab seda seletama, muutub Johann superkangelaseks ja film sureb ära. Sellepärast on reegel üks lause stseeni kohta, sellepärast ei ole jutustajat ja sellepärast ei ole ekraanil ühtegi aastaarvu. Vaataja paneb ise kokku ja eksib kohati — see on lubatud.

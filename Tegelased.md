@@ -52,3 +52,42 @@ Ei tea filmi sündmustest midagi. Teeb hommikusööki. Otsustab filmi lõpu ära
 Näitsik toateenija kostüümis: must kleit, valge põll, lühike. Peas sinimustvalge tanu. Jalas mustad võrksukad ja nende otsas viisud. Kostüüm on täiesti tõsine, sest tema jaoks on see tööriietus ja rohkem seda ei seletata.
 
 Käitub nagu turumüüja, mitte nagu naljanumber. Kaalub, annab raha tagasi, kurdab ilma üle. Tema kingitus paneb kogu loo käima.
+
+## Vaatuse 0 ja epiloogi näod
+
+Kõik nad saavad tiitri. Johann ei saa. Vt [[Vaatus 0 - Enne porgandit]] · [[Epiloog - Neljas kirjapanek]]
+
+### Kalevipoeg
+*Tiitel: KALEVIPOEG, kuningakandidaat → KALEVIPOEG, kuningas*
+
+Viskab kaugele ja madalalt. Solvub kahe lause peale, millest esimene on kiitus, ega lepi kuni surmani. Sureb terariista vale käsitsemise tagajärjel; sihtimissüsteem töötas, viga oli oma-võõra eristuses.
+
+### Cornelius Tacitus
+*Tiitel: CORNELIUS TACITUS, ajaloolane*
+
+Küsib täpseid küsimusi ja kirjutab üles midagi muud. Ei ole pahatahtlik, on lihtsalt roomlane. Tema tõttu on Johann tööl tuhat kakssada aastat.
+
+### Peeter I
+*Tiitel: PEETER I, objekt*
+
+Terve stseeni sihikul, ilma et ise sellest kunagi teada saaks. Jääb elama, sest käsku ei tule.
+
+### Kirjutaja
+*Tiitel: KIRJUTAJA, kroonik*
+
+Paneb pärgamendile pikema lause, kui öeldi. Teeb seda ilusti ja heas usus.
+
+### Kunstnik
+*Tiitel: vesti seljal, suurelt: KUNSTNIK*
+
+Jäädvustab operatsiooni molberti taga, kolm sammu positsioonist. Maalib töö valmis enne, kui otsustatakse, kas seda tehakse. Vest on selleks, et omad teda pimedas maha ei võtaks.
+
+### Konstantin Päts
+*Tiitel: KONSTANTIN PÄTS, president*
+
+Kaotas auraha Kadrioru tualetti ja sai selle tagasi. Ei küsinud kunagi vapside kohta nõu mesinikult, kes oleks osanud vastata.
+
+### Richard Gere
+*Tiitel: RICHARD GERE, külaline · mängib iseennast*
+
+Jääb delegatsioonist maha ja satub mesila juurde. Kuuleb ühte lauset, mida publik ei kuule. Räägib selle aastaid hiljem Los Angeleses edasi ja sealt tuleb välja midagi muud.

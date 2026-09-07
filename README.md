@@ -11,7 +11,7 @@ Nad võtsid tal porgandi. Aga ajasid sassi ka malelaua.
 
 | Vaatus | Stseenid | Staatus |
 |---|---|---|
-| [0 — Enne porgandit](Vaatus%200%20-%20Enne%20porgandit.md) | 0.1–0.10 | visand |
+| [0 — Enne porgandit](Vaatus%200%20-%20Enne%20porgandit.md) | 0.1–0.11 | visand |
 | [I — Taht süttib](Vaatus%20I%20-%20Taht%20s%C3%BCttib.md) | 1–4 | visand |
 | [II — Blingimine ja varustamine](Vaatus%20II%20-%20Blingimine%20ja%20varustamine.md) | 5–9 | visand |
 | [III — Peipsi arveteklaarimine](Vaatus%20III%20-%20Peipsi%20arveteklaarimine.md) | 10–12 | visand |
