@@ -9,7 +9,7 @@ type: note
 
 # Vaatus III — Peipsi arveteklaarimine
 
-Tartu rahulepingu piirid. Kolm stseeni ja üks omlett. Vt [[Johann Taht]]
+Tartu rahulepingu piirid. Kolm stseeni ja üks omlett. Vt [[Juhan Taht]]
 
 ---
 
@@ -32,9 +32,9 @@ Rivi möödub taludest. Väravate taga seisavad kohalikud ja vaatavad marssijate
 
 **VÄL. KÜLA — PÄEV** · *beat: lahing*
 
-Lahing algab. Johann teeb Mosini vintpüssiga hüperstiliseeritud gun-fud: iga lukupäraliigutus on osa võttest, laadimine on löök, rihm on relv. Kaamera ei lõika — pikad plaanid, nagu peabki.
+Lahing algab. Juhan teeb Mosini vintpüssiga hüperstiliseeritud gun-fud: iga lukupäraliigutus on osa võttest, laadimine on löök, rihm on relv. Kaamera ei lõika — pikad plaanid, nagu peabki.
 
-Külainimesed tulevad appi. Enne esimest lasku annab Johann sametkarbi üle poisile värava tagant — sõnadeta, nagu antakse edasi tööriist, mitte relv. Poiss võtab kadakast ragulka ja tõru pühast hiiest ning võtab maha valvuri. Tõrusid oli kuus. Kaamera ei rõhuta, aga õhtuks on karp tühi. Ratastoolis vanaema võtab maha kolm meest ainult hea sõnaga — *hea sõna võidab võõra väe* — ja kaamera näitab seda kui täiesti tavalist relvasüsteemi.
+Külainimesed tulevad appi. Enne esimest lasku annab Juhan sametkarbi üle poisile värava tagant — sõnadeta, nagu antakse edasi tööriist, mitte relv. Poiss võtab kadakast ragulka ja tõru pühast hiiest ning võtab maha valvuri. Tõrusid oli kuus. Kaamera ei rõhuta, aga õhtuks on karp tühi. Ratastoolis vanaema võtab maha kolm meest ainult hea sõnaga — *hea sõna võidab võõra väe* — ja kaamera näitab seda kui täiesti tavalist relvasüsteemi.
 
 Kuskil taamal tassitakse kedagi sauna. Uksepiidale ilmub käsi. Uks läheb kinni. Rohkem me sellest ei tea.
 
@@ -44,7 +44,7 @@ Kuskil taamal tassitakse kedagi sauna. Uksepiidale ilmub käsi. Uks läheb kinni
 
 **VÄL. LAHINGUVÄLI · SISE. ZOJA KÖÖK — PÄEV** · *beat: kulminatsioon*
 
-Johann ripub [[Tegelased|Zoja]] seljas ja üritab teda kägistada. Muri on hammastega kinni ta sääres. Zoja kõnnib edasi, nagu neid poleks. Ta nägu on beebiverest punane. Ta astub rukkilillele. Võita ei ole võimalik.
+Juhan ripub [[Tegelased|Zoja]] seljas ja üritab teda kägistada. Muri on hammastega kinni ta sääres. Zoja kõnnib edasi, nagu neid poleks. Ta nägu on beebiverest punane. Ta astub rukkilillele. Võita ei ole võimalik.
 
 Lõige. Zoja köök. Mäša teeb hommikusööki. Ta ei tea sõjast midagi. Ta otsib kapist muna, võtab vale metallkarbi, milles on Zoja hing — Kaštšei muna — ja lööb selle pannile.
 

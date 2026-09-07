@@ -20,16 +20,16 @@ Pärast Tartu rahu läks tagasi mesilaste juurde ja ei tulnud sealt enam välja.
 
 Seosed, mida tasub hoida:
 - «Käsuta ta ei tee» on sama mees, kes hiljem läheb välja ilma käsuta, porgandi pärast. Vahe on selles, kelle asi see on.
-- Mesilased on porgandi eelkäija: väike asi, mille eest ta tuleb välja. Statham teeb seda vihaga, Johann ei tõsta häält.
+- Mesilased on porgandi eelkäija: väike asi, mille eest ta tuleb välja. Statham teeb seda vihaga, Juhan ei tõsta häält.
 - Lumepallid ja hangusarved: ta ei tapa kunagi rohkem, kui talle öeldud või kui asi nõuab. Ülemeelikuse eest saab lumepalli.
 - Katku pool päeva: ainus kord, kui ta on töölt varem ära tulnud. Tacituse giiditöölt ei tulnud ta ära tuhat kakssada aastat.
 
 Päts:
 
 Tülli läksid ühe asja pärast: Päts ei konsulteerinud temaga vapside teemal. Mitte ei küsinud ja tegi valesti — lihtsalt ei küsinud.
-Ja Johann oli sel ajal juba mesinik. Herilased, vaablased, vapsid — see on kolm asja, mille kohta tal on päris teadmised ja mille kohta teda ei ole kunagi keegi midagi küsinud.
+Ja Juhan oli sel ajal juba mesinik. Herilased, vaablased, vapsid — see on kolm asja, mille kohta tal on päris teadmised ja mille kohta teda ei ole kunagi keegi midagi küsinud.
 Ta ei pakkunud ka ise. Nõu andmine ilma küsimiseta on tema jaoks sama, mis käsuta tapmine.
-Enne seda oli ta Pätsu korra aidanud: presidendi auraha oli Kadrioru tualetist kogemata alla lastud. Johann käis järel ja tõi ära. Ei küsinud, kuidas see juhtus.
+Enne seda oli ta Pätsu korra aidanud: presidendi auraha oli Kadrioru tualetist kogemata alla lastud. Juhan käis järel ja tõi ära. Ei küsinud, kuidas see juhtus.
 Auraha tagasi andes ütles ta ainsa lause, mis nende vahel üldse teadaolevalt öeldud on: «Olgu see viimane kord, kui ma sind aitan.»
 See ei olnud ähvardus, vaid ajakava. 1940. aastal ei helistanud keegi ja ta ei tulnud.
 

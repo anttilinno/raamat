@@ -9,7 +9,7 @@ type: note
 
 # Vaatus II — Blingimine ja varustamine
 
-Süsteem saab teada, kelle porgand see oli. Viis stseeni. Vt [[Johann Taht]]
+Süsteem saab teada, kelle porgand see oli. Viis stseeni. Vt [[Juhan Taht]]
 
 ---
 
@@ -21,7 +21,7 @@ Kõrgklassi restoran, mis tegeleb musta turu juurviljaga. Valge lina, vaikne kla
 
 Laud number neli palub arve. Ettekandja toob hõbetaldriku. Külaline paneb sellele ühe kuldmündi — Nikolai II, kümme rubla — ja ettekandja kannab taldriku ära. Arvet ei toodud. Raha tagasi ei anta. Keegi ei loe midagi üle. Kaamera ei selgita ega tule selle juurde tagasi.
 
-Köögi taga on teine ruum: kaalud, kastid, madal lauavalgus, mees valges kitlis. See on [[Tegelased|Joel Ostrat]]. Ta mängib iseennast ja seda ei seleta keegi. Ta on rahulik täpselt samamoodi nagu Johann ja see sarnasus jääb publikule kripeldama kogu ülejäänud filmiks.
+Köögi taga on teine ruum: kaalud, kastid, madal lauavalgus, mees valges kitlis. See on [[Tegelased|Joel Ostrat]]. Ta mängib iseennast ja seda ei seleta keegi. Ta on rahulik täpselt samamoodi nagu Juhan ja see sarnasus jääb publikule kripeldama kogu ülejäänud filmiks.
 
 [[Tegelased|Dima]] toob koti sisse ja paneb lauale. Küsib teenust.
 
@@ -33,7 +33,7 @@ Ostrat ei vasta. Paneb kindad kätte ja avab koti. Kaamera on kätel ja see kest
 
 Kotis on üks porgand.
 
-Ostrat vaatab kotti veel korra, sest niimoodi ei tooda kaupa. Siis tõstab porgandi välja kahe käega — täpselt sama haardega, nagu Johann teda turul vastu võttis. Kolm haru, keskmine lühem kui teised. Võtab taskurätiku ja paneb porgandi ettevaatlikult sellele.
+Ostrat vaatab kotti veel korra, sest niimoodi ei tooda kaupa. Siis tõstab porgandi välja kahe käega — täpselt sama haardega, nagu Juhan teda turul vastu võttis. Kolm haru, keskmine lühem kui teised. Võtab taskurätiku ja paneb porgandi ettevaatlikult sellele.
 
 Ja alles siis pöördub ümber.
 
@@ -67,20 +67,20 @@ Sama turg, mille juurest me 2. stseenis lahkusime. Võttegruppi me siis ei näin
 
 Reporter mantlis, mikrofon tuules. Ta ütleb «Võidu väljak» — ta on ainus terves filmis, kes seda nime kasutab, ja ta ütleb seda ilma vähimagi kõhkluseta.
 
-Kaadrisse astub Johann. Käes porgand.
+Kaadrisse astub Juhan. Käes porgand.
 
 > — Kodanik, mis teil käes on?
 > — Porgand.
 >
-> *— Reporter ja Johann · Aktuaalne kaamera*
+> *— Reporter ja Juhan · Aktuaalne kaamera*
 
-Reporter ootab järge. Järge ei tule. Johann seisab, hoiab porgandit kahe käega ja vaatab kaamerasse nagu inimene, kes on küsimusele juba vastanud.
+Reporter ootab järge. Järge ei tule. Juhan seisab, hoiab porgandit kahe käega ja vaatab kaamerasse nagu inimene, kes on küsimusele juba vastanud.
 
 Paus venib. Operaator ei tea, kas lõigata. Ei lõika.
 
 Alla jookseb tiitel: **JOHANNES TÄHT, aednik**. Kaks täppi ja üks liide, mida keegi ei palunud.
 
-Johann ei paranda seda, sest kui ta parandaks, siis vahetuks võim.
+Juhan ei paranda seda, sest kui ta parandaks, siis vahetuks võim.
 
 Kaamera tõmbub tagasi. Me ei ole väljakul. Me oleme restorani saalis ja vaatame televiisorit — vabariigis on neid vähe ja selles majas on üks. Toolid on ette tõstetud, kokad seisavad ukse peal, laud number neli on pooleli. Ostrat seisab kõige taga ega istu maha.
 
@@ -88,7 +88,7 @@ Ekraanil seisab mees, kes hoiab porgandit kahe käega.
 
 Lõige tagasi kööki. Laual on lahti jäänud taskurätik ja kott teisel pool lauda.
 
-> — Sest see on Johann Tahi porgand.
+> — Sest see on Juhan Tahi porgand.
 >
 > *— Ostrat*
 
@@ -132,7 +132,7 @@ Ostrat kuivatab käed lõpuni ära, enne kui võtab. See võtab aega. Suures val
 > — Zoja siin. Kuulsin, et sa lõid mu meest.
 > — Jah, lõin.
 > — Tohin ma küsida, miks?
-> — Sest ta võttis Johann Tahi porgandi. Ja ajas sassi tema malelaua.
+> — Sest ta võttis Juhan Tahi porgandi. Ja ajas sassi tema malelaua.
 >
 > *— Ostrat ja Zoja · telefonis*
 
@@ -155,7 +155,7 @@ Dima viiakse tagauksest välja täiesti viisakalt, nagu purjus külaline, ja uks
 > Riik ei kirjuta tema nime valesti, ta üritab teda kustutada. Kaadris ei kommenteeri seda keegi.
 
 > [!note] Ülesehitus
-> Stseen ei ehita Johannile mainet sõnadega, vaid sellega, kuidas teised inimesed ruumi liiguvad. Otsest väidet Johanni kohta ei tule kordagi — ainus vastus käib Dima kohta, mitte tema kohta. Kes ta *on*, öeldakse alles järgmises stseenis.
+> Stseen ei ehita Juhanile mainet sõnadega, vaid sellega, kuidas teised inimesed ruumi liiguvad. Otsest väidet Juhani kohta ei tule kordagi — ainus vastus käib Dima kohta, mitte tema kohta. Kes ta *on*, öeldakse alles järgmises stseenis.
 
 > [!note] Raha
 > Nikolai kuldmünt on selle maailma valuuta ja seda ei seletata kordagi. Ta ostab lauda, vaikimist, inimest. Porgand on hindamatu — mitte kallis, vaid hinnata. Ostratil on kogu maja kullas ja just sellepärast lükkab ta ühe juurvilja tagasi üle laua: tal ei ole millegagi maksta.
@@ -174,7 +174,7 @@ Toas on kuus meest. [[Tegelased|Dima]] tuuakse sisse.
 
 Zoja ei löö teda. Ta ei tõsta häält. Ta teeb hullemat: ta hakkab seletama, ja ta seletab seda oma meestele, mitte Dimale.
 
-> — Johann Taht võitis künnivõistluse viis aastat järjest.
+> — Juhan Taht võitis künnivõistluse viis aastat järjest.
 >
 > *— Zoja*
 
@@ -212,10 +212,10 @@ Zoja vaatab teda pikalt. Kuusteist aastat tagasi õpetas ta sellele poisile, mis
 >
 > *— Zoja*
 
-Ta ei ütle rohkem midagi. Võtab lusika ja jätkab söömist täpselt sealt, kust pooleli jäi, ja räägib toidust kahe lausega samas registris, milles ta äsja rääkis Johannist — aastakäik, nõlv, bukett. Hõbe koputab vastu taldrikuserva. Mehed kuulavad viisakalt. Keegi ei küsi, mis supi sees on.
+Ta ei ütle rohkem midagi. Võtab lusika ja jätkab söömist täpselt sealt, kust pooleli jäi, ja räägib toidust kahe lausega samas registris, milles ta äsja rääkis Juhanist — aastakäik, nõlv, bukett. Hõbe koputab vastu taldrikuserva. Mehed kuulavad viisakalt. Keegi ei küsi, mis supi sees on.
 
 > [!note] Müüt
-> See on filmi ainus stseen, kus keegi Johanni kohta midagi otse ütleb. Kõik faktid on põllumajanduslikud ja mitte ükski neist ei ole vägivaldne — hirm tuleb sellest, kuidas neid ette kantakse. Vägivalda ei mainita, sest publik teeb selle töö ise ära.
+> See on filmi ainus stseen, kus keegi Juhani kohta midagi otse ütleb. Kõik faktid on põllumajanduslikud ja mitte ükski neist ei ole vägivaldne — hirm tuleb sellest, kuidas neid ette kantakse. Vägivalda ei mainita, sest publik teeb selle töö ise ära.
 
 > [!note] Boršš ja rist
 > Boršš on nähtav, punane ja täiesti tavaline. Just sellepärast saab Zoja rääkida aastakäigust ja nõlvast, ilma et keegi peaks midagi ümber lükkama — kaader pakub kohe süütu seletuse ja publik valib ise, kumba ta usub. Risti ei kommenteerita samal põhjusel, millega ei kommenteerita turutüdruku kostüümi: kandja jaoks on see tööriietus.
@@ -229,7 +229,7 @@ Ta ei ütle rohkem midagi. Võtab lusika ja jätkab söömist täpselt sealt, ku
 
 **SISE. BUNKER · VÄL. KUUR — PÄEV** · *beat: kõrvalliin*
 
-Pealt on see tavaline metsavenna mullaauk. All on kolm korrust: pallibassein, kinosaal, relvakamber, mille valgustus on paremini läbi mõeldud kui enamikus Tallinna restoranides. Johann teeb ringkäigu ilma ühegi naljata.
+Pealt on see tavaline metsavenna mullaauk. All on kolm korrust: pallibassein, kinosaal, relvakamber, mille valgustus on paremini läbi mõeldud kui enamikus Tallinna restoranides. Juhan teeb ringkäigu ilma ühegi naljata.
 
 Kuuris seisab roostes T-34. Xzibit, Ryan Friedlinghaus ja Mad Mike ilmuvad bunkrisse ette teatamata. Tank värvitakse üle, topitakse blingi täis — militaarne ja mittemilitaarne segamini, kristall-luster laskemoonasalve kohal.
 
@@ -240,13 +240,13 @@ Ja nad karjuvad. Terve montaaži jooksul, iga kord, kui midagi valmis saab: lihv
 >
 > *— Xzibit ja meeskond · korduvalt, üle muusika*
 
-Johann on kaadris kaasas ja noogutab viisakalt. Ta ei karju kaasa. Keegi ei pane seda tähele, sest keegi ei vaata teda — kõik vaatavad tanki.
+Juhan on kaadris kaasas ja noogutab viisakalt. Ta ei karju kaasa. Keegi ei pane seda tähele, sest keegi ei vaata teda — kõik vaatavad tanki.
 
 Montaaž lõpeb. Muusika lõpeb koos sellega ja midagi ei tule asemele.
 
 Kuuri uksed tõmmatakse lahti. Tank seisab hommikuvalguses: kahekümne kuue tollised kroomitud valuveljed, poldid roomikute vahelt läbi, nii et masin ei saa enam kuhugi sõita. Toru otsas vibreerib väike lipp. Torniluugist ripub alla diskopall ja pöörleb aeglaselt, sest keegi lülitas selle demonstratsiooniks sisse.
 
-Johann astub ligi. Käib tanki ümber üks kord, terve ringi, ja ei puuduta seda.
+Juhan astub ligi. Käib tanki ümber üks kord, terve ringi, ja ei puuduta seda.
 
 Ta ei ole vihane. Ta on kurb, ja see on palju halvem. Kaamera jääb tema näole nii kauaks, et keegi peaks midagi ütlema, ja mitte keegi ei ütle.
 
@@ -264,16 +264,16 @@ Nad hakkavad ükshaaval välja minema. Mad Mike võtab mütsi peast. Ryan siruta
 
 Uks pannakse kinni ilma paugutamata.
 
-Johann jääb kuuri. Diskopall keerleb veel natuke, hoo pealt, ja jääb siis seisma.
+Juhan jääb kuuri. Diskopall keerleb veel natuke, hoo pealt, ja jääb siis seisma.
 
 > [!note] Tempo
 > Kaks kõrvalliini ühes stseenis, montaažina. See on filmi ainus koht, kus muusika on rõõmus — ja ta lõpeb enne stseeni, mitte koos temaga.
 
 > [!note] Hääl
-> Terves filmis ei tõsta häält mitte keegi: ei Johann, ei Ostrat, ei Zoja. Ainsad, kes karjuvad, on külalised, ja nad karjuvad rõõmust. Poolelijäänud «Pimp my...» on see koht, kus film oma ainsa valju hääle tagasi võtab, ja pärast seda ei karju enam keegi.
+> Terves filmis ei tõsta häält mitte keegi: ei Juhan, ei Ostrat, ei Zoja. Ainsad, kes karjuvad, on külalised, ja nad karjuvad rõõmust. Poolelijäänud «Pimp my...» on see koht, kus film oma ainsa valju hääle tagasi võtab, ja pärast seda ei karju enam keegi.
 
 > [!note] Miks ta kurb on
-> Johann ei ütle kordagi, mis viga on, ja seletust ei tule ka hiljem. Ainus asi, mida ta terve stseeni jooksul teeb, on üks ring ümber masina, mis enam ei liigu. Häbi kaadris on külaliste oma, mitte tema oma, ja just see teeb stseeni valusaks: nemad said aru enne teda ja tema ei pidanud selleks midagi tegema.
+> Juhan ei ütle kordagi, mis viga on, ja seletust ei tule ka hiljem. Ainus asi, mida ta terve stseeni jooksul teeb, on üks ring ümber masina, mis enam ei liigu. Häbi kaadris on külaliste oma, mitte tema oma, ja just see teeb stseeni valusaks: nemad said aru enne teda ja tema ei pidanud selleks midagi tegema.
 
 ---
 
@@ -296,17 +296,17 @@ Kohale nad ei jõua. Vedurijuht joob viina ja jääb magama. Rong jääb seisma 
 
 Laulus läheb rong lõpuks kraavi ja kõik lähevad uperpalli. Siin ei lähe keegi uperpalli. Siin jääb üks mees magama, ja ainult sellepärast on Muri elus.
 
-Tagasi olevikku: Muri istub Johanni kõrval ja väriseb. Ja siis läheb järgmise juba mahalastud NKVD-lase juurde ja kargab teda. Jalast, nagu koerad kargavad, ja täpselt sama tõsiselt.
+Tagasi olevikku: Muri istub Juhani kõrval ja väriseb. Ja siis läheb järgmise juba mahalastud NKVD-lase juurde ja kargab teda. Jalast, nagu koerad kargavad, ja täpselt sama tõsiselt.
 
-Kaamera ei lõika ära ja ei tee sellest ka numbrit — plaan on lai, valgus on tavaline, kestus on täpselt nii pikk, nagu ta looduses on. Johann astub üle jala ja läheb edasi. Keegi ei kommenteeri seda kordagi, ei siin ega hiljem.
+Kaamera ei lõika ära ja ei tee sellest ka numbrit — plaan on lai, valgus on tavaline, kestus on täpselt nii pikk, nagu ta looduses on. Juhan astub üle jala ja läheb edasi. Keegi ei kommenteeri seda kordagi, ei siin ega hiljem.
 
-Muri lõpetab omal ajal ja tuleb tagasi Johanni kõrvale istuma. Väriseb edasi.
+Muri lõpetab omal ajal ja tuleb tagasi Juhani kõrvale istuma. Väriseb edasi.
 
 > [!note] Laul
 > Ainus koht filmis, kus muusikaks on lastelaul, on ka ainus koht, kus kaadris on loomavagun. Laul jääb algusest lõpuni rõõmsaks ja kogu töö teeb ära see, et publik teab sõnu peast. Filmis endas ei kommenteeri seda mitte keegi.
 
 > [!note] Kättemaks
-> Terve vagunistseen ehitab üles motiivi, mis on filmi kõige põhjalikumalt lahti kirjutatud, ja siis annab sellele kõige väärikusetuma väljundi, mis olemas on. Muri ei maksa kätte inimese moodi. Ta on mäger ja ta teeb seda, mida ta oskab. Naer tuleb sellest, et kaamera kohtleb teda täpselt sama tõsiselt nagu Johanni malelauda.
+> Terve vagunistseen ehitab üles motiivi, mis on filmi kõige põhjalikumalt lahti kirjutatud, ja siis annab sellele kõige väärikusetuma väljundi, mis olemas on. Muri ei maksa kätte inimese moodi. Ta on mäger ja ta teeb seda, mida ta oskab. Naer tuleb sellest, et kaamera kohtleb teda täpselt sama tõsiselt nagu Juhani malelauda.
 >
 > Kargamine ei ole loomal enamasti seks. See on ärevus, ülekeenud pinge ja enese rahustamine — koer teeb seda siis, kui ta ei tea, kuhu ennast panna. Muri diagnoos on kaadris olemas juba enne, kui keegi jõuab naerda, ja see on stseeni ainus seletus, mida film ei ütle välja.
 
@@ -319,7 +319,7 @@ Muri lõpetab omal ajal ja tuleb tagasi Johanni kõrvale istuma. Väriseb edasi.
 
 **SISE. SEPIKODA — PÄEV** · *beat: varustus*
 
-Johann läheb küla sepa juurde relvadegusteerimisele. Sepp käitub nagu kõrgklassi sommeljee: valge rätik käsivarrel, esemed tuuakse lauale ükshaaval, iga tutvustus on pikem kui eelmine. Ta räägib relvadest täpselt samas registris, milles [[Tegelased|Zoja]] räägib beebidest — lõunanõlvad, aastakäigud, bukett. Kumbki ei tea teineteisest midagi.
+Juhan läheb küla sepa juurde relvadegusteerimisele. Sepp käitub nagu kõrgklassi sommeljee: valge rätik käsivarrel, esemed tuuakse lauale ükshaaval, iga tutvustus on pikem kui eelmine. Ta räägib relvadest täpselt samas registris, milles [[Tegelased|Zoja]] räägib beebidest — lõunanõlvad, aastakäigud, bukett. Kumbki ei tea teineteisest midagi.
 
 Alustatakse kergest. Sepp toob talutööriistad ja asetab need lauale kolmnurka.
 
@@ -328,7 +328,7 @@ Alustatakse kergest. Sepp toob talutööriistad ja asetab need lauale kolmnurka.
 >
 > *— Sepp*
 
-Kolmandana tuuakse sõnnikuhark. Kolm haru, keskmine lühem kui teised. Sepp ei kommenteeri seda ühegi sõnaga ja Johann ei küsi. Kaamera jääb hargi juurde täpselt niisama kauaks, kui ta jäi turul porgandi juurde.
+Kolmandana tuuakse sõnnikuhark. Kolm haru, keskmine lühem kui teised. Sepp ei kommenteeri seda ühegi sõnaga ja Juhan ei küsi. Kaamera jääb hargi juurde täpselt niisama kauaks, kui ta jäi turul porgandi juurde.
 
 Siis põhikäik.
 
@@ -338,15 +338,15 @@ Siis põhikäik.
 > — Soomlane?
 > — KP-31. Käib väga hästi Koskenkorvaga. Aga siis on õhtu läbi.
 >
-> *— Sepp ja Johann*
+> *— Sepp ja Juhan*
 
-Lauale tuuakse Kalevipoja mõõk. Sepp ei lase Johannil seda puudutada. Pöiale on löödud tempel: MADE IN FINLAND. Kaamera leiab selle ise, ilma et keegi sinnapoole vaataks.
+Lauale tuuakse Kalevipoja mõõk. Sepp ei lase Juhanil seda puudutada. Pöiale on löödud tempel: MADE IN FINLAND. Kaamera leiab selle ise, ilma et keegi sinnapoole vaataks.
 
 > — Ei soovita. Imporditud. Kipub konnasilmasid maha lõikama kuni põlvedeni.
 > — Ja kui mõõk ära võetakse?
 > — Siis jäävad lauad.
 >
-> *— Sepp ja Johann*
+> *— Sepp ja Juhan*
 
 Mõõga kõrval on laual tühi koht. Keskel seisab väike käsitsi kirjutatud silt: KALEVIPOJA LAUAD · PIHKVA. Laudu ei ole.
 
@@ -354,9 +354,9 @@ Mõõga kõrval on laual tühi koht. Keskel seisab väike käsitsi kirjutatud si
 >
 > *— Sepp*
 
-Johann noogutab. Ta ei küsi, millal ega kes keelas. Sepp tõstab sildi sirgeks ja liigub edasi.
+Juhan noogutab. Ta ei küsi, millal ega kes keelas. Sepp tõstab sildi sirgeks ja liigub edasi.
 
-Õue toob sepp Johanni eraldi. Muru sees on Piretikivi. Hobune vaatab kivi. Kivi vaatab tagasi.
+Õue toob sepp Juhani eraldi. Muru sees on Piretikivi. Hobune vaatab kivi. Kivi vaatab tagasi.
 
 > — Suur Tõlli naise oma. Visatud Muhust. Üks lask, laadimist ei ole. Ja kandma peate ise.
 >
@@ -376,11 +376,11 @@ Viimasena tuuakse lasermõõk. Sepp hoiab seda kahe sõrmega, nagu korgitud pude
 
 Siis läheb sepp tagatuppa ja toob kasti. Kasti avades tuleb suitsu. Kaamera ootab, kuni suits hajub — kauem, kui on mugav. Kastis on sametkarp.
 
-Karbis on kadakast ragulka ja kuus tammetõru. Tõrud on korjatud pühast hiiest. Ragulka kumm on võetud Pätsu-aegsetelt aluspükstelt. Sepp ei tutvusta seda üldse. Ta lihtsalt paneb karbi Johanni ette ja astub sammu tagasi.
+Karbis on kadakast ragulka ja kuus tammetõru. Tõrud on korjatud pühast hiiest. Ragulka kumm on võetud Pätsu-aegsetelt aluspükstelt. Sepp ei tutvusta seda üldse. Ta lihtsalt paneb karbi Juhani ette ja astub sammu tagasi.
 
-Johann võtab vikati, Mosini ja kolm kasti padruneid. Vitsa ja viha paneb ta samuti vankrile. Sametkarbi asetab kõige ette — see ei ole tema jaoks.
+Juhan võtab vikati, Mosini ja kolm kasti padruneid. Vitsa ja viha paneb ta samuti vankrile. Sametkarbi asetab kõige ette — see ei ole tema jaoks.
 
 > [!note] Istutus
-> Sepp ei ütle, kelle jaoks ragulka on, ja Johann ei küsi. Karp läheb edasi 11. stseenis. Kuus tõru — publik loeb neid alateadlikult, seega peavad nad kõik ära kuluma. Viht läheb sauna, hark jääb vankrile. Kratti me kordagi ei näe.
+> Sepp ei ütle, kelle jaoks ragulka on, ja Juhan ei küsi. Karp läheb edasi 11. stseenis. Kuus tõru — publik loeb neid alateadlikult, seega peavad nad kõik ära kuluma. Viht läheb sauna, hark jääb vankrile. Kratti me kordagi ei näe.
 
 → [[Vaatus III - Peipsi arveteklaarimine]]

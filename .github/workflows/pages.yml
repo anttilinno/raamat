@@ -44,14 +44,14 @@ jobs:
               "$file.md" > "src/$slug.md"
             printf '%s\n' "$file|$slug|$title" >> /tmp/chapters
           done <<'LIST'
-          Johann Taht|ulevaade|Ülevaade
+          Juhan Taht|ulevaade|Ülevaade
           Vaatus 0 - Enne porgandit|vaatus-0|0 — Enne porgandit
           Vaatus I - Taht süttib|vaatus-1|I — Taht süttib
           Vaatus II - Blingimine ja varustamine|vaatus-2|II — Blingimine
           Vaatus III - Peipsi arveteklaarimine|vaatus-3|III — Peipsi
           Epiloog - Neljas kirjapanek|epiloog|Epiloog
           Tegelased|tegelased|Tegelased
-          Johann Taht - paritolu|paritolu|Päritolu
+          Juhan Taht - paritolu|paritolu|Päritolu
           Toon ja viited|toon|Toon ja viited
           Johann_Taht_Notes|toormarkmed|Toormärkmed
           LIST
@@ -70,7 +70,7 @@ jobs:
 
           cat > book.toml <<'TOML'
           [book]
-          title = "Johann Taht"
+          title = "Juhan Taht"
           description = "Metsavenna ballaad kolmes vaatuses, ühe hobuse ja kolmeharulise porgandiga."
           language = "et"
           src = "src"

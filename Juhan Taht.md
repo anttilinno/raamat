@@ -8,7 +8,7 @@ status: seedling
 type: note
 ---
 
-# Johann Taht
+# Juhan Taht
 
 > Metsavenna ballaad kolmes vaatuses, ühe hobuse ja kolmeharulise porgandiga.
 
@@ -19,7 +19,7 @@ type: note
 
 Nad võtsid tal porgandi. Aga ajasid sassi ka malelaua.
 
-Johann Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakanud porgandit kasvatama. Kui NKVD kaagid murravad öösel bunkrisse, varastavad tema püha kolmeharulise porgandi ja ajavad sassi Paul Kerese võidupartii seisu, siis kaotab Eesti oma viimase rahuliku mehe — ja Nõukogude Liit umbes kaks rügementi.
+Juhan Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakanud porgandit kasvatama. Kui NKVD kaagid murravad öösel bunkrisse, varastavad tema püha kolmeharulise porgandi ja ajavad sassi Paul Kerese võidupartii seisu, siis kaotab Eesti oma viimase rahuliku mehe — ja Nõukogude Liit umbes kaks rügementi.
 
 ## Struktuur
 
@@ -34,7 +34,7 @@ Johann Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakan
 ## Materjal
 
 - [[Tegelased]]
-- [[Johann Taht - paritolu]] — päritoluloo allikas, kust Vaatus 0 on kokku pandud
+- [[Juhan Taht - paritolu]] — päritoluloo allikas, kust Vaatus 0 on kokku pandud
 - [[Toon ja viited]]
 - [[Johann_Taht_Notes]] — algsed toormärkmed, puutumata
 

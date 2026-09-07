@@ -1,4 +1,4 @@
-# Johann Taht
+# Juhan Taht
 
 *Metsavenna ballaad kolmes vaatuses, ühe hobuse ja kolmeharulise porgandiga.*
 
@@ -17,9 +17,9 @@ Nad võtsid tal porgandi. Aga ajasid sassi ka malelaua.
 | [III — Peipsi arveteklaarimine](Vaatus%20III%20-%20Peipsi%20arveteklaarimine.md) | 10–12 | visand |
 | [Epiloog — Neljas kirjapanek](Epiloog%20-%20Neljas%20kirjapanek.md) | E.1–E.2 | visand |
 
-- [Ülevaade](Johann%20Taht.md) — logline, struktuur, lahtised otsad
+- [Ülevaade](Juhan%20Taht.md) — logline, struktuur, lahtised otsad
 - [Tegelased](Tegelased.md)
-- [Päritolu](Johann%20Taht%20-%20paritolu.md) — Vaatuse 0 allikmaterjal, kõik välja öeldud
+- [Päritolu](Juhan%20Taht%20-%20paritolu.md) — Vaatuse 0 allikmaterjal, kõik välja öeldud
 - [Toon ja viited](Toon%20ja%20viited.md) — kanooniline toonidokument
 - [Toormärkmed](Johann_Taht_Notes.md)
 - [Ideed](ideed.md)

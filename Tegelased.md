@@ -10,12 +10,12 @@ type: note
 
 # Tegelased
 
-Vt [[Johann Taht]]
+Vt [[Juhan Taht]]
 
-## Johann Taht
+## Juhan Taht
 *Peategelane · endine metsavend*
 
-Vaikne mees, kes tahab kasvatada porgandit ja mängida malet iseenda vastu. Kust ta tuli, näitab [[Vaatus 0 - Enne porgandit]] ja seletab [[Johann Taht - paritolu]]; ükski tegelane ei tea sellest midagi. Bunkri sissepääsus tavaline mullaauk, all pallibassein, kinosaal ja relvakamber. Ei tõsta häält kordagi terve filmi jooksul.
+Vaikne mees, kes tahab kasvatada porgandit ja mängida malet iseenda vastu. Kust ta tuli, näitab [[Vaatus 0 - Enne porgandit]] ja seletab [[Juhan Taht - paritolu]]; ükski tegelane ei tea sellest midagi. Bunkri sissepääsus tavaline mullaauk, all pallibassein, kinosaal ja relvakamber. Ei tõsta häält kordagi terve filmi jooksul.
 
 ## Zoja Kosmodemjanskaja
 *Antagonist · surematu polgu viimane*
@@ -29,17 +29,17 @@ Hing on väljaspool keha, Kaštšei muna sees, köögikapis. Vt [[Vaatus III - P
 ## Muri
 *Kõrvaltegelane · mäger · PTSD*
 
-Psühhootiliste vägivallahoogudega mäger. Läheb iga NKVD-lase juurde, kelle Johann on juba maha löönud, ja kargab teda jalast. Mitte isu, vaid ärevus: kargamine on loomal enese rahustamine ja Murit ei ole keegi rahustanud alates loomavagunist. Ainus tegelane, kelle motiivid on filmis täielikult lahti kirjutatud — ja ainus, kelle kättemaks ei näe välja nagu kättemaks.
+Psühhootiliste vägivallahoogudega mäger. Läheb iga NKVD-lase juurde, kelle Juhan on juba maha löönud, ja kargab teda jalast. Mitte isu, vaid ärevus: kargamine on loomal enese rahustamine ja Murit ei ole keegi rahustanud alates loomavagunist. Ainus tegelane, kelle motiivid on filmis täielikult lahti kirjutatud — ja ainus, kelle kättemaks ei näe välja nagu kättemaks.
 
 ## Dima
 *Kaak · Bolti kuller*
 
-Teenib elatist Bolti kullerina. Sõidab tuunitud elektritõuksiga — piiraja maha võetud, aku üle normi — ja see on ainus põhjus, miks ta teab bunkrini viivat kulleriteed ja pääseb sealt läbi. Oli 1940. aastal Zoja oktoobrilaste rühmas oktoobrilaps ja käitub tema ees siiani nii. Ainus inimene, kellele ta helistab, kui asi läheb halvasti — ja ainus, kellele ta ei oska valetada. Taskus Nokia 3310, mille aku on alati täis. Räägib eesti keelt paremini kui Johann. Vene keelt mitte.
+Teenib elatist Bolti kullerina. Sõidab tuunitud elektritõuksiga — piiraja maha võetud, aku üle normi — ja see on ainus põhjus, miks ta teab bunkrini viivat kulleriteed ja pääseb sealt läbi. Oli 1940. aastal Zoja oktoobrilaste rühmas oktoobrilaps ja käitub tema ees siiani nii. Ainus inimene, kellele ta helistab, kui asi läheb halvasti — ja ainus, kellele ta ei oska valetada. Taskus Nokia 3310, mille aku on alati täis. Räägib eesti keelt paremini kui Juhan. Vene keelt mitte.
 
 ## Joel Ostrat
 *Restorani pidaja · varastatud juurvili · mängib iseennast*
 
-Valge kitel, kaalud, madal lauavalgus. Keegi ei maini kordagi, et ta on telekokk, ja tema ise kõige vähem. Rahulik täpselt samamoodi nagu Johann, ja see sarnasus on tahtlik. Lööb ilma vihata ja peseb pärast käsi. Ei tõsta häält, ei seleta ennast ega võta majja midagi, mille päritolu talle ei meeldi.
+Valge kitel, kaalud, madal lauavalgus. Keegi ei maini kordagi, et ta on telekokk, ja tema ise kõige vähem. Rahulik täpselt samamoodi nagu Juhan, ja see sarnasus on tahtlik. Lööb ilma vihata ja peseb pärast käsi. Ei tõsta häält, ei seleta ennast ega võta majja midagi, mille päritolu talle ei meeldi.
 
 ## Mäša
 *Zoja abikaasa · kodune*
@@ -55,7 +55,7 @@ Käitub nagu turumüüja, mitte nagu naljanumber. Kaalub, annab raha tagasi, kur
 
 ## Vaatuse 0 ja epiloogi näod
 
-Kõik nad saavad tiitri. Johann ei saa. Vt [[Vaatus 0 - Enne porgandit]] · [[Epiloog - Neljas kirjapanek]]
+Kõik nad saavad tiitri. Juhan ei saa. Vt [[Vaatus 0 - Enne porgandit]] · [[Epiloog - Neljas kirjapanek]]
 
 ### Kalevipoeg
 *Tiitel: KALEVIPOEG, kuningakandidaat → KALEVIPOEG, kuningas*
@@ -65,7 +65,7 @@ Viskab kaugele ja madalalt. Solvub kahe lause peale, millest esimene on kiitus, 
 ### Cornelius Tacitus
 *Tiitel: CORNELIUS TACITUS, ajaloolane*
 
-Küsib täpseid küsimusi ja kirjutab üles midagi muud. Ei ole pahatahtlik, on lihtsalt roomlane. Tema tõttu on Johann tööl tuhat kakssada aastat.
+Küsib täpseid küsimusi ja kirjutab üles midagi muud. Ei ole pahatahtlik, on lihtsalt roomlane. Tema tõttu on Juhan tööl tuhat kakssada aastat.
 
 ### Peeter I
 *Tiitel: PEETER I, objekt*

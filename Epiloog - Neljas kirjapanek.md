@@ -9,7 +9,7 @@ type: note
 
 # Epiloog — Neljas kirjapanek
 
-Kaks stseeni pärast lõputiitreid. Vt [[Johann Taht]] · [[Toon ja viited]]
+Kaks stseeni pärast lõputiitreid. Vt [[Juhan Taht]] · [[Toon ja viited]]
 
 ---
 
@@ -36,7 +36,7 @@ Ameeriklane seisab veel natuke.
 Buss tuututab. Ta läheb tagasi ja istub oma kohale. Bussiaknast on näha, kuidas mees paneb tarukaane tagasi.
 
 > [!note] Lauset ei ole
-> Publik ei kuule, mida küsiti, ega seda, mida vastati. Heli on mesilaste peal. See on ainus kord terves filmis, kus Johann midagi ütleb ja meile seda ei anta — ja seda ei anta sellepärast, et järgmine stseen näitab, mis sellest lausest sai.
+> Publik ei kuule, mida küsiti, ega seda, mida vastati. Heli on mesilaste peal. See on ainus kord terves filmis, kus Juhan midagi ütleb ja meile seda ei anta — ja seda ei anta sellepärast, et järgmine stseen näitab, mis sellest lausest sai.
 
 ---
 
@@ -75,7 +75,7 @@ Kaamera ei näita, mis paberile jääb.
 ---
 
 > [!note] Neljas kirjapanek
-> Sama muster neljandat korda ja seekord viimast: kirjutaja pani pärgamendile pikema lause, kui öeldi ([[Vaatus 0 - Enne porgandit|0.6]]); kunstnik maalis lõuendile töö, mida ei tehtud (0.6); Rooma mõtles Tacituse jutu juurde (0.5); ja Hollywood teeb sellest filmi, kus kõik on õige peale kõige. Johann ei paranda ka seda, sest ta ei tea sellest midagi.
+> Sama muster neljandat korda ja seekord viimast: kirjutaja pani pärgamendile pikema lause, kui öeldi ([[Vaatus 0 - Enne porgandit|0.6]]); kunstnik maalis lõuendile töö, mida ei tehtud (0.6); Rooma mõtles Tacituse jutu juurde (0.5); ja Hollywood teeb sellest filmi, kus kõik on õige peale kõige. Nime kuulis külaline korra ja kirjutas selle nii, nagu ta seda kuulis: Juhanist sai John. Juhan ei paranda ka seda, sest ta ei tea sellest midagi.
 
 > [!note] Suund
 > Kogu [[Toon ja viited|võtmetabel]] pööratakse siin ümber. Publik on terve filmi arvanud, et see lugu on John Wicki eestindus. Epiloog ütleb, ilma seda välja ütlemata, et John Wick on selle loo amerikaniseering — ja et originaalis oli koera asemel porgand, sest originaalis oli tegemist mehega, kellel ei olnud koera.
