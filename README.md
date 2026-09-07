@@ -37,6 +37,6 @@ New chapter? Link it here, and add its filename to the chapter list in
 ## Publishing
 
 Pushing to `main` renders the chapters with pandoc into one page and deploys
-it to GitHub Pages — see `.github/workflows/pages.yml`. This needs Pages to be
-switched on once by hand: **Settings → Pages → Source: GitHub Actions**. Until
-then the book reads here, straight from the Markdown.
+it to <https://anttilinno.github.io/raamat/> — see
+`.github/workflows/pages.yml`. The book also reads here in the repo, straight
+from the Markdown.
