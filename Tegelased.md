@@ -29,7 +29,7 @@ Hing on väljaspool keha, Kaštšei muna sees, köögikapis. Vt [[Vaatus III - P
 ## Muri
 *Kõrvaltegelane · mäger · PTSD*
 
-Psühhootiliste vägivallahoogudega mäger. Läheb iga NKVD-lase juurde, kelle Johann on juba maha löönud, ja kargab talle jalga. Ainus tegelane, kelle motiivid on filmis täielikult lahti kirjutatud — ja ainus, kelle kättemaks ei näe välja nagu kättemaks.
+Psühhootiliste vägivallahoogudega mäger. Läheb iga NKVD-lase juurde, kelle Johann on juba maha löönud, ja kargab teda jalast. Mitte isu, vaid ärevus: kargamine on loomal enese rahustamine ja Murit ei ole keegi rahustanud alates loomavagunist. Ainus tegelane, kelle motiivid on filmis täielikult lahti kirjutatud — ja ainus, kelle kättemaks ei näe välja nagu kättemaks.
 
 ## Dima
 *Kaak · Bolti kuller*

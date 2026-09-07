@@ -296,7 +296,7 @@ Kohale nad ei jõua. Vedurijuht joob viina ja jääb magama. Rong jääb seisma 
 
 Laulus läheb rong lõpuks kraavi ja kõik lähevad uperpalli. Siin ei lähe keegi uperpalli. Siin jääb üks mees magama, ja ainult sellepärast on Muri elus.
 
-Tagasi olevikku: Muri istub Johanni kõrval ja väriseb. Ja siis läheb järgmise juba mahalastud NKVD-lase juurde ja kargab talle jalga.
+Tagasi olevikku: Muri istub Johanni kõrval ja väriseb. Ja siis läheb järgmise juba mahalastud NKVD-lase juurde ja kargab teda. Jalast, nagu koerad kargavad, ja täpselt sama tõsiselt.
 
 Kaamera ei lõika ära ja ei tee sellest ka numbrit — plaan on lai, valgus on tavaline, kestus on täpselt nii pikk, nagu ta looduses on. Johann astub üle jala ja läheb edasi. Keegi ei kommenteeri seda kordagi, ei siin ega hiljem.
 
@@ -307,6 +307,8 @@ Muri lõpetab omal ajal ja tuleb tagasi Johanni kõrvale istuma. Väriseb edasi.
 
 > [!note] Kättemaks
 > Terve vagunistseen ehitab üles motiivi, mis on filmi kõige põhjalikumalt lahti kirjutatud, ja siis annab sellele kõige väärikusetuma väljundi, mis olemas on. Muri ei maksa kätte inimese moodi. Ta on mäger ja ta teeb seda, mida ta oskab. Naer tuleb sellest, et kaamera kohtleb teda täpselt sama tõsiselt nagu Johanni malelauda.
+>
+> Kargamine ei ole loomal enamasti seks. See on ärevus, ülekeenud pinge ja enese rahustamine — koer teeb seda siis, kui ta ei tea, kuhu ennast panna. Muri diagnoos on kaadris olemas juba enne, kui keegi jõuab naerda, ja see on stseeni ainus seletus, mida film ei ütle välja.
 
 > [!note] Kraav
 > Lauluversioonis lõpeb sõit õnnetusega ja see on nali. Siin on õnnetus — purjus vedurijuht — ainus asi, mis kedagi päästab. Sama sündmus, vastupidine märk; seletust ei tule.
