@@ -347,13 +347,21 @@ Siis tõuseb ta püsti, sest tal on asja.
 
 **VÄL. SINIMÄED — SUVI**
 
-Kraavid, savi, väsinud poisid, keeduvesi tulel. Kaugel paremal on jõgi ja jõe peal sild — seesama sild, mida mööda ta paarsada aastat tagasi morni mehena üle ja tagasi käis. Kaamera ei näita seda eraldi ja keegi ei ütle selle kohta midagi. Juhan tuleb kohale ja annab üle kannu mett. Tee jaoks, sest tee ilma meeta ei ole tee.
+Kraavid, savi, väsinud poisid, keeduvesi tulel.
+
+Juhan vaatab korra itta. Sealpool, kahekümne kilomeetri kaugusel, on jõgi ja jõe peal sild, mida ta paarsada aastat mööda üle ja tagasi käis. Siit ei ole seda näha ja ta vaatab sinnapoole ikka. Kaamera järgneb pilgule ja leiab ainult metsa.
+
+Juhan annab üle kannu mett. Tee jaoks, sest tee ilma meeta ei ole tee.
 
 > — Aitäh.
 >
 > *— üks poistest*
 
-Ta noogutab. Ja siis, kuna asi jääb teele ette, peksab ta punased laiali, nii et need otsustavad mujalt rünnata.
+Ta noogutab ja läheb koju.
+
+Ja läheb mäest alla valelt poolt. Lihtsalt eksib ära — mägi on üks mägi, nõlvad on ühesugused ja tema ei ole siin kandis kakssada aastat käinud.
+
+Vale pool on see pool, kus on punased.
 
 Sellest ei näidata ühtegi kaadrit.
 
@@ -361,8 +369,13 @@ Sellest ei näidata ühtegi kaadrit.
 
 Kiiktool. Juhan istub tagasi. Sõda käib edasi ja tema enam kaasa ei lähe.
 
+Rinne Sinimägedes seisab. Punased otsustavad rünnata mujalt.
+
 > [!note] Mida ei näidata
 > Lahingut ei ole ekraanil ega helis. Enne on mesi ja pärast on tool; vahepeal on lõige. Kogu töö teeb ära see, et me juba teame, mida see mees teeb, kui talle jalgu jäädakse.
+
+> [!note] Vale pool mäge
+> Ta ei lähe sinna sõdima ega otsusta midagi. Ta viib mett ja läheb koju valet nõlva mööda alla, sest mägi on üks mägi. Sellel poolel juhtub see, mis juhtub, ja rinne nihkub. Kogu Sinimägede lahingu tulemus filmi loogikas on üks vale pööre — ja mitte ükski tegelane, tiiter ega lause ei ütle seda kunagi välja.
 
 ---
 

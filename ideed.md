@@ -63,7 +63,7 @@ Tagasi tulles istus uuesti kiiktooli. Sõda käis edasi ja tema enam kaasa ei l�
 Seosed:
 - Ta ei läinud sinna sõdima. Ta läks mett viima ja lahing jäi teele ette. Täpselt sama liigutus nagu III vaatuses: väike asi, suur tagajärg, ja tagajärge ta ei kommenteeri.
 - Kiiktool on paari giiditööga: seal jäi ta liiga kauaks tööle, siin jääb liiga kauaks istuma. Kaks viisi sama asja teha.
-- Narva sild käib kaks korda läbi: sajandeid varem morni mehena üle ja tagasi, 1944 Sinimägedes uuesti. Ei tohi seletada, tohib ainult korrata.
+- Narva sild käib kaks korda läbi: sajandeid varem morni mehena üle ja tagasi, 1944 Sinimägedes uuesti. Ei tohi seletada, tohib ainult korrata. NB: Sinimäed on Narvast ~20 km lääne pool, silda sealt ei näe — ta vaatab sinnapoole, kaamera leiab metsa.
 - «Otsustasid mujalt rünnata» on ainus lause selle kohta, mida ta seal tegi. Rohkem ei näidata ega öelda. Publik teeb töö ise ära.
 
 ---
@@ -72,3 +72,7 @@ Rakendatud (2026-09-07): kogu ülalolev on Vaatuses 0, 9. stseenis või epiloogi
 Viimasena läksid sisse: vanemate osaline rumalus (0.6 algus), erruminek ja taru,
 mida naaber puudutab ainult korra (0.6 lõpp), helisemata telefon 1940 (0.10 algus)
 ja Narva silla kordus Sinimägedes (0.10). Siia jäävad ainult uued mõtted.
+
+Sinimäed, täpsustus: ta ei lähe sõdima ega jää lahingu ette — ta läheb mett viies koju
+mäest alla valet nõlva mööda. Vale pool on punaste pool. Lahingut ei näidata, ainult
+tagajärge: rinne seisab ja punased otsustavad rünnata mujalt.
