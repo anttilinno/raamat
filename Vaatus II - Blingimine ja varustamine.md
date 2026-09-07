@@ -166,7 +166,9 @@ Dima viiakse tagauksest välja täiesti viisakalt, nagu purjus külaline, ja uks
 
 **SISE. PARTEIKOMITEE — ÖÖ** · *beat: müüt*
 
-Kabinet. Laual taldrik, salvrätik, nuga ja kahvel ristis. [[Tegelased|Zoja]] sööb hilist õhtusööki ja kaamera ei näita, mida. Ta paneb toru hargile ja lõpetab suutäie rahulikult ära, enne kui midagi ütleb.
+Kabinet. Laual sügav taldrik, salvrätik ja hõbelusikas. [[Tegelased|Zoja]] sööb hilist õhtusööki: boršš, punane, hapukoor peale tõmmatud ühe liigutusega. Lusikas on päris hõbe ja raske, ja kaamera ei näita kordagi, mis lusika peal on. Ta paneb toru hargile ja lõpetab suutäie rahulikult ära, enne kui midagi ütleb.
+
+Rinnal ripub suur hõberist. Risti keskel, seal kus tavaliselt on keegi teine, on Lenini pilt. Rist käib vormi peal, väljas, ja ta ei pane seda söömise ajaks ära. Kaadris ei vaata seda keegi ega maini seda terve filmi jooksul mitte kordagi.
 
 Toas on kuus meest. [[Tegelased|Dima]] tuuakse sisse.
 
@@ -210,10 +212,13 @@ Zoja vaatab teda pikalt. Kuusteist aastat tagasi õpetas ta sellele poisile, mis
 >
 > *— Zoja*
 
-Ta ei ütle rohkem midagi. Võtab kahvli ja jätkab söömist täpselt sealt, kust pooleli jäi, ja räägib toidust kahe lausega samas registris, milles ta äsja rääkis Johannist — aastakäik, nõlv, bukett. Mehed kuulavad viisakalt. Keegi ei küsi, mis taldrikul on.
+Ta ei ütle rohkem midagi. Võtab lusika ja jätkab söömist täpselt sealt, kust pooleli jäi, ja räägib toidust kahe lausega samas registris, milles ta äsja rääkis Johannist — aastakäik, nõlv, bukett. Hõbe koputab vastu taldrikuserva. Mehed kuulavad viisakalt. Keegi ei küsi, mis supi sees on.
 
 > [!note] Müüt
 > See on filmi ainus stseen, kus keegi Johanni kohta midagi otse ütleb. Kõik faktid on põllumajanduslikud ja mitte ükski neist ei ole vägivaldne — hirm tuleb sellest, kuidas neid ette kantakse. Vägivalda ei mainita, sest publik teeb selle töö ise ära.
+
+> [!note] Boršš ja rist
+> Boršš on nähtav, punane ja täiesti tavaline. Just sellepärast saab Zoja rääkida aastakäigust ja nõlvast, ilma et keegi peaks midagi ümber lükkama — kaader pakub kohe süütu seletuse ja publik valib ise, kumba ta usub. Risti ei kommenteerita samal põhjusel, millega ei kommenteerita turutüdruku kostüümi: kandja jaoks on see tööriietus.
 
 > [!note] Kaks lünka korraga
 > Stseen paneb Zoja ekraanile juba II vaatuses ja annab beebi-sommeljee registrile koha, kus ta ei ole naljanumber, vaid iseloomustus. Kratt ühendub 9. stseeni tagatoaga.
