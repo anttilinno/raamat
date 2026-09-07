@@ -17,6 +17,7 @@ Nad võtsid tal porgandi. Aga ajasid sassi ka malelaua.
 
 - [Ülevaade](Johann%20Taht.md) — logline, struktuur, lahtised otsad
 - [Tegelased](Tegelased.md)
+- [Päritolu](Johann%20Taht%20-%20paritolu.md) — Johanni taustalugu, ekraanile ei jõua
 - [Toon ja viited](Toon%20ja%20viited.md) — kanooniline toonidokument
 - [Toormärkmed](Johann_Taht_Notes.md)
 - [Ideed](ideed.md)

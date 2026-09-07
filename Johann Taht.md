@@ -32,6 +32,7 @@ Johann Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakan
 ## Materjal
 
 - [[Tegelased]]
+- [[Johann Taht - paritolu]] — päritolulugu, ekraanile ei jõua
 - [[Toon ja viited]]
 - [[Johann_Taht_Notes]] — algsed toormärkmed, puutumata
 

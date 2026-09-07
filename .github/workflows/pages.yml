@@ -35,6 +35,7 @@ jobs:
             "Vaatus II - Blingimine ja varustamine.md" \
             "Vaatus III - Peipsi arveteklaarimine.md" \
             "Tegelased.md" \
+            "Johann Taht - paritolu.md" \
             "Toon ja viited.md" \
             "Johann_Taht_Notes.md" \
           | pandoc --from=gfm --to=html5 --standalone --toc --embed-resources \
