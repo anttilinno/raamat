@@ -426,7 +426,9 @@ Tiitel: **MURI, mäger**.
 
 Keegi ei paranda teda. Kaadris ei ole kedagi, kes saaks.
 
-Nädal hiljem läheb loom halvaks. Suu vahutab, silm ei kannata valgust, vett ta ei joo, kuigi kauss on kaks sammu eemal. Marutaud.
+Nädal hiljem läheb loom halvaks. Suu vahutab, silm ei kannata valgust, vett ta ei joo, kuigi kauss on kaks sammu eemal. Marutaud — ja mitte alguses. Lõualuu ei kuula, tagajalad ei kanna, vesi teeb hirmu. See on lõppfaas.
+
+Lõppfaasist ei ole välja tulnud ükski loom ega ükski inimene, mitte kusagil, mitte kunagi.
 
 Juhan vaatab teda üle kuuri ukse ühe õhtu ja terve öö. Hommikul läheb ta ligi.
 
@@ -434,7 +436,7 @@ Ta ei võta pussi ega püssi. Ta kükitab maha ja lööb korra rusikaga pähe. K
 
 Mäger magab kaks päeva. Kolmandal tuleb kuuri alt välja ja joob kausist vett.
 
-Marutaud on ravimatu. Kaadris ei vaidle sellega keegi, sest kaadris ei ole kedagi, kes vaidleks.
+Kaadris ei vaidle sellega keegi, sest kaadris ei ole kedagi, kes vaidleks.
 
 Värisemine jääb. Seda ei ravi ükski hoop, ja Juhan ei proovi teist korda.
 
@@ -447,7 +449,7 @@ Mäger ei lähe enam kunagi üle rööbaste. Ta käib nende ümber, ka siis, kui
 > Kogu vaatus käib sellest, et Juhanit ei kirjuta keegi õigesti kirja. Ainus kord, kui ta ise kellelegi nime paneb, paneb ta mägrale koeranime. Ta ei tee sellega nalja ega paranda seda hiljem. See on ainus tiiter terves vaatuses, mis on kellelegi antud tema enda suust — ja seegi on natuke vale.
 
 > [!note] Ravi
-> Mängitakse täpselt sama tõsiselt nagu 0.4 tehnilist järelvaatlust: haigus tuvastatakse, ravi teostatakse, tulemus fikseeritakse. Hoop ei ole vihahoog ega halastussurm ja seda ei näidata lähedalt. Kogu nali on selles, et film ei märka üldse, et midagi imelikku juhtus — ja kohe pärast seda tuleb lause, mida ükski hoop ei paranda.
+> Lõppfaasi marutaud on sada protsenti surmav ja see ei ole liialdus, vaid meditsiin — täpselt sellepärast peab stseen olema võimalikult kuiv. Mängitakse sama tõsiselt nagu 0.4 tehnilist järelvaatlust: haigus tuvastatakse, staadium fikseeritakse, ravi teostatakse, tulemus fikseeritakse. Hoop ei ole vihahoog ega halastussurm ja seda ei näidata lähedalt. Kogu nali on selles, et film ei märka üldse, et midagi imelikku juhtus — ja kohe pärast seda tuleb lause, mida ükski hoop ei paranda.
 
 > [!note] Kaks meetrit
 > Vahemaa ei muutu kordagi, ei siin ega hiljem. Muri ei ole taltsas ja teda ei taltsutata. Ta lihtsalt otsustab, kelle kõrval ta väriseb.
