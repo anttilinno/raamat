@@ -23,15 +23,16 @@ restaurant) is the load-bearing structure, not decoration.
   `**SISE. RESTORAN — ÕHTU** · *beat: maailm*`.
 - `README.md` — the index. Plain links to every chapter, because GitHub does
   not resolve `[[wikilinks]]`. Keep it in sync when chapters come and go.
-- `.github/workflows/pages.yml` — renders the chapters with pandoc on push and
-  publishes the result. No build artifact is committed.
+- `.github/workflows/pages.yml` — builds the chapters into an mdBook on push
+  (sidebar, search, one page per chapter) and publishes it. No build artifact
+  is committed; `book.toml` and `src/` are generated in CI.
 
 ## Rules
 
 - Edit `.md` and push. There is no local build step.
-- New chapter → link it in `README.md`, and add its filename to the chapter
-  list in `.github/workflows/pages.yml`; files missing from that list are not
-  published.
+- New chapter → link it in `README.md`, and add a `source|slug|sidebar title`
+  line to the chapter list in `.github/workflows/pages.yml`; files missing
+  from that list are not published, and that list sets the sidebar order.
 - Text is Estonian. Do not "fix" it into English, do not rewrite voice or
   register. Language corrections only when asked.
 

@@ -14,6 +14,9 @@ concurrency:
   group: pages
   cancel-in-progress: true
 
+env:
+  MDBOOK_VERSION: v0.5.4
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -23,26 +26,63 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
-      - run: sudo apt-get update && sudo apt-get install -y pandoc
-      - name: Render the book
+
+      - name: Install mdBook
         run: |
-          mkdir _site
-          # Obsidian bits pandoc does not know: [[wikilink]] -> plain text,
-          # "> [!note]" callout marker -> a bold Note line.
-          sed -E 's/\[\[([^]|]*)\|?[^]]*\]\]/\1/g; s/^> \[!([a-zA-Z]+)\][-+]? ?/> **\U\1\E** /' \
-            "Johann Taht.md" \
-            "Vaatus 0 - Enne porgandit.md" \
-            "Vaatus I - Taht süttib.md" \
-            "Vaatus II - Blingimine ja varustamine.md" \
-            "Vaatus III - Peipsi arveteklaarimine.md" \
-            "Epiloog - Neljas kirjapanek.md" \
-            "Tegelased.md" \
-            "Johann Taht - paritolu.md" \
-            "Toon ja viited.md" \
-            "Johann_Taht_Notes.md" \
-          | pandoc --from=gfm --to=html5 --standalone --toc --embed-resources \
-              --metadata title="Johann Taht" --metadata lang=et \
-              --output _site/index.html
+          curl -sSfL "https://github.com/rust-lang/mdBook/releases/download/${MDBOOK_VERSION}/mdbook-${MDBOOK_VERSION}-x86_64-unknown-linux-gnu.tar.gz" \
+            | tar -xz -C /usr/local/bin mdbook
+
+      - name: Assemble the book
+        run: |
+          mkdir -p src
+          # source file | slug | sidebar title. Order here is the order in the book.
+          while IFS='|' read -r file slug title; do
+            [ -z "$file" ] && continue
+            # Obsidian bits mdBook does not know: [[wikilink]] -> plain text,
+            # "> [!note] Pealkiri" callout marker -> a bold heading line.
+            sed -E 's/\[\[[^]|]*\|([^]]*)\]\]/\1/g; s/\[\[([^]]*)\]\]/\1/g; s/^> \[!([a-zA-Z]+)\][-+]? ?(.*)$/> **\2**/' \
+              "$file.md" > "src/$slug.md"
+            printf '%s\n' "$file|$slug|$title" >> /tmp/chapters
+          done <<'LIST'
+          Johann Taht|ulevaade|Ülevaade
+          Vaatus 0 - Enne porgandit|vaatus-0|0 — Enne porgandit
+          Vaatus I - Taht süttib|vaatus-1|I — Taht süttib
+          Vaatus II - Blingimine ja varustamine|vaatus-2|II — Blingimine
+          Vaatus III - Peipsi arveteklaarimine|vaatus-3|III — Peipsi
+          Epiloog - Neljas kirjapanek|epiloog|Epiloog
+          Tegelased|tegelased|Tegelased
+          Johann Taht - paritolu|paritolu|Päritolu
+          Toon ja viited|toon|Toon ja viited
+          Johann_Taht_Notes|toormarkmed|Toormärkmed
+          LIST
+
+          {
+            echo '# Summary'
+            echo
+            head -1 /tmp/chapters | while IFS='|' read -r file slug title; do
+              echo "[$title]($slug.md)"
+            done
+            echo
+            tail -n +2 /tmp/chapters | while IFS='|' read -r file slug title; do
+              echo "- [$title]($slug.md)"
+            done
+          } > src/SUMMARY.md
+
+          cat > book.toml <<'TOML'
+          [book]
+          title = "Johann Taht"
+          description = "Metsavenna ballaad kolmes vaatuses, ühe hobuse ja kolmeharulise porgandiga."
+          language = "et"
+          src = "src"
+
+          [output.html]
+          default-theme = "ayu"
+          preferred-dark-theme = "ayu"
+          no-section-label = true
+          TOML
+
+          mdbook build -d _site
+
       - uses: actions/upload-pages-artifact@v3
       - id: deployment
         uses: actions/deploy-pages@v4
