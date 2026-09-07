@@ -15,7 +15,7 @@ Vt [[Johann Taht]]
 ## Johann Taht
 *Peategelane · endine metsavend*
 
-Vaikne mees, kes tahab kasvatada porgandit ja mängida malet iseenda vastu. Kust ta tuli, vt [[Johann Taht - paritolu]]; filmis seda ei mainita. Bunkri sissepääsus tavaline mullaauk, all pallibassein, kinosaal ja relvakamber. Ei tõsta häält kordagi terve filmi jooksul.
+Vaikne mees, kes tahab kasvatada porgandit ja mängida malet iseenda vastu. Kust ta tuli, näitab [[Vaatus 0 - Enne porgandit]] ja seletab [[Johann Taht - paritolu]]; ükski tegelane ei tea sellest midagi. Bunkri sissepääsus tavaline mullaauk, all pallibassein, kinosaal ja relvakamber. Ei tõsta häält kordagi terve filmi jooksul.
 
 ## Zoja Kosmodemjanskaja
 *Antagonist · surematu polgu viimane*

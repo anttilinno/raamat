@@ -12,7 +12,9 @@ type: note
 
 Vt [[Johann Taht]] · [[Tegelased]]
 
-Sellest ei räägi filmis mitte keegi. Ükski tegelane ei tea sellest midagi, Johann ise kõige vähem, ja ekraanile ei jõua sellest ühtegi kaadrit. Materjal on olemas ainult selleks, et näitleja teaks, miks see mees ei kiirusta.
+Sellest ei räägi filmis mitte keegi. Ükski tegelane ei tea sellest midagi ja Johann ise ei seleta kunagi.
+
+Ekraanile jõuab osa sellest — vt [[Vaatus 0 - Enne porgandit]], kus see materjal on lahti kirjutatud stseenideks, reegliga üks lause stseeni kohta. See fail on allikas: siin on kõik välja öeldud, vaatuses ei ole midagi välja öeldud.
 
 ## Sulamine
 
@@ -90,7 +92,7 @@ Kui ta tagasi jõudis, oli töö tehtud ja maa oli teiste oma.
 Ta ei ütle selle kohta kordagi mitte midagi. Ei filmis, ei enne filmi, ei kellelegi.
 
 > [!note] Ainus haav
-> Siin on kogu tegelase põhi. Mees, kes ei tõsta häält, ei kiirusta ega seleta ennast, jäi ühel korral tööle liiga kauaks — ja selle ajaga kadus maa, mille kõrval ta oli üheksa tuhat aastat elanud. Publik ei tohi seda kunagi teada saada. Näitleja peab seda teadma iga kaadri juures.
+> Siin on kogu tegelase põhi. Mees, kes ei tõsta häält, ei kiirusta ega seleta ennast, jäi ühel korral tööle liiga kauaks — ja selle ajaga kadus maa, mille kõrval ta oli üheksa tuhat aastat elanud. Publik näeb seda [[Vaatus 0 - Enne porgandit|0.5. stseenis]] ja ei kuule selle kohta ühtegi sõna: see on vaatuse ainus stseen, kus Johanni lauset ei tule.
 
 > [!note] Miks ta uuesti ei ürita
 > Ta ei ole kättemaksja ega vabastaja ja film ei tee temast kumbagi. Ta läheb III vaatuses välja porgandi pärast, mitte Eesti pärast. See, et kogu küla tuleb kaasa, ei ole tema plaan ja ta ei märka seda enne, kui asi on läbi.
@@ -101,8 +103,8 @@ Ta ei ütle selle kohta kordagi mitte midagi. Ei filmis, ei enne filmi, ei kelle
 
 Ta ei paranda kunagi kedagi. Parandamine tähendaks, et tal on tähtis, mismoodi teda kirja pannakse, ja sellest hetkest oleks nimi nende oma.
 
-> [!note] Miks seda filmis ei ole
-> Kogu see materjal on taust, mitte tagasivaade. Ükski kaader siit ei tohi ekraanile jõuda ja ükski tegelane ei tohi seda mainida. Publik peab nägema keskealist meest vankri peal ja tundma, et temaga on midagi valesti, ilma et keegi seletaks, mis.
+> [!note] Mis läheb ekraanile
+> Vaatus 0 näitab neid sündmusi ja ei seleta neist ühtegi. Ükski tegelane ei tohi seda materjali hiljem mainida ja Johann ise ei tohi sellele kordagi viidata. Publik peab pärast eellugu nägema 1. stseenis keskealist meest vankri peal ja teadma temast rohkem, kui teab ükski tegelane terves filmis.
 
 > [!note] Vali hääl
 > Ainus kord, kui Johann on kunagi valjusti rääkinud, oli tööülesanne, ja see läks halvasti. Sellest ajast peale ei tõsta ta häält, mitte kordagi, mitte kogu filmi jooksul. Seda ei seletata.

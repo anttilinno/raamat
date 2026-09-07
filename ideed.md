@@ -7,7 +7,7 @@ Lasermõõk tähesõdadest (ei sooovita, sööb palju patareisid ja ei tööta n
 
 ---
 
-J. Tuha vahepealsed aastad (päritolu, ekraanile ei jõua):
+J. Tuha vahepealsed aastad (toormaterjal, millest sai Vaatus 0):
 
 Pärast eesti vanemate osalist rumalust pettus ära. Ei plahvatanud, ei pidanud kõnet — lihtsalt lakkas ootamast.
 Hakkas siinsetele võimuesindajatele musta tööd tegema. Kellele parasjagu vaja oli. Põhiliselt idasuunal.

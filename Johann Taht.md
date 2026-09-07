@@ -25,6 +25,7 @@ Johann Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakan
 
 | Vaatus | Stseenid | Fail | Staatus |
 |---|---|---|---|
+| 0 — Enne porgandit | 0.1–0.10 | [[Vaatus 0 - Enne porgandit]] | visand |
 | I — Taht süttib | 1–4 | [[Vaatus I - Taht süttib]] | visand |
 | II — Blingimine ja varustamine | 5–9 | [[Vaatus II - Blingimine ja varustamine]] | visand |
 | III — Peipsi arveteklaarimine | 10–12 | [[Vaatus III - Peipsi arveteklaarimine]] | visand |
@@ -32,7 +33,7 @@ Johann Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakan
 ## Materjal
 
 - [[Tegelased]]
-- [[Johann Taht - paritolu]] — päritolulugu, ekraanile ei jõua
+- [[Johann Taht - paritolu]] — päritoluloo allikas, kust Vaatus 0 on kokku pandud
 - [[Toon ja viited]]
 - [[Johann_Taht_Notes]] — algsed toormärkmed, puutumata
 
