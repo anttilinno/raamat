@@ -74,7 +74,13 @@ Keegi lauas võtab pastaka.
 
 Pastakas liigub. Kaader on paberil.
 
-Porgandist saab kutsikas, sest kutsikat saab publikule seletada. Porganditest saavad mündid, sest mündid loevad. Varastatud juurvilja restoranist saab hotell, sest hotellis saab filmida. Malelauast ei saa midagi, sest malelauda ei jõua keegi selgeks teha.
+Porgandist saab kutsikas, sest kutsikat saab publikule seletada.
+
+Mündid jäävad müntideks — need olid olemas juba enne teda ja neid loeti niisamuti. Ainult Nikolai tuleb pealt maha: tsaari ei müü, tsaari peab keegi seletama. Asemele lüüakse vapp, mida ei ole kunagi olemas olnud, ja see töötab kohe.
+
+Varastatud juurvilja restoranist saab autotöökoda, sest varastatud kaupa on lihtsam näidata rauana kui juurviljana. Laud, kus makstakse mündiga ja kus keegi ei loe raha üle, tõstetakse omaette majja ja majast saab hotell.
+
+Malelauast ei saa midagi, sest malelauda ei jõua keegi selgeks teha.
 
 Mees ise jääb alles: vaikne, aeglane, viisakas, ja täiesti võimatu peatada.
 
