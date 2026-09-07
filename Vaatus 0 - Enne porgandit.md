@@ -428,6 +428,8 @@ Keegi ei paranda teda. Kaadris ei ole kedagi, kes saaks.
 
 Ja sellest päevast peale hakkab mäger tegema asju, mida mägrad ei tee.
 
+Bunkri juures on mägraliin juba olemas. Juhan ei õpeta neid ega korralda midagi — ta lihtsalt viib Muri sinna korra kaasa, ja järgmisel korral tulevad ülejäänud tema järel. Nii ta ülemaks saabki, ilma et keegi seda kunagi ütleks.
+
 Nädal hiljem läheb loom halvaks. Suu vahutab, silm ei kannata valgust, vett ta ei joo, kuigi kauss on kaks sammu eemal. Marutaud — ja mitte alguses. Lõualuu ei kuula, tagajalad ei kanna, vesi teeb hirmu. See on lõppfaas.
 
 Lõppfaasist ei ole välja tulnud ükski loom ega ükski inimene, mitte kusagil, mitte kunagi.

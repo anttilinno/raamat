@@ -100,7 +100,17 @@ Bunkri kaitse on läbimõeldud: miiniväli, kurjad mägrad, vallikraav haide ja 
 
 [[Tegelased|Dima]] on Bolti kuller. Tal on tuunitud elektritõuks: piiraja maha võetud, aku suurem kui seadus lubab, esilatern teibiga kinni. Ta teab bunkrini viivat kullerirada, sest ta on seda mööda sõitnud kümneid kordi.
 
-Tõuks on miinide jaoks liiga kerge. Mootorit tal ei ole, nii et mägrad ei kuule midagi. Vallikraavi kohal on laudtee, mille Juhan ehitas ise, sest pitsa peab kohale jõudma soojalt.
+Tõuks on miinide jaoks liiga kerge. Vallikraavi kohal on laudtee, mille Juhan ehitas ise, sest pitsa peab kohale jõudma soojalt.
+
+Mägrad oleksid pidanud kuulma. Mägradel on ülem ja ülem on [[Tegelased|Muri]].
+
+Alla jookseb tiitel: **MURI, kaitsemägrade ülem**.
+
+Tiitel jookseb üle kaadri, kus ta magab.
+
+Kuuri all on lähker. Juhanil on mesi ja mesest tuleb mõdu, ja mõdu seisab kuuri all sellepärast, et seal on jahe. Lähker on ümber läinud ja tühi.
+
+Ülejäänud mägrad ootavad käsku. Käsku ei tule, sest ülem magab, ja ilma käsuta ei tee nemad ka midagi.
 
 Kolm meest tõuksi peal. Aeglaselt. Vaikselt. Öö läbi ei lähe ükski laser tööle.
 
@@ -122,6 +132,12 @@ Lõige tagasi. Juhan paneb viimase malenupu lauale. Ei tõsta häält.
 
 > [!note] Paradoks lahendatud
 > Sissemurdmise seletus tuleb sama stseeni sees ja täiesti tõsisel toonil. Kaitseliin, mida Juhan ei arvestanud, ehitas ta ise ja tegi seda sooja pitsa nimel.
+
+> [!note] Mõdu
+> Teine auk on samuti tema enda tehtud: mesi on tema, mõdu on mesest, lähker on kuuri all, sest seal on jahe. Ükski tegelane ei ütle seda välja ja Juhan ei heida Murile kordagi ette. Ainus, kes seda ööd mäletab, on mäger — ja kõik, mida ta III vaatuses mahalastud meeste juures teeb, tuleb sellest.
+
+> [!note] Ülem magab
+> Tiitel antakse talle täpselt sel hetkel, kui ta seda kõige vähem väärib, ja seda ei kommenteeri keegi. Sama žest nagu 0.3 ja 0.4 vahel, kus Kalevipoeg saab kuninga tiitli alles vees. Riik ja film panevad nimesilte inimeste külge siis, kui see kõige rohkem valutab.
 
 > [!note] Järjekord on kõik
 > Malelaud avastatakse esimesena, aga see on väiksem kaotus. Porgand tuleb pausi järel ja võtab stseeni üle. John Wickil oli kutsikas surnud naiselt; Juhanil on porgand võõralt, keda ta enam kunagi ei leia. Kaotus on sama suur, sest kaamera ütleb, et on.

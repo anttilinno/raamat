@@ -34,9 +34,9 @@ Hing on väljaspool keha, Kaštšei muna sees, köögikapis. Vt [[Vaatus III - P
 > Gurmeeregister on selleks hetkeks olnud naljakas kaks stseeni. Siin ta lakkab olemast ja seda ei märgi ära ükski muusika, lõige ega reaktsioon — Zoja räägib edasi ja mehed kuulavad viisakalt. Kaadris ei tohi keegi teda korrigeerida ega tema peale naerda. Publik peab ise aru saama, et ta on lõpetanud koleda naljanumbri vaatamise ja alustanud koletise vaatamist.
 
 ## Muri
-*Kõrvaltegelane · mäger · PTSD*
+*Kõrvaltegelane · kaitsemägrade ülem · PTSD*
 
-Psühhootiliste vägivallahoogudega mäger. Tuli raudteetammi kraavist ja jäi kahe meetri kaugusele; vt [[Vaatus 0 - Enne porgandit|0.11]]. Kannab koeranime, mille Juhan talle andis ja mida keegi ei ole parandanud. Lõppfaasis marutaud raviti ühe rusikahoobiga pähe; värisemist see ei ravinud. Läheb iga NKVD-lase juurde, kelle Juhan on juba maha löönud, ja kargab teda jalast — mida mägrad ei tee ja koerad teevad, ja tema on see, kellele pandi koeranimi. Mitte isu, vaid ärevus: kargamine on loomal enese rahustamine ja Murit ei ole keegi rahustanud alates loomavagunist. Ainus tegelane, kelle motiivid on filmis täielikult lahti kirjutatud — ja ainus, kelle kättemaks ei näe välja nagu kättemaks.
+Psühhootiliste vägivallahoogudega mäger. Tuli raudteetammi kraavist ja jäi kahe meetri kaugusele; vt [[Vaatus 0 - Enne porgandit|0.11]]. Kannab koeranime, mille Juhan talle andis ja mida keegi ei ole parandanud. Lõppfaasis marutaud raviti ühe rusikahoobiga pähe; värisemist see ei ravinud. Läheb iga NKVD-lase juurde, kelle Juhan on juba maha löönud, ja kargab teda jalast — mida mägrad ei tee ja koerad teevad, ja tema on see, kellele pandi koeranimi. Mitte isu, vaid ärevus: kargamine on loomal enese rahustamine ja Murit ei ole keegi rahustanud alates loomavagunist. Ja see algas ööst, mil ta oleks pidanud valvama, aga oli kuuri all mõdu joonud. Ainus tegelane, kelle motiivid on filmis täielikult lahti kirjutatud — ja ainus, kelle kättemaks ei näe välja nagu kättemaks.
 
 ## Dima
 *Kaak · Bolti kuller*
