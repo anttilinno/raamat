@@ -139,13 +139,15 @@ Ta teeb tööd neile, kes parasjagu käsivad. Põhiliselt idasuunal.
 
 Sild. Morn mees läheb üle. Sama sild, teine sajand, teine vorm valvuri seljas: morn mees läheb üle. Kolmas kord: valvur ei küsi enam midagi, sest kõik teavad juba seda meest.
 
-Musta katku ajal teeb ta pool päeva tööd ja läheb koju, sest pea hakkab kergelt valutama. Kaamera saadab teda koduni. See on tema elu ainus haigus.
+Musta katku ajal teeb ta pool päeva tööd ja läheb koju, sest pea hakkab kergelt valutama. Võte saadab teda koduni. See on tema elu ainus haigus.
 
 Ja siis üks missioon.
 
-Ta on positsioonil olnud pärastlõunast saati. Lamab liikumatult, hingab aeglaselt, ei muuda asendit ka siis, kui valvurid käivad kahe meetri kauguselt mööda. Kaamera on tema kõrval maas ja mängib seda täpselt nii, nagu mängitakse tänapäeva erioperatsiooni: pikk ootamine, madal heli, mitte ühtegi liigset liigutust.
+Ta on positsioonil olnud pärastlõunast saati. Lamab liikumatult, hingab aeglaselt, ei muuda asendit ka siis, kui valvurid käivad kahe meetri kauguselt mööda. Võte on tema kõrval maas ja mängitakse täpselt nii, nagu mängitakse tänapäeva erioperatsiooni: pikk ootamine, madal heli, mitte ühtegi liigset liigutust.
 
 Relv on hang.
+
+Missiooniga on kaasas kunstnik, sest töö teostamine tuleb jäädvustada. Molbert seisab kolm sammu positsiooni taga, lõuend on pingutatud, värvid on segatud juba enne pimedat. Kunstnik töötab vaikselt ja aeglaselt, sest aega on.
 
 Sihik on paigas. Sihiku otsas on Peeter Esimene, tuli selja taga, täiesti kaitsetu. Objekt on tuvastatud. Kaugus on hea. Tuult ei ole.
 
@@ -157,21 +159,30 @@ Küünal kustub. Objekt läheb magama. Valvurid vahetuvad. Koidab.
 
 Käsku ei tule.
 
-Johann tõmbub tagasi täpselt mööda seda teed, mida mööda ta tuli, ega jäta endast maha ühtegi märki. Peeter jääb elama ja ajalugu läheb nii, nagu läheb.
+Lõuend on selleks ajaks valmis. Kunstnik on jõudnud maalida terve stseeni: Peeter Esimene maas, hang püsti, taevas dramaatiline. Töö on hea. Töö on ka tegemata.
 
-Tagasi jõudes annab ta aru.
+Johann vaatab pilti korra. Ei ütle midagi ega paranda ka seda.
+
+Ta tõmbub tagasi täpselt mööda seda teed, mida mööda ta tuli, ega jäta endast maha ühtegi märki. Peeter jääb elama ja ajalugu läheb nii, nagu läheb.
+
+Luba ise oleks tulnud pärgamendil, vahakärbisega, kolm päeva hobuse seljas. Nii käib side.
+
+Tagasi jõudes annab ta aru. Kirjutaja kastab sule ja ootab.
 
 > — Objekt oli sihikul.
 >
 > *— Johann Taht*
 
-Rohkem ei küsita ja rohkem ta ei ütle.
+Rohkem ei küsita ja rohkem ta ei ütle. Kirjutaja paneb pärgamendile kirja pikema lause, kui öeldi, rullib kokku ja pitseerib.
 
 > [!note] Käsuta ta ei tee
 > See peab olema kaadris jäine ja täiesti tavaline: mitte kõhklus, mitte halastus, vaid tööreegel. Sama reegel murdub III vaatuses ühe juurvilja pärast ja seda ei kommenteeri keegi.
 
 > [!note] Erioperatsioon hanguga
-> Kogu ootamine mängitakse tänapäeva eriüksuse käekirjas — positsioon, kannatus, objekt tuvastatud, luba. Ainult luba ei tule raadiost, vaid mehelt, kes on kolme päeva tee kaugusel ja magab. Anakronismi ei tohi keegi kommenteerida ega naerma ajada; see töötab ainult siis, kui kaader võtab protseduuri täiesti tõsiselt. «Objekt oli sihikul» on aruanne, mitte vabandus.
+> Kogu ootamine mängitakse tänapäeva eriüksuse käekirjas — positsioon, kannatus, objekt tuvastatud, luba. Ainult ükski aparaat ei tohi kaadrisse sattuda: relv on hang, side on pärgament ja vahapitsat, ja luba tuleb kolme päeva tee kauguselt hobuse seljas. Anakronism on protseduuris, mitte esemetes, ja seda ei kommenteeri keegi. «Objekt oli sihikul» on aruanne, mitte vabandus.
+
+> [!note] Kaks valet ühest ööst
+> Lõuendil on Peeter maas ja pärgamendil on pikem lause, kui öeldi. Kumbki ei ole pahatahtlik: kunstnik maalis ette, sest niimoodi need pildid käivad, ja kirjutaja kirjutas ilusamini, sest niimoodi need aruanded käivad. Johann ei paranda kumbagi, täpselt nii nagu ta ei paranda oma nime. Sama muster nagu Tacitusega, kaks tuhat aastat vahet, sama tulemus — ja kusagil ripub siiani pilt tööst, mida ei tehtud.
 
 ---
 
