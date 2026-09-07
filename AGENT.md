@@ -21,14 +21,17 @@ restaurant) is the load-bearing structure, not decoration.
 - `*.md` — the chapters. Obsidian-flavoured Markdown: `[[wikilinks]]`,
   `> [!note]` callouts, and slug lines shaped
   `**SISE. RESTORAN — ÕHTU** · *beat: maailm*`.
+- `README.md` — the index. Plain links to every chapter, because GitHub does
+  not resolve `[[wikilinks]]`. Keep it in sync when chapters come and go.
 - `.github/workflows/pages.yml` — renders the chapters with pandoc on push and
   publishes the result. No build artifact is committed.
 
 ## Rules
 
 - Edit `.md` and push. There is no local build step.
-- New chapter → add its filename to the chapter list in
-  `.github/workflows/pages.yml`; files missing from that list are not published.
+- New chapter → link it in `README.md`, and add its filename to the chapter
+  list in `.github/workflows/pages.yml`; files missing from that list are not
+  published.
 - Text is Estonian. Do not "fix" it into English, do not rewrite voice or
   register. Language corrections only when asked.
 
