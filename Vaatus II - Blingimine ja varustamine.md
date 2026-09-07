@@ -221,7 +221,7 @@ Ta ei ütle rohkem midagi. Võtab lusika ja jätkab söömist täpselt sealt, ku
 > Boršš on nähtav, punane ja täiesti tavaline. Just sellepärast saab Zoja rääkida aastakäigust ja nõlvast, ilma et keegi peaks midagi ümber lükkama — kaader pakub kohe süütu seletuse ja publik valib ise, kumba ta usub. Risti ei kommenteerita samal põhjusel, millega ei kommenteerita turutüdruku kostüümi: kandja jaoks on see tööriietus.
 
 > [!note] Kaks lünka korraga
-> Stseen paneb Zoja ekraanile juba II vaatuses ja annab beebi-sommeljee registrile koha, kus ta ei ole naljanumber, vaid iseloomustus. Kratt ühendub 9. stseeni tagatoaga.
+> Stseen paneb Zoja ekraanile juba II vaatuses ja annab beebigurmee registrile koha, kus ta ei ole naljanumber, vaid iseloomustus. Kratt ühendub 9. stseeni tagatoaga.
 
 ---
 

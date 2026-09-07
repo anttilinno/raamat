@@ -40,7 +40,7 @@ Juhan Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakanu
 
 ## Lahtised otsad
 
-- [x] Zoja «beebi-sommeljee» monoloog: eraldi 6. stseen parteikomitees, kohe telefonikõne järel.
+- [x] Zoja «beebigurmee» monoloog: eraldi 6. stseen parteikomitees, kohe telefonikõne järel.
 - [x] Turutüdruk: toateenija kostüüm, sinimustvalge tanu, võrksukad ja viisud.
 - [ ] Kolmeharuline porgand peab III vaatuses tagasi tulema. Kelle taskus ta on, kui Zoja langeb?
 - [ ] Tank saab II vaatuses blingi, aga ei sõida III vaatuses kordagi. Kas peaks — või on nali just selles, et ei?
