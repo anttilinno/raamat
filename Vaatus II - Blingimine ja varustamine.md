@@ -283,9 +283,26 @@ Johann jääb kuuri. Diskopall keerleb veel natuke, hoo pealt, ja jääb siis se
 
 Traagikoomiline mustvalge vahepala. [[Tegelased|Muri]] pere laaditakse koos teiste loomadega loomavagunisse. Vene püssimehed, uksed kinni, rong hakkab liikuma. Siht: Tver.
 
+Muusikat ei ole. Selle asemel laulavad lapsed. Laul on «Rongisõit» ja see räägib täpselt sellest, mis ekraanil toimub: loomad lähevad rongi peale ja sõidavad külla.
+
+> Kiisud sõitsid Türile,
+> sõitsid külla Jürile.
+>
+> *— «Rongisõit» · lastekoor kaadri taga, ilma saateta*
+
+Lapsed ei laula kurvalt. Lapsed ei laula kunagi kurvalt. Laulu ei aeglustata, ei mängita mollis ega katkestata efekti pärast — ta käib rõõmsalt edasi üle püssimeeste, üle uste ja üle liikuma hakkava rongi.
+
 Kohale nad ei jõua. Vedurijuht joob viina ja jääb magama. Rong jääb seisma keset välja. Uksed avanevad. Loomad lähevad laiali.
 
+Laulus läheb rong lõpuks kraavi ja kõik lähevad uperpalli. Siin ei lähe keegi uperpalli. Siin jääb üks mees magama, ja ainult sellepärast on Muri elus.
+
 Tagasi olevikku: Muri istub Johanni kõrval ja väriseb. Ja siis kargab kallale järgmisele juba mahalastud NKVD-lasele.
+
+> [!note] Laul
+> Ainus koht filmis, kus muusikaks on lastelaul, on ka ainus koht, kus kaadris on loomavagun. Laul jääb algusest lõpuni rõõmsaks ja kogu töö teeb ära see, et publik teab sõnu peast. Filmis endas ei kommenteeri seda mitte keegi.
+
+> [!note] Kraav
+> Lauluversioonis lõpeb sõit õnnetusega ja see on nali. Siin on õnnetus — purjus vedurijuht — ainus asi, mis kedagi päästab. Sama sündmus, vastupidine märk; seletust ei tule.
 
 ---
 
