@@ -340,7 +340,7 @@ Siis põhikäik.
 >
 > *— Sepp ja Juhan*
 
-Lauale tuuakse Kalevipoja mõõk. Sepp ei lase Juhanil seda puudutada. Pöiale on löödud tempel: MADE IN FINLAND. Kaamera leiab selle ise, ilma et keegi sinnapoole vaataks.
+Lauale tuuakse Kalevipoja mõõk. Sepp ei lase Juhanil seda puudutada. Käepidemele on löödud tempel: MADE IN FINLAND. Kaamera leiab selle ise, ilma et keegi sinnapoole vaataks.
 
 Sepp ütleb päritolu välja nii, nagu sommeljee ütleb aastakäiku — aeglaselt ja natuke kurvalt.
 
