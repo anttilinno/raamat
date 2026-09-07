@@ -342,6 +342,14 @@ Siis põhikäik.
 
 Lauale tuuakse Kalevipoja mõõk. Sepp ei lase Juhanil seda puudutada. Pöiale on löödud tempel: MADE IN FINLAND. Kaamera leiab selle ise, ilma et keegi sinnapoole vaataks.
 
+Sepp ütleb päritolu välja nii, nagu sommeljee ütleb aastakäiku — aeglaselt ja natuke kurvalt.
+
+> — Karhu tehas. Vana seeria, enne seda, kui tootmine Hiinasse viidi.
+> — Ja siis?
+> — Siis läks teras teiseks. Aga see siin on veel see õige, ja just see ongi mure.
+>
+> *— Sepp ja Juhan*
+
 > — Ei soovita. Imporditud. Kipub konnasilmasid maha lõikama kuni põlvedeni.
 > — Ja kui mõõk ära võetakse?
 > — Siis jäävad lauad.

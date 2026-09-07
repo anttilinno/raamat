@@ -105,7 +105,7 @@ Ta pöörab ümber ja läheb. Matustele ta ei lähe, sest teda ei kutsutud.
 > [!note] Tehniline järelvaatlus
 > Kalevipoeg läbis ekstreemse kaalulangetusprogrammi: kaks jalga ja mitu liitrit verd, kõik ühe hommikuga, ilma kordusteta. Tulemus on püsiv.
 >
-> Sihtimissüsteem töötas nõuetekohaselt — tera tabas täpselt seda, mille kohal ta oli. Viga oli oma-võõra eristuses (IFF): süsteem tuvastas kandja võõraks ja täitis käsu, mille oli andnud omanik ise. Käsk oli kehtiv, täitmine korrektne, tulemus vale. Süsteem eemaldas sihtmärgilt kaks jäset ja lõpetas programmi enne tähtaega.
+> Tegemist on Karhu tehase vana seeriaga, enne tootmise Hiinasse viimist; teras on laitmatu ja see on osa probleemist. Sihtimissüsteem töötas nõuetekohaselt — tera tabas täpselt seda, mille kohal ta oli. Viga oli oma-võõra eristuses (IFF): süsteem tuvastas kandja võõraks ja täitis käsu, mille oli andnud omanik ise. Käsk oli kehtiv, täitmine korrektne, tulemus vale. Süsteem eemaldas sihtmärgilt kaks jäset ja lõpetas programmi enne tähtaega.
 >
 > Seda ei ütle kaadris mitte keegi. Juhanil on selle kohta ainsana tehniline arvamus ja ta jätab selle ütlemata — «Tera ei olnud süüdi» on kogu ekspertiis, mis publikuni jõuab, ja see on ühtlasi ainus kord terves filmis, kui ta kedagi kaitseb.
 
