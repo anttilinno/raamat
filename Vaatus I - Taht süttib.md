@@ -21,7 +21,15 @@ Johann driftib oma puust taluvankriga ümber väljaku. Hobune on täiesti rahuli
 
 Väljak kannab 1956. aastal Võidu väljaku nime. Johann seda nime ei kasuta ja keegi teine kaadris samuti mitte.
 
-Johanni vaates: rehvisuits, käsipidur, kaamera vankri telje kõrgusel, mootorimüra, mis hobusel puudub. Munakivi lööb rattarummu vastu nagu asfalt ei löö kunagi. Lõige kõrvalvaatajale — suvaline poisijõmpsikas istub Vabaduse risti all, haigutab ja hammustab õuna. Sammas on olemas. Keegi ei selgita, kuidas. Lõige tagasi. Suits, kurv, aeglustus. Lõige poisile. Poiss on juba ära läinud.
+Johanni vaates: rehvisuits, käsipidur, kaamera vankri telje kõrgusel, mootorimüra, mis hobusel puudub. Munakivi lööb rattarummu vastu nagu asfalt ei löö kunagi.
+
+Lõige kõrvalvaatajale — suvaline poisijõmpsikas istub Vabaduse risti all, haigutab ja hammustab õuna. Sammas on olemas. Keegi ei selgita, kuidas.
+
+Poisi vaates: hobune kõnnib. Kõnnib väga aeglaselt ja ringikujuliselt. Kaamera on poisi kõrgusel, ei liigu üldse, ja lastakse kaadril kesta kauem, kui vaataja ootab. Suitsu ei ole. Kurvi ei ole. Mootorit ei ole — on ainult kabjad munakivil, üks löök korraga, ja ring, mille hobune on juba kaks korda läbi käinud. Keskealine mees vankri peal hoiab ohje kahe käega ja vaatab otse ette. Ohjad on lõdvad. Hobune ei vaja neid, sest ring on tema oma.
+
+Poiss vaatab. Ring ei muutu. Poiss hammustab õuna edasi.
+
+Lõige tagasi. Suits, kurv, aeglustus. Lõige poisile. Poiss on juba ära läinud.
 
 > [!note] Märkus
 > Heli teeb siin kogu töö. Pilt on vanker. Heli on Nürburgring.
