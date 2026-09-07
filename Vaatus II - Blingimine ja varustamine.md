@@ -233,6 +233,15 @@ Pealt on see tavaline metsavenna mullaauk. All on kolm korrust: pallibassein, ki
 
 Kuuris seisab roostes T-34. Xzibit, Ryan Friedlinghaus ja Mad Mike ilmuvad bunkrisse ette teatamata. Tank värvitakse üle, topitakse blingi täis — militaarne ja mittemilitaarne segamini, kristall-luster laskemoonasalve kohal.
 
+Ja nad karjuvad. Terve montaaži jooksul, iga kord, kui midagi valmis saab: lihvija käib, keegi tõstab käed üles, keegi lööb pihku.
+
+> — Pimp my tank!
+> — PIMP MY TANK!
+>
+> *— Xzibit ja meeskond · korduvalt, üle muusika*
+
+Johann on kaadris kaasas ja noogutab viisakalt. Ta ei karju kaasa. Keegi ei pane seda tähele, sest keegi ei vaata teda — kõik vaatavad tanki.
+
 Montaaž lõpeb. Muusika lõpeb koos sellega ja midagi ei tule asemele.
 
 Kuuri uksed tõmmatakse lahti. Tank seisab hommikuvalguses: kahekümne kuue tollised kroomitud valuveljed, poldid roomikute vahelt läbi, nii et masin ei saa enam kuhugi sõita. Toru otsas vibreerib väike lipp. Torniluugist ripub alla diskopall ja pöörleb aeglaselt, sest keegi lülitas selle demonstratsiooniks sisse.
@@ -243,6 +252,14 @@ Ta ei ole vihane. Ta on kurb, ja see on palju halvem. Kaamera jääb tema näole
 
 Xzibit ootab. Ta on selle hetke jaoks olemas, ta on seda tuhat korda teinud ja ta teab, mis nüüd tavaliselt tuleb. Seekord ei tule.
 
+Mad Mike avab harjumusest suu.
+
+> — Pimp my...
+>
+> *— Mad Mike*
+
+Ta jätab selle pooleli. Keegi ei võta üles.
+
 Nad hakkavad ükshaaval välja minema. Mad Mike võtab mütsi peast. Ryan sirutab käe torniluugi juurde ja lülitab diskopalli välja, ettevaatlikult, nagu kustutaks küünla. Keegi ei ütle head aega, sest head aega ütlemiseks peaks keegi kõigepealt midagi ütlema.
 
 Uks pannakse kinni ilma paugutamata.
@@ -251,6 +268,9 @@ Johann jääb kuuri. Diskopall keerleb veel natuke, hoo pealt, ja jääb siis se
 
 > [!note] Tempo
 > Kaks kõrvalliini ühes stseenis, montaažina. See on filmi ainus koht, kus muusika on rõõmus — ja ta lõpeb enne stseeni, mitte koos temaga.
+
+> [!note] Hääl
+> Terves filmis ei tõsta häält mitte keegi: ei Johann, ei Ostrat, ei Zoja. Ainsad, kes karjuvad, on külalised, ja nad karjuvad rõõmust. Poolelijäänud «Pimp my...» on see koht, kus film oma ainsa valju hääle tagasi võtab, ja pärast seda ei karju enam keegi.
 
 > [!note] Miks ta kurb on
 > Johann ei ütle kordagi, mis viga on, ja seletust ei tule ka hiljem. Ainus asi, mida ta terve stseeni jooksul teeb, on üks ring ümber masina, mis enam ei liigu. Häbi kaadris on külaliste oma, mitte tema oma, ja just see teeb stseeni valusaks: nemad said aru enne teda ja tema ei pidanud selleks midagi tegema.
