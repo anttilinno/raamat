@@ -34,7 +34,30 @@ Ja siis, väga kaugel, tuleb üle nõmme esimene inimene. Siis teine. Nad ei nä
 
 ---
 
-## 0.2. Hääl
+## 0.2. Soe maa
+
+**VÄL. LIIVAVÄLI — PÄEV** · *beat: puhkus*
+
+Kuum. Palmid. Teine muusika, ainus kord terves filmis, kui muusika on võõramaine.
+
+Johann on puhkusel. Ta ei tee midagi kiiresti.
+
+Ta seisab paja juures ja näitab kohalikele, kuidas käib: linnased, vesi, kannatus. Mehed maitsevad. Üks noogutab. Õlu on olemas.
+
+Lõige: kirjatundja kirjutab midagi savisse. Lõige: ehitajatele antakse kannud kätte. Palgapäev.
+
+Siis on nädalavahetus.
+
+Montaaž on lühike ja täiesti tõsine: mees tõstab kive, mees paneb kive kohale, päike käib kaks korda üle taeva. Ta ei higista rohkem kui vaja.
+
+Esmaspäeva hommikul seisab platsil kolm püramiidi. Kohalikud vaatavad neid. Johann korjab asjad kokku ja läheb koju.
+
+> [!note] Ainus nali, mille ta ise on teinud
+> Ehitamise põhjus ei ole edevus ega kingitus. Ta teadis, et kunagi hakkavad inimesed neid seletama. Seda ei öelda kaadris välja ja seda ei vihjata näoga — see peab jääma ainult vaatuse rütmi sisse, kus püramiidid võtavad täpselt sama palju aega kui õlleõpetus.
+
+---
+
+## 0.3. Hääl
 
 **VÄL. KIVIVÄLI — PÄEV** · *beat: hääl*
 
@@ -54,7 +77,7 @@ Kivi maandub. Keegi ei plaksuta. Kalevipoeg vaatab viskejoone poole ja Johann ei
 
 ---
 
-## 0.3. Tera
+## 0.4. Tera
 
 **VÄL. KÄÄPA JÕGI — HOMMIK** · *beat: tera*
 
@@ -81,29 +104,6 @@ Ta pöörab ümber ja läheb. Matustele ta ei lähe, sest teda ei kutsutud.
 > Sihtimissüsteem töötas nõuetekohaselt — tera tabas täpselt seda, mille kohal ta oli. Viga oli oma-võõra eristuses (IFF): süsteem tuvastas kandja võõraks ja täitis käsu, mille oli andnud omanik ise. Käsk oli kehtiv, täitmine korrektne, tulemus vale. Süsteem eemaldas sihtmärgilt kaks jäset ja lõpetas programmi enne tähtaega.
 >
 > Seda ei ütle kaadris mitte keegi. Johannil on selle kohta ainsana tehniline arvamus ja ta jätab selle ütlemata — «Tera ei olnud süüdi» on kogu ekspertiis, mis publikuni jõuab, ja see on ühtlasi ainus kord terves filmis, kui ta kedagi kaitseb.
-
----
-
-## 0.4. Soe maa
-
-**VÄL. LIIVAVÄLI — PÄEV** · *beat: puhkus*
-
-Kuum. Palmid. Teine muusika, ainus kord terves filmis, kui muusika on võõramaine.
-
-Johann on puhkusel. Ta ei tee midagi kiiresti.
-
-Ta seisab paja juures ja näitab kohalikele, kuidas käib: linnased, vesi, kannatus. Mehed maitsevad. Üks noogutab. Õlu on olemas.
-
-Lõige: kirjatundja kirjutab midagi savisse. Lõige: ehitajatele antakse kannud kätte. Palgapäev.
-
-Siis on nädalavahetus.
-
-Montaaž on lühike ja täiesti tõsine: mees tõstab kive, mees paneb kive kohale, päike käib kaks korda üle taeva. Ta ei higista rohkem kui vaja.
-
-Esmaspäeva hommikul seisab platsil kolm püramiidi. Kohalikud vaatavad neid. Johann korjab asjad kokku ja läheb koju.
-
-> [!note] Ainus nali, mille ta ise on teinud
-> Ehitamise põhjus ei ole edevus ega kingitus. Ta teadis, et kunagi hakkavad inimesed neid seletama. Seda ei öelda kaadris välja ja seda ei vihjata näoga — see peab jääma ainult vaatuse rütmi sisse, kus püramiidid võtavad täpselt sama palju aega kui õlleõpetus.
 
 ---
 

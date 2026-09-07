@@ -28,6 +28,19 @@ Esimeste põlisasukatega tutvus ta rahulikult ja ilma sündmuseta. Ei õpetanud 
 
 Keele õppis ta ära korra ja lõplikult. Sellepärast räägib [[Tegelased|Dima]] tänapäeval eesti keelt paremini kui tema: Johanni oma on õige, aga ta on üheksa tuhat aastat vana ja seda on kuulda. Kaadris ei kommenteeri seda mitte keegi.
 
+## Puhkus soojal maal
+
+Ükskord ennemuistsel ajal käis ta soojal maal puhkamas. See on ainus kord terve tema eluloo jooksul, kui ta on kuskilt ära käinud lihtsalt sellepärast, et tahtis.
+
+Seal õpetas ta egiptlastele õlut tegema. Ta ei teinud sellest suurt numbrit ega jätnud endast midagi maha peale retsepti — linnased, vesi, kannatus. Egiptlased hakkasid pärast seda oma ehitajatele õlles palka maksma ja see on kirja pandud, sest see läks arvesse.
+
+Nädalavahetusel viskas ta üles kolm Giza püramiidi. Ainus põhjus oli see, et ta teadis, et kunagi hakkavad inimesed neid seletama.
+
+Ta ei jätnud ühtegi vihjet, ühtegi märki ega ühtegi lõpetamata rida. Ta jättis need lihtsalt sinna, väga täpselt, ja läks koju.
+
+> [!note] Miks see naljakas on
+> Sest kaadris ei oleks see üldse naljakas. Õlu on töö, püramiidid on nädalavahetus ja kumbagi ei kommenteerita. Ainus asi, mille üle Johann on kunagi teadlikult nalja teinud, on ajaloolased — ja nemad ei tea sellest siiamaani midagi.
+
 ## Kuningavalimised
 
 Eesti kuninga valimistel oli Johann spordireporter. Ta sai selle koha ühel põhjusel: tal oli nii vali hääl, et teda oli kuulda igasse Eestimaa nurka. Võistlus oli kividega ja publik oli laiali üle terve maa, nii et kohtunikke oli vaja vähem kui üht meest, kes ütleb, mis toimub.
@@ -55,19 +68,6 @@ Johann ei kommenteerinud seda kordagi ega läinud kohale. Ainus, mida ta selle k
 > — Tera ei olnud süüdi.
 >
 > *— Johann Taht*
-
-## Puhkus soojal maal
-
-Ükskord ennemuistsel ajal käis ta soojal maal puhkamas. See on ainus kord terve tema eluloo jooksul, kui ta on kuskilt ära käinud lihtsalt sellepärast, et tahtis.
-
-Seal õpetas ta egiptlastele õlut tegema. Ta ei teinud sellest suurt numbrit ega jätnud endast midagi maha peale retsepti — linnased, vesi, kannatus. Egiptlased hakkasid pärast seda oma ehitajatele õlles palka maksma ja see on kirja pandud, sest see läks arvesse.
-
-Nädalavahetusel viskas ta üles kolm Giza püramiidi. Ainus põhjus oli see, et ta teadis, et kunagi hakkavad inimesed neid seletama.
-
-Ta ei jätnud ühtegi vihjet, ühtegi märki ega ühtegi lõpetamata rida. Ta jättis need lihtsalt sinna, väga täpselt, ja läks koju.
-
-> [!note] Miks see naljakas on
-> Sest kaadris ei oleks see üldse naljakas. Õlu on töö, püramiidid on nädalavahetus ja kumbagi ei kommenteerita. Ainus asi, mille üle Johann on kunagi teadlikult nalja teinud, on ajaloolased — ja nemad ei tea sellest siiamaani midagi.
 
 ## Esimene ajaloolane
 
