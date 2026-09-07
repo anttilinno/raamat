@@ -302,6 +302,9 @@ Kaamera ei lõika ära ja ei tee sellest ka numbrit — plaan on lai, valgus on 
 
 Muri lõpetab omal ajal ja tuleb tagasi Juhani kõrvale istuma. Väriseb edasi.
 
+> [!note] Teine kohtumine
+> Publik on neid vaguniuksi juba korra näinud — kaks kaadrit [[Vaatus 0 - Enne porgandit|0.11. stseenis]], enne kui ta oskas neid lugeda. Siin ta saab aru, mida ta seal nägi. Filmis ei ütle seda kordagi keegi ja lõiget ei korrata pikemalt kui vaja.
+
 > [!note] Laul
 > Ainus koht filmis, kus muusikaks on lastelaul, on ka ainus koht, kus kaadris on loomavagun. Laul jääb algusest lõpuni rõõmsaks ja kogu töö teeb ära see, et publik teab sõnu peast. Filmis endas ei kommenteeri seda mitte keegi.
 

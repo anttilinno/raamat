@@ -25,7 +25,7 @@ Juhan Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakanu
 
 | Vaatus | Stseenid | Fail | Staatus |
 |---|---|---|---|
-| 0 — Enne porgandit | 0.1–0.11 | [[Vaatus 0 - Enne porgandit]] | visand |
+| 0 — Enne porgandit | 0.1–0.12 | [[Vaatus 0 - Enne porgandit]] | visand |
 | I — Taht süttib | 1–4 | [[Vaatus I - Taht süttib]] | visand |
 | II — Blingimine ja varustamine | 5–9 | [[Vaatus II - Blingimine ja varustamine]] | visand |
 | III — Peipsi arveteklaarimine | 10–12 | [[Vaatus III - Peipsi arveteklaarimine]] | visand |

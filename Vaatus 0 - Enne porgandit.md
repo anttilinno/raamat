@@ -9,7 +9,7 @@ type: note
 
 # Vaatus 0 — Enne porgandit
 
-Eellugu. Üksteist stseeni, üheksa tuhat aastat, kokku alla veerandtunni. Vt [[Juhan Taht]] · [[Juhan Taht - paritolu]]
+Eellugu. Kaksteist stseeni, üheksa tuhat aastat, kokku alla veerandtunni. Vt [[Juhan Taht]] · [[Juhan Taht - paritolu]]
 
 Reegel, mis kehtib terve vaatuse: **ülimalt üks lause stseeni kohta**, ja enamasti mitte ühtegi. Ei seletata, ei jutustata, jutustajahäält ei ole. Aastaarve ekraanile ei kirjutata mitte kordagi.
 
@@ -392,7 +392,54 @@ Rinne Sinimägedes seisab. Punased otsustavad rünnata mujalt.
 
 ---
 
-## 0.11. Vanker
+## 0.11. Muri
+
+**VÄL. RAUDTEETAMM · MESILA — SÜGIS** · *beat: kaaslane*
+
+Sõda on läbi. Raudteetamm on tühi, rööpad roostes, kruus vajunud.
+
+Tammi all kraavis on midagi. Kaamera läheb ligemale nii aeglaselt, nagu minnakse looma juurde: mäger. Kõhn, must-valge, üks kõrv katki.
+
+Ta ei jookse ära ja ei ründa. Ta väriseb.
+
+Lõige, väga lühike, ilma helita: kinnised vaguniuksed. Ainult kaks kaadrit ja tagasi. Publik teab neid kaadreid, sest ta on neid näinud — ja ta näeb neid alles kaks vaatust hiljem.
+
+Juhan tuleb mööda tammi, kott seljas. Ta jääb seisma.
+
+Ta ei kutsu looma ega sirutu tema poole. Ta istub kraaviserva peale ja jääb istuma, nagu ta on istunud üheksa tuhat aastat.
+
+Valgus muutub. Mäger tuleb kraavist välja. Vahemaa on kaks meetrit ja jääb kaheks meetriks.
+
+Juhan tõuseb ja läheb koju. Mäger tuleb järele, kaks meetrit tagapool. Kaamera saadab neid pikalt ja ei tee sellest hetkegi.
+
+**VÄL. MESILA — SAMA SÜGIS**
+
+Tarud, suits, rahu. Mäger magab kuuri all. Juhan paneb talle kausi vett — ei taldrikut lauale, vaid kausi maha, sammu kaugusele, sest nii käib.
+
+Ja siis paneb ta mägrale nime. Koera nime.
+
+> — Muri.
+>
+> *— Juhan Taht*
+
+Tiitel: **MURI, mäger**.
+
+Keegi ei paranda teda. Kaadris ei ole kedagi, kes saaks.
+
+Mäger ei lähe enam kunagi üle rööbaste. Ta käib nende ümber, ka siis, kui see on kaks kilomeetrit pikem tee. Seda ei seleta film kordagi.
+
+> [!note] Miks see stseen on Vaatuses 0
+> Loomavaguni lugu jutustatakse [[Vaatus II - Blingimine ja varustamine|II vaatuses]] ja siin seda ei korrata — siin on ainult tagajärg, kes tuleb kraavist välja. Kaks kaadrit vaguniustest on ainus vihje ja publik ei oska neid veel lugeda. Kui ta neid II vaatuses uuesti näeb, saab ta aru, et ta on seda mäkra juba kohtunud tema elu kõige halvemal aastal.
+
+> [!note] Nimi
+> Kogu vaatus käib sellest, et Juhanit ei kirjuta keegi õigesti kirja. Ainus kord, kui ta ise kellelegi nime paneb, paneb ta mägrale koeranime. Ta ei tee sellega nalja ega paranda seda hiljem. See on ainus tiiter terves vaatuses, mis on kellelegi antud tema enda suust — ja seegi on natuke vale.
+
+> [!note] Kaks meetrit
+> Vahemaa ei muutu kordagi, ei siin ega hiljem. Muri ei ole taltsas ja teda ei taltsutata. Ta lihtsalt otsustab, kelle kõrval ta väriseb.
+
+---
+
+## 0.12. Vanker
 
 **VÄL. MAANTEE — HOMMIK** · *beat: üleminek*
 
