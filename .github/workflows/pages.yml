@@ -25,7 +25,23 @@ jobs:
       - uses: actions/configure-pages@v5
         with:
           enablement: true
-      - run: mkdir _site && cp index.html _site/
+      - run: sudo apt-get update && sudo apt-get install -y pandoc
+      - name: Render the book
+        run: |
+          mkdir _site
+          # Obsidian bits pandoc does not know: [[wikilink]] -> plain text,
+          # "> [!note]" callout marker -> a bold Note line.
+          sed -E 's/\[\[([^]|]*)\|?[^]]*\]\]/\1/g; s/^> \[!([a-zA-Z]+)\][-+]? ?/> **\U\1\E** /' \
+            "Johann Taht.md" \
+            "Vaatus I - Taht süttib.md" \
+            "Vaatus II - Blingimine ja varustamine.md" \
+            "Vaatus III - Peipsi arveteklaarimine.md" \
+            "Tegelased.md" \
+            "Toon ja viited.md" \
+            "Johann_Taht_Notes.md" \
+          | pandoc --from=gfm --to=html5 --standalone --toc --embed-resources \
+              --metadata title="Johann Taht" --metadata lang=et \
+              --output _site/index.html
       - uses: actions/upload-pages-artifact@v3
       - id: deployment
         uses: actions/deploy-pages@v4

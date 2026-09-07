@@ -21,24 +21,20 @@ restaurant) is the load-bearing structure, not decoration.
 - `*.md` — the chapters. Obsidian-flavoured Markdown: `[[wikilinks]]`,
   `> [!note]` callouts, and slug lines shaped
   `**SISE. RESTORAN — ÕHTU** · *beat: maailm*`.
-- `build.py` — hand-rolled Markdown subset → one self-contained `index.html`.
-- `index.html` — generated, committed. Never edit by hand.
+- `.github/workflows/pages.yml` — renders the chapters with pandoc on push and
+  publishes the result. No build artifact is committed.
 
 ## Rules
 
-- Edit `.md`, then run `./build.py`. Commit the regenerated `index.html` in the
-  same commit as the source change.
-- New chapter → add its stem to `ORDER` in `build.py`, optionally a short
-  sidebar label in `NAV`. The build warns about any unlisted `.md`.
+- Edit `.md` and push. There is no local build step.
+- New chapter → add its filename to the chapter list in
+  `.github/workflows/pages.yml`; files missing from that list are not published.
 - Text is Estonian. Do not "fix" it into English, do not rewrite voice or
   register. Language corrections only when asked.
-- `build.py` escapes before applying inline markup — keep that order, it is what
-  stops source text injecting HTML.
 
 ## Publish
 
-    ./build.py && git commit -am 'update' && git push
-    kubectl -n book rollout restart deploy/book
+    git commit -am 'update' && git push
 
-Pod clones the repo at start, so the restart is what picks up the commit.
-Manifests: `home-cluster/infrastructure/book/install/`.
+A push to `main` renders and publishes the book via
+`.github/workflows/pages.yml`.

@@ -46,4 +46,4 @@ Johann Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakan
 
 ## Veebiversioon
 
-https://raamat.k3s.lan
+https://anttilinno.github.io/raamat/

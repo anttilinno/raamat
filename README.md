@@ -3,7 +3,7 @@
 *Metsavenna ballaad kolmes vaatuses, ühe hobuse ja kolmeharulise porgandiga.*
 
 Screenplay treatment, written in Markdown, served at
-**<https://raamat.k3s.lan>** on the home cluster.
+**<https://anttilinno.github.io/raamat/>**.
 
 ## Editing
 
@@ -15,16 +15,13 @@ and a paragraph shaped like
 
 is rendered as a screenplay slug line.
 
-New file? Add its stem to `ORDER` in `build.py` (and optionally a short sidebar
-label in `NAV`) — the build warns about any `.md` it finds that is not listed.
+New file? Add its filename to the chapter list in
+`.github/workflows/pages.yml` — files that are not listed are not published.
 
 ## Publishing
 
-    ./build.py && git commit -am 'update' && git push
-    kubectl -n book rollout restart deploy/book
+    git commit -am 'update' && git push
 
-`build.py` regenerates the single self-contained `index.html` (~28 KiB, no
-external assets). The cluster pod clones this repo at start and serves that
-file with busybox httpd, so the restart is what picks up a new commit.
-
-Manifests live in `home-cluster/infrastructure/book/install/`.
+A push to `main` renders the chapters with pandoc into one self-contained
+`index.html` and deploys it to GitHub Pages — see
+`.github/workflows/pages.yml`. Nothing is built or committed locally.
