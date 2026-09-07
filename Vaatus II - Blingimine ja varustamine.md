@@ -9,7 +9,7 @@ type: note
 
 # Vaatus II — Blingimine ja varustamine
 
-Süsteem saab teada, kelle porgandid need olid. Neli stseeni. Vt. [[Johann Taht]]
+Süsteem saab teada, kelle porgandid need olid. Neli stseeni. Vt [[Johann Taht]]
 
 ---
 
@@ -33,9 +33,9 @@ Telefon. Kohkunud kõne parteikomiteesse, Zojale. Kaamera jääb toru juurde, ku
 
 **SISE. BUNKER · VÄL. KUUR — PÄEV** · *beat: kõrvalliin*
 
-Pealt on see tavaline metsavenna mullaauk. All on kolm korrust: pallibassein, kinosaal, relvakamber, mille valgustus on paremini läbi mõeldud kui enamikul Tallinna restoranidel. Johann annab ringkäigu ilma ühegi naljata.
+Pealt on see tavaline metsavenna mullaauk. All on kolm korrust: pallibassein, kinosaal, relvakamber, mille valgustus on paremini läbi mõeldud kui enamikus Tallinna restoranides. Johann teeb ringkäigu ilma ühegi naljata.
 
-Kuuris seisab roostes T-34. Xzibit, Ryan Friedlinghaus ja Mad Mike ilmuvad bunkrisse ette teatamata. Tank värvitakse üle, topitakse blingi täis — militaarne ja mittemilitaarne segamini, kristallluster laskemoonasalve kohal.
+Kuuris seisab roostes T-34. Xzibit, Ryan Friedlinghaus ja Mad Mike ilmuvad bunkrisse ette teatamata. Tank värvitakse üle, topitakse blingi täis — militaarne ja mittemilitaarne segamini, kristall-luster laskemoonasalve kohal.
 
 > [!note] Tempo
 > Kaks kõrvalliini ühes stseenis, montaažina. See on filmi ainus koht, kus muusika on rõõmus.
@@ -50,7 +50,7 @@ Traagikoomiline mustvalge vahepala. [[Tegelased|Muri]] pere laaditakse koos teis
 
 Kohale nad ei jõua. Vedurijuht joob viina ja jääb magama. Rong jääb seisma keset välja. Uksed avanevad. Loomad lähevad laiali.
 
-Tagasi olevikku: Muri istub Johanni kõrval ja väriseb. Ja siis kargab järgmisele juba maha lastud NKVD-lasele kallale.
+Tagasi olevikku: Muri istub Johanni kõrval ja väriseb. Ja siis kargab kallale järgmisele juba mahalastud NKVD-lasele.
 
 ---
 

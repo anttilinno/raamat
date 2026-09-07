@@ -10,15 +10,15 @@ type: note
 
 # Toon ja viited
 
-Vt. [[Johann Taht]]
+Vt [[Johann Taht]]
 
 ## Surmtõsine rumalus
 
-Kõik tegelased mängivad täiesti tõsiselt. Keegi ei tee nalja, keegi ei tee silma. Porgand on püha ese, sest kaamera kohtleb teda pühana. Naer tekib publikus, mitte kaadris.
+Kõik tegelased mängivad täiesti tõsiselt. Keegi ei tee nalja, keegi ei pilguta silmagi. Porgand on püha ese, sest kaamera kohtleb teda pühana. Naer tekib publikus, mitte kaadris.
 
 ## Kaks reaalsust
 
-Johanni peas käib neoonis mürisev kõrgoktaaniline märul. Kõrvalvaataja jaoks sõidab keskealine mees vankriga jalgsi kiirusel. Montaaž lõikab nende kahe vahel ilma hoiatuseta.
+Johanni peas käib neoonis mürisev kõrgoktaaniline märul. Kõrvalvaataja jaoks sõidab keskealine mees vankriga jalakäija kiirusel. Montaaž lõikab nende kahe vahel ilma hoiatuseta.
 
 ## Vene keele õpik
 
@@ -26,7 +26,7 @@ Kaagid räägivad omavahel puhast eesti keelt. Ähvardama hakates lülituvad pui
 
 ## Küla, mitte kangelane
 
-Johann ei võida üksi. Lõpuks võtab NKVD miinionid maha küla: poiss ragulkaga, ratastoolis vanaema hea sõnaga, keegi saunast.
+Johann ei võida üksi. Lõpuks võtab NKVD käsilased maha küla: poiss ragulkaga, ratastoolis vanaema hea sõnaga, keegi saunast.
 
 ## Viited
 

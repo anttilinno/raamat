@@ -9,7 +9,7 @@ type: note
 
 # Vaatus I — Taht süttib
 
-Rahulik põllumajandus. Neli stseeni. Vt. [[Johann Taht]]
+Rahulik põllumajandus. Neli stseeni. Vt [[Johann Taht]]
 
 ---
 
@@ -43,7 +43,7 @@ See ei ole John Wicki kutsikas. See on «Kapsapea, minu nunnu» — eesti mees j
 
 ## 3. Vastasseis putka juures
 
-**VÄL. SHAURMAPUTKA — PÄEV** · *beat: konflikt*
+**VÄL. ŠAURMAPUTKA — PÄEV** · *beat: konflikt*
 
 Johann sööb kebabi. Sööb aeglaselt. Vankri juurde tulevad [[Tegelased|Dima]] ja tema kaagid ning alustavad laitmatus eesti keeles — viisakalt, isegi soojalt.
 
