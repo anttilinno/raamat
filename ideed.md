@@ -51,3 +51,17 @@ Seosed:
 - Kaal on tahtlikult vale. Maailmasõda jääb vahele tüli pärast, mis käis herilaste üle. Filmis ei tohi keegi seda kaalu välja öelda.
 - Mõlemad hinnangud on tema omad, mitte filmi omad, ja kumbagi ei põhjendata. «Punane tibla» ja «vaimuhaigus» on ainsad korrad, kui ta on kellegi kohta üldse midagi öelnud.
 - Viimane rida peab jääma mesilaste juurde. Suur asi laual, väike asi õues, ja ta läheb õue.
+
+Teine maailmasõda:
+
+Istus kiiktoolis. Vaatas, kuidas kõigepealt punased mööda jooksid, siis sakslased, siis jälle punased. Suund muutus kolm korda, tool mitte kordagi.
+Ühtegi neist ta sisse ei kutsunud ja ühtegi ei takistanud. Keegi ei küsinud.
+Korra käis kodus ära. Viis eesti poistele Sinimägedesse mett — tee jaoks, sest tee ilma meeta ei ole tee.
+Mesi anti üle. Poisid ütlesid aitäh. Seejärel peksis ta punased laiali, nii et need otsustasid mujalt rünnata.
+Tagasi tulles istus uuesti kiiktooli. Sõda käis edasi ja tema enam kaasa ei läinud.
+
+Seosed:
+- Ta ei läinud sinna sõdima. Ta läks mett viima ja lahing jäi teele ette. Täpselt sama liigutus nagu III vaatuses: väike asi, suur tagajärg, ja tagajärge ta ei kommenteeri.
+- Kiiktool on paari giiditööga: seal jäi ta liiga kauaks tööle, siin jääb liiga kauaks istuma. Kaks viisi sama asja teha.
+- Narva sild käib kaks korda läbi: sajandeid varem morni mehena üle ja tagasi, 1944 Sinimägedes uuesti. Ei tohi seletada, tohib ainult korrata.
+- «Otsustasid mujalt rünnata» on ainus lause selle kohta, mida ta seal tegi. Rohkem ei näidata ega öelda. Publik teeb töö ise ära.
