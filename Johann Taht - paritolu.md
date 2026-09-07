@@ -92,7 +92,7 @@ Kui ta tagasi jõudis, oli töö tehtud ja maa oli teiste oma.
 Ta ei ütle selle kohta kordagi mitte midagi. Ei filmis, ei enne filmi, ei kellelegi.
 
 > [!note] Ainus haav
-> Siin on kogu tegelase põhi. Mees, kes ei tõsta häält, ei kiirusta ega seleta ennast, jäi ühel korral tööle liiga kauaks — ja selle ajaga kadus maa, mille kõrval ta oli üheksa tuhat aastat elanud. Publik näeb seda [[Vaatus 0 - Enne porgandit|0.5. stseenis]] ja ei kuule selle kohta ühtegi sõna: see on vaatuse ainus stseen, kus Johanni lauset ei tule.
+> Siin on kogu tegelase põhi. Mees, kes ei tõsta häält, ei kiirusta ega seleta ennast, jäi ühel korral tööle liiga kauaks — ja selle ajaga kadus maa, mille kõrval ta oli üheksa tuhat aastat elanud. Publik näeb seda [[Vaatus 0 - Enne porgandit|0.5. stseenis]] ja ei kuule selle kohta ühtegi sõna: see on vaatuse ainus koht, kus stseen jääb lahtiselt seisma ja oodatud lauset ei tule.
 
 > [!note] Miks ta uuesti ei ürita
 > Ta ei ole kättemaksja ega vabastaja ja film ei tee temast kumbagi. Ta läheb III vaatuses välja porgandi pärast, mitte Eesti pärast. See, et kogu küla tuleb kaasa, ei ole tema plaan ja ta ei märka seda enne, kui asi on läbi.

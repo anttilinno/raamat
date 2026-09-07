@@ -11,7 +11,7 @@ type: note
 
 Eellugu. Kümme stseeni, üheksa tuhat aastat, kokku alla veerandtunni. Vt [[Johann Taht]] · [[Johann Taht - paritolu]]
 
-Reegel, mis kehtib terve vaatuse: **üks lause stseeni kohta**. Rohkem ei räägita, ei seletata ega jutustata. Jutustajahäält ei ole. Aastaarve ekraanile ei kirjutata mitte kordagi.
+Reegel, mis kehtib terve vaatuse: **ülimalt üks lause stseeni kohta**, ja enamasti mitte ühtegi. Ei seletata, ei jutustata, jutustajahäält ei ole. Aastaarve ekraanile ei kirjutata mitte kordagi.
 
 ---
 
@@ -127,7 +127,7 @@ Ta jõuab tagasi. Maa on ära jagatud. Ta seisab tükk aega paigal.
 Ta ei ütle midagi. See on ainus stseen terves filmis, kus tema lauset ei tule.
 
 > [!note] Ainus haav
-> Siin on tegelase põhi ja seda ei tohi mitte keegi kunagi välja öelda — ei tema, ei teised, ei tiitrid. Mees jäi tööle liiga kauaks ja selle ajaga kadus maa, mille kõrval ta oli üheksa tuhat aastat elanud. Vaatuse reegel «üks lause stseeni kohta» murtakse ainult siin ja murtakse allapoole: null lauset.
+> Siin on tegelase põhi ja seda ei tohi mitte keegi kunagi välja öelda — ei tema, ei teised, ei tiitrid. Mees jäi tööle liiga kauaks ja selle ajaga kadus maa, mille kõrval ta oli üheksa tuhat aastat elanud. Mujal vaatuses ei ole vaikus märgatav, sest keegi ei oota juttu. Siin on ta märgatav: stseen seisab lahtiselt ja lauset ei tule.
 
 ---
 
@@ -141,14 +141,37 @@ Sild. Morn mees läheb üle. Sama sild, teine sajand, teine vorm valvuri seljas:
 
 Musta katku ajal teeb ta pool päeva tööd ja läheb koju, sest pea hakkab kergelt valutama. Kaamera saadab teda koduni. See on tema elu ainus haigus.
 
-Ja siis üks missioon, öö, hangud kuuri seina ääres. Sihik on paigas. Sihiku otsas on Peeter Esimene, tuli selja taga, täiesti kaitsetu.
+Ja siis üks missioon.
+
+Ta on positsioonil olnud pärastlõunast saati. Lamab liikumatult, hingab aeglaselt, ei muuda asendit ka siis, kui valvurid käivad kahe meetri kauguselt mööda. Kaamera on tema kõrval maas ja mängib seda täpselt nii, nagu mängitakse tänapäeva erioperatsiooni: pikk ootamine, madal heli, mitte ühtegi liigset liigutust.
+
+Relv on hang.
+
+Sihik on paigas. Sihiku otsas on Peeter Esimene, tuli selja taga, täiesti kaitsetu. Objekt on tuvastatud. Kaugus on hea. Tuult ei ole.
+
+Ta ootab luba.
+
+Luba peab tulema mehelt, kes on kolme päeva tee kaugusel. See mees magab.
+
+Küünal kustub. Objekt läheb magama. Valvurid vahetuvad. Koidab.
 
 Käsku ei tule.
 
-Johann paneb hangu käest ja läheb ära. Peeter jääb elama ja ajalugu läheb nii, nagu läheb.
+Johann tõmbub tagasi täpselt mööda seda teed, mida mööda ta tuli, ega jäta endast maha ühtegi märki. Peeter jääb elama ja ajalugu läheb nii, nagu läheb.
+
+Tagasi jõudes annab ta aru.
+
+> — Objekt oli sihikul.
+>
+> *— Johann Taht*
+
+Rohkem ei küsita ja rohkem ta ei ütle.
 
 > [!note] Käsuta ta ei tee
 > See peab olema kaadris jäine ja täiesti tavaline: mitte kõhklus, mitte halastus, vaid tööreegel. Sama reegel murdub III vaatuses ühe juurvilja pärast ja seda ei kommenteeri keegi.
+
+> [!note] Erioperatsioon hanguga
+> Kogu ootamine mängitakse tänapäeva eriüksuse käekirjas — positsioon, kannatus, objekt tuvastatud, luba. Ainult luba ei tule raadiost, vaid mehelt, kes on kolme päeva tee kaugusel ja magab. Anakronismi ei tohi keegi kommenteerida ega naerma ajada; see töötab ainult siis, kui kaader võtab protseduuri täiesti tõsiselt. «Objekt oli sihikul» on aruanne, mitte vabandus.
 
 ---
 
