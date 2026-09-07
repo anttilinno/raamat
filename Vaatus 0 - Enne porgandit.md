@@ -426,6 +426,8 @@ Tiitel: **MURI, mäger**.
 
 Keegi ei paranda teda. Kaadris ei ole kedagi, kes saaks.
 
+Ja sellest päevast peale hakkab mäger tegema asju, mida mägrad ei tee.
+
 Nädal hiljem läheb loom halvaks. Suu vahutab, silm ei kannata valgust, vett ta ei joo, kuigi kauss on kaks sammu eemal. Marutaud — ja mitte alguses. Lõualuu ei kuula, tagajalad ei kanna, vesi teeb hirmu. See on lõppfaas.
 
 Lõppfaasist ei ole välja tulnud ükski loom ega ükski inimene, mitte kusagil, mitte kunagi.
@@ -447,6 +449,8 @@ Mäger ei lähe enam kunagi üle rööbaste. Ta käib nende ümber, ka siis, kui
 
 > [!note] Nimi
 > Kogu vaatus käib sellest, et Juhanit ei kirjuta keegi õigesti kirja. Ainus kord, kui ta ise kellelegi nime paneb, paneb ta mägrale koeranime. Ta ei tee sellega nalja ega paranda seda hiljem. See on ainus tiiter terves vaatuses, mis on kellelegi antud tema enda suust — ja seegi on natuke vale.
+>
+> Ja see on ka ainus kord, kui vale kirjapanek midagi muudab. Mäger võtab nime tõsiselt. Kõik, mida Muri hiljem teeb ja mida ükski mäger looduses ei tee, tuleb sellest ühest sõnast — seda ei seleta film kordagi ja mitte keegi ei tohi seda seost välja öelda.
 
 > [!note] Ravi
 > Lõppfaasi marutaud on sada protsenti surmav ja see ei ole liialdus, vaid meditsiin — täpselt sellepärast peab stseen olema võimalikult kuiv. Mängitakse sama tõsiselt nagu 0.4 tehnilist järelvaatlust: haigus tuvastatakse, staadium fikseeritakse, ravi teostatakse, tulemus fikseeritakse. Hoop ei ole vihahoog ega halastussurm ja seda ei näidata lähedalt. Kogu nali on selles, et film ei märka üldse, et midagi imelikku juhtus — ja kohe pärast seda tuleb lause, mida ükski hoop ei paranda.

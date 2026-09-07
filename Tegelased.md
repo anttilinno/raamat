@@ -36,7 +36,7 @@ Hing on väljaspool keha, Kaštšei muna sees, köögikapis. Vt [[Vaatus III - P
 ## Muri
 *Kõrvaltegelane · mäger · PTSD*
 
-Psühhootiliste vägivallahoogudega mäger. Tuli raudteetammi kraavist ja jäi kahe meetri kaugusele; vt [[Vaatus 0 - Enne porgandit|0.11]]. Kannab koeranime, mille Juhan talle andis ja mida keegi ei ole parandanud. Lõppfaasis marutaud raviti ühe rusikahoobiga pähe; värisemist see ei ravinud. Läheb iga NKVD-lase juurde, kelle Juhan on juba maha löönud, ja kargab teda jalast. Mitte isu, vaid ärevus: kargamine on loomal enese rahustamine ja Murit ei ole keegi rahustanud alates loomavagunist. Ainus tegelane, kelle motiivid on filmis täielikult lahti kirjutatud — ja ainus, kelle kättemaks ei näe välja nagu kättemaks.
+Psühhootiliste vägivallahoogudega mäger. Tuli raudteetammi kraavist ja jäi kahe meetri kaugusele; vt [[Vaatus 0 - Enne porgandit|0.11]]. Kannab koeranime, mille Juhan talle andis ja mida keegi ei ole parandanud. Lõppfaasis marutaud raviti ühe rusikahoobiga pähe; värisemist see ei ravinud. Läheb iga NKVD-lase juurde, kelle Juhan on juba maha löönud, ja kargab teda jalast — mida mägrad ei tee ja koerad teevad, ja tema on see, kellele pandi koeranimi. Mitte isu, vaid ärevus: kargamine on loomal enese rahustamine ja Murit ei ole keegi rahustanud alates loomavagunist. Ainus tegelane, kelle motiivid on filmis täielikult lahti kirjutatud — ja ainus, kelle kättemaks ei näe välja nagu kättemaks.
 
 ## Dima
 *Kaak · Bolti kuller*

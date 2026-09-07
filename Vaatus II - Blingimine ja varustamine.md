@@ -312,6 +312,8 @@ Muri lõpetab omal ajal ja tuleb tagasi Juhani kõrvale istuma. Väriseb edasi.
 > Terve vagunistseen ehitab üles motiivi, mis on filmi kõige põhjalikumalt lahti kirjutatud, ja siis annab sellele kõige väärikusetuma väljundi, mis olemas on. Muri ei maksa kätte inimese moodi. Ta on mäger ja ta teeb seda, mida ta oskab. Naer tuleb sellest, et kaamera kohtleb teda täpselt sama tõsiselt nagu Juhani malelauda.
 >
 > Kargamine ei ole loomal enamasti seks. See on ärevus, ülekeenud pinge ja enese rahustamine — koer teeb seda siis, kui ta ei tea, kuhu ennast panna. Muri diagnoos on kaadris olemas juba enne, kui keegi jõuab naerda, ja see on stseeni ainus seletus, mida film ei ütle välja.
+>
+> Mägrad seda ei tee. Muri teeb, sest talle pandi [[Vaatus 0 - Enne porgandit|0.11. stseenis]] koeranimi ja mitte keegi ei parandanud seda. Filmis ei ütle seda kordagi keegi ja publik ei pea sellest kunagi teadlikult aru saama.
 
 > [!note] Kraav
 > Lauluversioonis lõpeb sõit õnnetusega ja see on nali. Siin on õnnetus — purjus vedurijuht — ainus asi, mis kedagi päästab. Sama sündmus, vastupidine märk; seletust ei tule.
