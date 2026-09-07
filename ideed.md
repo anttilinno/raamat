@@ -37,3 +37,17 @@ Seosed:
 - Kolm sõna ühes reas — herilased, vaablased, vapsid — ja ainult üks neist on inimene. Kaadris ei tohi seda keegi seletada ega naerda.
 - Mesinik, kellelt ei küsitud: sama muster nagu giiditöö. Talle antakse ülesanne või ei anta, ja tema ei paku ennast.
 - Auraha tualetist: kogu Pätsu-suhe on üks teene ja üks lause. Ülejäänu on vaikus, mis kestab 1934. aastast 1940. aastani ja siis lõpeb iseenesest.
+
+Molotov-Ribbentrop:
+
+Koopia oli tal laual kohe pärast allakirjutamist. Terve tekst, koos salajase lisaprotokolliga, enne kui ükski valitsus seda nägi.
+Ta luges läbi ja pani käest. Pätsiga oli ta tülis, keegi ei olnud küsinud, ja ilma küsimata ta ei tee.
+Staliniga ta asju ei ajanud, sest see oli punane tibla.
+Hitler oli taimetoitlasest kunstnik. Seda pidas J. Tuhk vaimuhaiguseks ja see oli ainus asi, mille kohta tal oli lõplik arvamus.
+Nii jäi paber lauale. Mesilased tahtsid talveks sööta.
+
+Seosed:
+- Kolmas kord sama muster: kuningavalimised (kohal), giiditöö (ära), pakt (laual, lugemata jäetud otsus). Iga kord kaob maa ära, kui teda parasjagu ei ole.
+- Kaal on tahtlikult vale. Maailmasõda jääb vahele tüli pärast, mis käis herilaste üle. Filmis ei tohi keegi seda kaalu välja öelda.
+- Mõlemad hinnangud on tema omad, mitte filmi omad, ja kumbagi ei põhjendata. «Punane tibla» ja «vaimuhaigus» on ainsad korrad, kui ta on kellegi kohta üldse midagi öelnud.
+- Viimane rida peab jääma mesilaste juurde. Suur asi laual, väike asi õues, ja ta läheb õue.
