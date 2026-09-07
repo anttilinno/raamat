@@ -426,6 +426,18 @@ Tiitel: **MURI, mäger**.
 
 Keegi ei paranda teda. Kaadris ei ole kedagi, kes saaks.
 
+Nädal hiljem läheb loom halvaks. Suu vahutab, silm ei kannata valgust, vett ta ei joo, kuigi kauss on kaks sammu eemal. Marutaud.
+
+Juhan vaatab teda üle kuuri ukse ühe õhtu ja terve öö. Hommikul läheb ta ligi.
+
+Ta ei võta pussi ega püssi. Ta kükitab maha ja lööb korra rusikaga pähe. Kaamera on kaugel ja plaan on üks: hoop, tolm, vaikus.
+
+Mäger magab kaks päeva. Kolmandal tuleb kuuri alt välja ja joob kausist vett.
+
+Marutaud on ravimatu. Kaadris ei vaidle sellega keegi, sest kaadris ei ole kedagi, kes vaidleks.
+
+Värisemine jääb. Seda ei ravi ükski hoop, ja Juhan ei proovi teist korda.
+
 Mäger ei lähe enam kunagi üle rööbaste. Ta käib nende ümber, ka siis, kui see on kaks kilomeetrit pikem tee. Seda ei seleta film kordagi.
 
 > [!note] Miks see stseen on Vaatuses 0
@@ -433,6 +445,9 @@ Mäger ei lähe enam kunagi üle rööbaste. Ta käib nende ümber, ka siis, kui
 
 > [!note] Nimi
 > Kogu vaatus käib sellest, et Juhanit ei kirjuta keegi õigesti kirja. Ainus kord, kui ta ise kellelegi nime paneb, paneb ta mägrale koeranime. Ta ei tee sellega nalja ega paranda seda hiljem. See on ainus tiiter terves vaatuses, mis on kellelegi antud tema enda suust — ja seegi on natuke vale.
+
+> [!note] Ravi
+> Mängitakse täpselt sama tõsiselt nagu 0.4 tehnilist järelvaatlust: haigus tuvastatakse, ravi teostatakse, tulemus fikseeritakse. Hoop ei ole vihahoog ega halastussurm ja seda ei näidata lähedalt. Kogu nali on selles, et film ei märka üldse, et midagi imelikku juhtus — ja kohe pärast seda tuleb lause, mida ükski hoop ei paranda.
 
 > [!note] Kaks meetrit
 > Vahemaa ei muutu kordagi, ei siin ega hiljem. Muri ei ole taltsas ja teda ei taltsutata. Ta lihtsalt otsustab, kelle kõrval ta väriseb.
