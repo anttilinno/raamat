@@ -13,7 +13,7 @@ Tartu rahulepingu piirid. Kolm stseeni ja üks omlett. Vt [[Johann Taht]]
 
 ---
 
-## 9. Entel-Tenteli marss
+## 10. Entel-Tenteli marss
 
 **VÄL. PEIPSI-ÄÄRNE METSATEE — KOIT** · *beat: toon*
 
@@ -24,11 +24,11 @@ Ja nad laulavad. Rõõmsalt, puhtalt, mitmehäälselt — «Entel-Tentel». Kaam
 Rivi möödub taludest. Väravate taga seisavad kohalikud ja vaatavad marssijatele järele — Peipsi-taguse küla rahvas on mustanahaline. Üks vana peremees tõstab mütsi. Keegi ei kommenteeri, ei rivis ega kaadris. Ainus, mis siin nalja teeb, on kaart: Tartu rahulepingu järgi on see maa Eesti oma ja need mehed värava taga on siin sündinud.
 
 > [!note] Kontrast
-> Sama rühm tapab kaks stseeni hiljem. Laul ei tohi olla naljakalt esitatud — ta peab olema hästi lauldud. Küla ilmub uuesti 10. stseenis, relvadega.
+> Sama rühm tapab kaks stseeni hiljem. Laul ei tohi olla naljakalt esitatud — ta peab olema hästi lauldud. Küla ilmub uuesti 11. stseenis, relvadega.
 
 ---
 
-## 10. Mosini gun-fu ja külamäss
+## 11. Mosini gun-fu ja külamäss
 
 **VÄL. KÜLA — PÄEV** · *beat: lahing*
 
@@ -40,7 +40,7 @@ Kuskil taamal tassitakse kedagi sauna. Uksepiidale ilmub käsi. Uks läheb kinni
 
 ---
 
-## 11. Kaštšei omlett
+## 12. Kaštšei omlett
 
 **VÄL. LAHINGUVÄLI · SISE. ZOJA KÖÖK — PÄEV** · *beat: kulminatsioon*
 

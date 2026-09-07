@@ -26,6 +26,12 @@ Kaagid räägivad omavahel puhast eesti keelt. Ähvardama hakates lülituvad pui
 
 Subtiitrid ei tõlgi seda venet. Nad tõlgivad vestlust, mis tegelikult käib: turgu, hinda, keeldumist. Kumbki pool vahet ei märka. Publik kuuleb kolmandat klassi ja loeb tanklat.
 
+## Aktuaalne kaamera
+
+Riigi hääl filmis on Aktuaalne kaamera ja ainult tema. Esimene saade läks eetrisse 11. märtsil 1956, igapäevaseks sai ta alles 1958 — seega on iga saade sündmus ja televiisoreid on vähe. Mida seal näidatakse, seda on näinud kogu vabariik.
+
+Reporter on ainus tegelane, kes ütleb «Võidu väljak». Riigi tiitrites on Johanni nimi JOHANNES TÄHT. Riik ei kirjuta tema nime valesti, ta üritab teda kustutada.
+
 ## Küla, mitte kangelane
 
 Johann ei võida üksi. Lõpuks võtab NKVD käsilased maha küla: poiss ragulkaga, ratastoolis vanaema hea sõnaga, keegi saunast.
@@ -41,5 +47,7 @@ John Wick 1–4 · SISU · 1944 · Nimed marmortahvlil · Nähtamatu võitlus ·
 | Koer | Paul Kerese võidupartii seis |
 | Kutsikas | «Kapsapea, minu nunnu» — kolmeharuline porgand |
 | Surnud naine, kes kutsika jättis | Turutüdruk, kelle nime Johann ei küsinud |
-| Kuldmündid / markerid | Porgandid |
+| Kuldmündid / markerid | Nikolai kuldmündid |
+
+Porgand ei ole selles tabelis valuuta ega saa kunagi olema. Kuldmünt ostab laua, vaikimise ja inimese. Porgand on hindamatu — mitte kallis, vaid hinnata. Kui keegi filmis pakub tema eest raha, on see märk, et ta ei ole aru saanud, kuhu ta sattunud on.
 | Continental | Restoran, mis tegeleb varastatud juurviljaga |

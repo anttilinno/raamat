@@ -9,7 +9,7 @@ type: note
 
 # Vaatus II — Blingimine ja varustamine
 
-Süsteem saab teada, kelle porgandid need olid. Neli stseeni. Vt [[Johann Taht]]
+Süsteem saab teada, kelle porgand see oli. Viis stseeni. Vt [[Johann Taht]]
 
 ---
 
@@ -17,19 +17,210 @@ Süsteem saab teada, kelle porgandid need olid. Neli stseeni. Vt [[Johann Taht]]
 
 **SISE. RESTORAN — ÕHTU** · *beat: maailm*
 
-Kõrgklassi restoran, mis tegeleb musta turu juurviljaga. Valge lina, vaikne klaver, ettekandjad, kes teavad, mida mitte küsida.
+Kõrgklassi restoran, mis tegeleb musta turu juurviljaga. Valge lina, vaikne klaver, ettekandjad, kes teavad, mida mitte küsida. Saalis süüakse aeglaselt. Keegi ei räägi valjult.
 
-Dima annab porgandid kööki ja palub need ära koorida. Pealik annab talle silmapilkselt *dickpunchi*.
+Laud number neli palub arve. Ettekandja toob hõbetaldriku. Külaline paneb sellele ühe kuldmündi — Nikolai II, kümme rubla — ja ettekandja kannab taldriku ära. Arvet ei toodud. Raha tagasi ei anta. Keegi ei loe midagi üle. Kaamera ei selgita ega tule selle juurde tagasi.
 
-> — Kas sa tead ka, kelle porgandid need on?
+Köögi taga on teine ruum: kaalud, kastid, madal lauavalgus, mees valges kitlis. See on [[Tegelased|Joel Ostrat]]. Ta mängib iseennast ja seda ei seleta keegi. Ta on rahulik täpselt samamoodi nagu Johann ja see sarnasus jääb publikule kripeldama kogu ülejäänud filmiks.
+
+[[Tegelased|Dima]] toob koti sisse ja paneb lauale. Küsib teenust.
+
+> — Kooriks ära. Ja uus kott, ilma sildita.
 >
-> *— Pealik · vaikselt, ilma vihata*
+> *— Dima*
 
-Telefon. Kohkunud kõne parteikomiteesse, Zojale. Kaamera jääb toru juurde, kuni teisel pool liin vaikib.
+Ostrat ei vasta. Paneb kindad kätte ja avab koti. Kaamera on kätel ja see kestab kauem kui vaja.
+
+Kotis on üks porgand.
+
+Ostrat vaatab kotti veel korra, sest niimoodi ei tooda kaupa. Siis tõstab porgandi välja kahe käega — täpselt sama haardega, nagu Johann teda turul vastu võttis. Kolm haru, keskmine lühem kui teised. Võtab taskurätiku ja paneb porgandi ettevaatlikult sellele.
+
+Ja alles siis pöördub ümber.
+
+> — Kelle porgand see on?
+> — Minu.
+>
+> *— Ostrat ja Dima*
+
+Ostrat annab talle silmapilkselt *dickpunchi*. Ilma vihata, ilma hoovõtuta, nagu paneks korgi pudelile tagasi. Dima läheb põlvili.
+
+Klaver mängib edasi. Saalis ei pööra keegi pead.
+
+> — Proovime uuesti. Kelle porgand see on?
+>
+> *— Ostrat*
+
+Dima ei vasta. Ostrat paneb porgandi kotti tagasi ja lükkab koti üle laua.
+
+> — Ma ei võta seda vastu.
+> — Miks?
+>
+> *— Ostrat ja Dima*
+
+Ostrat ei vasta talle. Vastab film.
+
+**VÄL. VÕIDU VÄLJAK — SAMA PÄEV, TEINE KAAMERA · MUSTVALGE** · *beat: lünk*
+
+Aktuaalse kaamera tunnus. Saade on kolm kuud vana ja ei käi veel iga päev, nii et eetrisse minek on omaette sündmus.
+
+Sama turg, mille juurest me 2. stseenis lahkusime. Võttegruppi me siis ei näinud. Nüüd näeme.
+
+Reporter mantlis, mikrofon tuules. Ta ütleb «Võidu väljak» — ta on ainus terves filmis, kes seda nime kasutab, ja ta ütleb seda ilma vähimagi kõhkluseta.
+
+Kaadrisse astub Johann. Käes porgand.
+
+> — Kodanik, mis teil käes on?
+> — Porgand.
+>
+> *— Reporter ja Johann · Aktuaalne kaamera*
+
+Reporter ootab järge. Järge ei tule. Johann seisab, hoiab porgandit kahe käega ja vaatab kaamerasse nagu inimene, kes on küsimusele juba vastanud.
+
+Paus venib. Operaator ei tea, kas lõigata. Ei lõika.
+
+Alla jookseb tiitel: **JOHANNES TÄHT, aednik**. Kaks täppi ja üks liide, mida keegi ei palunud.
+
+Johann ei paranda seda, sest kui ta parandaks, siis vahetuks võim.
+
+Kaamera tõmbub tagasi. Me ei ole väljakul. Me oleme restorani saalis ja vaatame televiisorit — vabariigis on neid vähe ja selles majas on üks. Toolid on ette tõstetud, kokad seisavad ukse peal, laud number neli on pooleli. Ostrat seisab kõige taga ega istu maha.
+
+Ekraanil seisab mees, kes hoiab porgandit kahe käega.
+
+Lõige tagasi kööki. Laual on lahti jäänud taskurätik ja kott teisel pool lauda.
+
+> — Sest see on Johann Tahi porgand.
+>
+> *— Ostrat*
+
+Dima naerab. See on ainus kord terves filmis, kui keegi naerab.
+
+> — Ta on üks talumees. Vanker ja hobune. Ta on eikeegi.
+>
+> *— Dima*
+
+Ostrat võtab kindad ära. Võtab selleks aega.
+
+> — Selles sa eksid.
+>
+> *— Ostrat*
+
+Rohkem ta ei seleta. Köök on selleks ajaks vaikseks jäänud: kaks kokka seisavad ukse peal, kolmas on kraani kinni keeranud. Saalis lõpetab klaver loo ära ega alusta uut.
+
+Dima tõuseb püsti. Ei ütle midagi. Võtab taskust Nokia 3310 ja valib pöidlaga numbri, mida ta peast teab, ilma ekraanile vaatamata. Aku on täis. Aku on tal alati täis.
+
+Ostrat ei takista teda. Läheb kraani juurde ja hakkab käsi pesema. Kaua.
+
+> — See kokk siin lõi mind.
+>
+> *— Dima · telefonis*
+
+Kaamera on Dimal. Ta kaebab nagu laps ja tal on selleks põhjust: 1940. aastal oli [[Tegelased|Zoja]] tema oktoobrilaste rühma ideoloogiline juhendaja ja Dima oli oktoobrilaps. Sellest on kuusteist aastat. Tema hääl ei ole vahepeal muutunud.
+
+Ta ei tea, mida ta valesti tegi, ja just see on kogu asja juures kõige hullem.
+
+Teisel pool küsitakse midagi, mida meie ei kuule. Dima ütleb restorani nime. Teisel pool küsitakse veel midagi. Dima jääb vait.
+
+Siis sirutab ta telefoni vaikselt Ostrati poole.
+
+> — Sind palutakse.
+>
+> *— Dima*
+
+Ostrat kuivatab käed lõpuni ära, enne kui võtab. See võtab aega. Suures valges kitlis mehe kõrva ääres näeb aparaat välja nagu tikutoos.
+
+> — Ostrat kuuleb.
+> — Zoja siin. Kuulsin, et sa lõid mu meest.
+> — Jah, lõin.
+> — Tohin ma küsida, miks?
+> — Sest ta võttis Johann Tahi porgandi. Ja ajas sassi tema malelaua.
+>
+> *— Ostrat ja Zoja · telefonis*
+
+Liin vaikib. Kaamera jääb toru juurde. Ostrat ei ütle midagi, sest ta teab, mis teisel pool praegu toimub.
+
+> — ...Ah.
+>
+> *— Zoja*
+
+Ostrat vajutab punast nuppu ja annab telefoni tagasi. Võtab taskurätiku laualt, voldib kokku ja paneb taskusse.
+
+Kott seisab endiselt laual, Dima pool. Keegi ei ulata seda talle. Ta võtab selle ise.
+
+Dima viiakse tagauksest välja täiesti viisakalt, nagu purjus külaline, ja uks pannakse kinni ilma paugutamata.
+
+> [!note] Lõige
+> Tagasivaade ei ole seletus, vaid vastus. Dima küsib «miks» ja Ostrat ei vasta talle sõnagagi — vastab arhiiv. Lõikesse minnakse kahe käe pealt ümber porgandi ja tullakse tagasi tühja taskurätiku peale: Ostrat on porgandi juba ära andnud, enne kui ta ütleb, kelle oma see on.
+
+> [!note] Tiiter
+> Riik ei kirjuta tema nime valesti, ta üritab teda kustutada. Kaadris ei kommenteeri seda keegi.
+
+> [!note] Ülesehitus
+> Stseen ei ehita Johannile mainet sõnadega, vaid sellega, kuidas teised inimesed ruumi liiguvad. Otsest väidet Johanni kohta ei tule kordagi — ainus vastus käib Dima kohta, mitte tema kohta. Kes ta *on*, öeldakse alles järgmises stseenis.
+
+> [!note] Raha
+> Nikolai kuldmünt on selle maailma valuuta ja seda ei seletata kordagi. Ta ostab lauda, vaikimist, inimest. Porgand on hindamatu — mitte kallis, vaid hinnata. Ostratil on kogu maja kullas ja just sellepärast lükkab ta ühe juurvilja tagasi üle laua: tal ei ole millegagi maksta.
 
 ---
 
-## 6. Check my crib & Pimp my tank
+## 6. Kes ta on
+
+**SISE. PARTEIKOMITEE — ÖÖ** · *beat: müüt*
+
+Kabinet. Laual taldrik, salvrätik, nuga ja kahvel ristis. [[Tegelased|Zoja]] sööb hilist õhtusööki ja kaamera ei näita, mida. Ta paneb toru hargile ja lõpetab suutäie rahulikult ära, enne kui midagi ütleb.
+
+Toas on kuus meest. [[Tegelased|Dima]] tuuakse sisse.
+
+Zoja ei löö teda. Ta ei tõsta häält. Ta teeb hullemat: ta hakkab seletama, ja ta seletab seda oma meestele, mitte Dimale.
+
+> — Johann Taht võitis künnivõistluse viis aastat järjest.
+>
+> *— Zoja*
+
+Keegi meestest naeratab. Zoja ootab, kuni ta lõpetab.
+
+> — Neljandal aastal anti talle rändlipp. Ta tõi selle järgmisel hommikul tagasi, sest varras oli kõver.
+> — Ja viiendal?
+> — Viiendal aastal kündis ta ilma hobuseta.
+>
+> *— Zoja ja üks meestest*
+
+Keegi ei küsi, kuidas. Kaamera käib nägudelt läbi ja jääb pikemaks ainult Dima juurde.
+
+> — Ta täitis viisaastaku normi ühe suvega. Komisjon käis kolm korda. Kolmandal korral ei julgenud nad enam mõõta ja kirjutasid paberisse eelmise numbri.
+>
+> *— Zoja*
+
+Ta pühib suu.
+
+> — Kolhoosiesimehed räägivad temast omavahel. Mitte joobes. Kaine peaga, vaikse häälega, ja alles siis, kui uks on kinni.
+> — Ta on talumees.
+> — Ta ei ole kratt. Kratt käis tema juurest tööd otsimas ja saadeti tagasi.
+>
+> *— Zoja ja Dima*
+
+Vaikus. Dima proovib veel korra.
+
+> — See oli ainult porgand.
+>
+> *— Dima*
+
+Zoja vaatab teda pikalt. Kuusteist aastat tagasi õpetas ta sellele poisile, mis on kord ja mis on tagajärg.
+
+> — Jah.
+>
+> *— Zoja*
+
+Ta ei ütle rohkem midagi. Võtab kahvli ja jätkab söömist täpselt sealt, kust pooleli jäi, ja räägib toidust kahe lausega samas registris, milles ta äsja rääkis Johannist — aastakäik, nõlv, bukett. Mehed kuulavad viisakalt. Keegi ei küsi, mis taldrikul on.
+
+> [!note] Müüt
+> See on filmi ainus stseen, kus keegi Johanni kohta midagi otse ütleb. Kõik faktid on põllumajanduslikud ja mitte ükski neist ei ole vägivaldne — hirm tuleb sellest, kuidas neid ette kantakse. Vägivalda ei mainita, sest publik teeb selle töö ise ära.
+
+> [!note] Kaks lünka korraga
+> Stseen paneb Zoja ekraanile juba II vaatuses ja annab beebi-sommeljee registrile koha, kus ta ei ole naljanumber, vaid iseloomustus. Kratt ühendub 9. stseeni tagatoaga.
+
+---
+
+## 7. Check my crib & Pimp my tank
 
 **SISE. BUNKER · VÄL. KUUR — PÄEV** · *beat: kõrvalliin*
 
@@ -42,7 +233,7 @@ Kuuris seisab roostes T-34. Xzibit, Ryan Friedlinghaus ja Mad Mike ilmuvad bunkr
 
 ---
 
-## 7. Muri lugu
+## 8. Muri lugu
 
 **SISE. LOOMAVAGUN — MINEVIK · MUSTVALGE** · *beat: tagasivaade*
 
@@ -54,7 +245,7 @@ Tagasi olevikku: Muri istub Johanni kõrval ja väriseb. Ja siis kargab kallale 
 
 ---
 
-## 8. Sepp-sommeljee
+## 9. Sepp-sommeljee
 
 **SISE. SEPIKODA — PÄEV** · *beat: varustus*
 
@@ -120,6 +311,6 @@ Karbis on kadakast ragulka ja kuus tammetõru. Tõrud on korjatud pühast hiiest
 Johann võtab vikati, Mosini ja kolm kasti padruneid. Vitsa ja viha paneb ta samuti vankrile. Sametkarbi asetab kõige ette — see ei ole tema jaoks.
 
 > [!note] Istutus
-> Sepp ei ütle, kelle jaoks ragulka on, ja Johann ei küsi. Karp läheb edasi 10. stseenis. Kuus tõru — publik loeb neid alateadlikult, seega peavad nad kõik ära kuluma. Viht läheb sauna, hark jääb vankrile. Kratti me kordagi ei näe.
+> Sepp ei ütle, kelle jaoks ragulka on, ja Johann ei küsi. Karp läheb edasi 11. stseenis. Kuus tõru — publik loeb neid alateadlikult, seega peavad nad kõik ära kuluma. Viht läheb sauna, hark jääb vankrile. Kratti me kordagi ei näe.
 
 → [[Vaatus III - Peipsi arveteklaarimine]]

@@ -26,8 +26,8 @@ Johann Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakan
 | Vaatus | Stseenid | Fail | Staatus |
 |---|---|---|---|
 | I — Taht süttib | 1–4 | [[Vaatus I - Taht süttib]] | visand |
-| II — Blingimine ja varustamine | 5–8 | [[Vaatus II - Blingimine ja varustamine]] | visand |
-| III — Peipsi arveteklaarimine | 9–11 | [[Vaatus III - Peipsi arveteklaarimine]] | visand |
+| II — Blingimine ja varustamine | 5–9 | [[Vaatus II - Blingimine ja varustamine]] | visand |
+| III — Peipsi arveteklaarimine | 10–12 | [[Vaatus III - Peipsi arveteklaarimine]] | visand |
 
 ## Materjal
 
@@ -37,8 +37,8 @@ Johann Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakan
 
 ## Lahtised otsad
 
-- [ ] Zoja «beebi-sommeljee» monoloog: 5. stseeni telefonikõnesse või eraldi stseenina restoranis? Praegu pole teda ekraanil enne III vaatust.
-- [ ] Turutüdruk: punapõskne talutüdruk või tikk-kontsadega näitsik. Valik muudab kogu 2. stseeni tooni.
+- [x] Zoja «beebi-sommeljee» monoloog: eraldi 6. stseen parteikomitees, kohe telefonikõne järel.
+- [x] Turutüdruk: toateenija kostüüm, sinimustvalge tanu, võrksukad ja viisud.
 - [ ] Kolmeharuline porgand peab III vaatuses tagasi tulema. Kelle taskus ta on, kui Zoja langeb?
 - [ ] Tank saab II vaatuses blingi, aga ei sõida III vaatuses kordagi. Kas peaks — või on nali just selles, et ei?
 - [ ] Saunaliin on praegu üks kaader. Kas jääbki üheks kaadriks?

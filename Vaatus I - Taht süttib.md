@@ -55,7 +55,7 @@ See ei ole John Wicki kutsikas. See on «Kapsapea, minu nunnu» — eesti mees j
 
 Johann sööb kebabi. Sööb aeglaselt. Vankri juurde tulevad [[Tegelased|Dima]] ja tema kaagid ning alustavad laitmatus eesti keeles — viisakalt, isegi soojalt.
 
-Siis läheb jutt porganditele. Ja hetkest, mil Dima tahab osta, lülitub kogu jõuk puisele õpikuvenele. Rõhud vales kohas, käänded ettevaatlikud, iga lause nagu ette loetud. Räägitakse ilmast, koolist ja Lenast.
+Siis läheb jutt porgandile. Ja hetkest, mil Dima tahab osta, lülitub kogu jõuk puisele õpikuvenele. Rõhud vales kohas, käänded ettevaatlikud, iga lause nagu ette loetud. Räägitakse ilmast, koolist ja Lenast.
 
 Subtiitrid ei tõlgi seda. Subtiitrid tõlgivad vestlust, mis tegelikult käib.
 
