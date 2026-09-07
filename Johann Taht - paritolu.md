@@ -54,6 +54,19 @@ Johann ei kommenteerinud seda kordagi ega läinud kohale. Ainus, mida ta selle k
 >
 > *— Johann Taht*
 
+## Puhkus soojal maal
+
+Ükskord ennemuistsel ajal käis ta soojal maal puhkamas. See on ainus kord terve tema eluloo jooksul, kui ta on kuskilt ära käinud lihtsalt sellepärast, et tahtis.
+
+Seal õpetas ta egiptlastele õlut tegema. Ta ei teinud sellest suurt numbrit ega jätnud endast midagi maha peale retsepti — linnased, vesi, kannatus. Egiptlased hakkasid pärast seda oma ehitajatele õlles palka maksma ja see on kirja pandud, sest see läks arvesse.
+
+Nädalavahetusel viskas ta üles kolm Giza püramiidi. Ainus põhjus oli see, et ta teadis, et kunagi hakkavad inimesed neid seletama.
+
+Ta ei jätnud ühtegi vihjet, ühtegi märki ega ühtegi lõpetamata rida. Ta jättis need lihtsalt sinna, väga täpselt, ja läks koju.
+
+> [!note] Miks see naljakas on
+> Sest kaadris ei oleks see üldse naljakas. Õlu on töö, püramiidid on nädalavahetus ja kumbagi ei kommenteerita. Ainus asi, mille üle Johann on kunagi teadlikult nalja teinud, on ajaloolased — ja nemad ei tea sellest siiamaani midagi.
+
 ## Esimene ajaloolane
 
 Esimene, kes need maad kirja pani, oli Tacitus, «Germania», umbes aastal 98. Ta ei käinud siin. Ta kirjutas selle üles kellegi teise jutu järgi ja teadlased vaidlevad siiani, kellest ta üldse rääkis.
@@ -61,6 +74,26 @@ Esimene, kes need maad kirja pani, oli Tacitus, «Germania», umbes aastal 98. T
 Filmi versioon on lihtsam: keegi küsis ja Johann vastas. Ta vastas täpselt, rahulikult ja lõpuni, nii nagu ta vastab reporterile [[Vaatus II - Blingimine ja varustamine|5. stseenis]] — ühe sõnaga korraga, ilma järjeta. Ülejäänu mõtles Rooma ise juurde.
 
 Sealt algab kaks tuhat aastat, mille jooksul ei ole tema kohta kirja pandud ühtegi õiget rida.
+
+## Giiditöö
+
+Vastamine läks üle giiditööks. Johann näitas talle maad kätte — jõed, rannik, kus on merevaik, kes kellega kaupleb — täpselt, rahulikult ja lõpuni, sest tööd tehakse niimoodi.
+
+Tacitus suri kaheksateist aastat hiljem. Tööd ei kuulutanud keegi lõppenuks ja Johann ei ole harjunud töölt ise ära minema.
+
+Ta oli ära tuhat kakssada aastat.
+
+Selle aja sisse jäi kõik. Lembitu ülestõus nurjus Madisepäeval ilma temata. Maa jagati ära ilma temata, paberi peal, mõõdetud tükkidena, ja jagajad said sellega hakkama ühe põlvkonnaga. Sada kakskümmend kuus aastat hiljem nurjus ka Jüriöö ülestõus, samuti ilma temata.
+
+Kui ta tagasi jõudis, oli töö tehtud ja maa oli teiste oma.
+
+Ta ei ütle selle kohta kordagi mitte midagi. Ei filmis, ei enne filmi, ei kellelegi.
+
+> [!note] Ainus haav
+> Siin on kogu tegelase põhi. Mees, kes ei tõsta häält, ei kiirusta ega seleta ennast, jäi ühel korral tööle liiga kauaks — ja selle ajaga kadus maa, mille kõrval ta oli üheksa tuhat aastat elanud. Publik ei tohi seda kunagi teada saada. Näitleja peab seda teadma iga kaadri juures.
+
+> [!note] Miks ta uuesti ei ürita
+> Ta ei ole kättemaksja ega vabastaja ja film ei tee temast kumbagi. Ta läheb III vaatuses välja porgandi pärast, mitte Eesti pärast. See, et kogu küla tuleb kaasa, ei ole tema plaan ja ta ei märka seda enne, kui asi on läbi.
 
 ## Nimi
 
