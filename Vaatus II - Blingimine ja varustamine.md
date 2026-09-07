@@ -323,8 +323,8 @@ Juhan läheb küla sepa juurde relvadegusteerimisele. Sepp käitub nagu kõrgkla
 
 Alustatakse kergest. Sepp toob talutööriistad ja asetab need lauale kolmnurka.
 
-> — Vits. Kasest, tänavune. Head lapsed kasvavad vitsata. NKVD ei ole hea laps.
-> — Kaseviht. Pehme. Aga saunas ei jää keegi ellu.
+> — Vits. Kasest, tänavune, tuulepealne serv. Head lapsed kasvavad vitsata. NKVD ei ole hea laps.
+> — Kaseviht. Sama nõlv, nädal hiljem korjatud. Pehme. Aga saunas ei jää keegi ellu.
 >
 > *— Sepp*
 
@@ -332,11 +332,13 @@ Kolmandana tuuakse sõnnikuhark. Kolm haru, keskmine lühem kui teised. Sepp ei 
 
 Siis põhikäik.
 
-> — Mosin. Robustne. Aus. Tunda on vilte ja papahha. Ta ei valeta teile kunagi.
+> — Mosin. Iževsk, kolmekümne kaheksas. Põhjanõlv, aeglane kasv, paks koor. Robustne, aus. Tunda on vilte ja papahha. Ta ei valeta teile kunagi.
 > — Ja see?
-> — MP-38. Pigem Austria kunstiringide austajatele. Puhas joon, natuke pretensioonikas.
+> — MP-38. Lõunanõlv, soe aasta, lühike käärimine. Puhas joon, natuke pretensioonikas — pigem Austria kunstiringide austajatele.
 > — Soomlane?
-> — KP-31. Käib väga hästi Koskenkorvaga. Aga siis on õhtu läbi.
+> — KP-31. Lühike suvi, pikk järelmaitse. Käib väga hästi Koskenkorvaga. Aga siis on õhtu läbi.
+> — Ja mis te ise jooksite?
+> — Vikatit. Kodune. Ei ole aastakäiku, on ainult ilm.
 >
 > *— Sepp ja Juhan*
 
@@ -384,7 +386,7 @@ Viimasena tuuakse lasermõõk. Sepp hoiab seda kahe sõrmega, nagu korgitud pude
 
 Siis läheb sepp tagatuppa ja toob kasti. Kasti avades tuleb suitsu. Kaamera ootab, kuni suits hajub — kauem, kui on mugav. Kastis on sametkarp.
 
-Karbis on kadakast ragulka ja kuus tammetõru. Tõrud on korjatud pühast hiiest. Ragulka kumm on võetud Pätsu-aegsetelt aluspükstelt. Sepp ei tutvusta seda üldse. Ta lihtsalt paneb karbi Juhani ette ja astub sammu tagasi.
+Karbis on kadakast ragulka ja kuus tammetõru. Tõrud on korjatud pühast hiiest, põhjanõlvalt, kus nad valmivad aeglasemalt. Ragulka kumm on võetud Pätsu-aegsetelt aluspükstelt. Sepp ei tutvusta seda üldse. Ta lihtsalt paneb karbi Juhani ette ja astub sammu tagasi.
 
 Juhan võtab vikati, Mosini ja kolm kasti padruneid. Vitsa ja viha paneb ta samuti vankrile. Sametkarbi asetab kõige ette — see ei ole tema jaoks.
 

@@ -69,6 +69,8 @@ Seosed:
 ---
 
 Rakendatud (2026-09-07): kogu ülalolev on Vaatuses 0, 9. stseenis või epiloogis sees.
+Ka «rohkem lõunanõlvade retoorikat» — sepa repliikides on nüüd nõlk, aastakäik ja
+järelmaitse, mitte ainult stseeni sissejuhatuses.
 Viimasena läksid sisse: vanemate osaline rumalus (0.6 algus), erruminek ja taru,
 mida naaber puudutab ainult korra (0.6 lõpp), helisemata telefon 1940 (0.10 algus)
 ja Narva silla kordus Sinimägedes (0.10). Siia jäävad ainult uued mõtted.
