@@ -17,9 +17,9 @@ type: note
 
 ## Lühikokkuvõte
 
-Nad võtsid tal porgandi. Aga ajasid sassi ka malelaua.
+Nad võtsid talt porgandi. Aga ajasid sassi ka malelaua.
 
-Juhan Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakanud porgandit kasvatama. Kui NKVD kaagid murravad öösel bunkrisse, varastavad tema püha kolmeharulise porgandi ja ajavad sassi Paul Kerese võidupartii seisu, siis kaotab Eesti oma viimase rahuliku mehe — ja Nõukogude Liit umbes kaks rügementi.
+Juhan Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakanud kaalikaid kasvatama. Kui NKVD kaagid murravad öösel bunkrisse, varastavad tema püha kolmeharulise porgandi ja ajavad sassi Paul Kerese võidupartii seisu, siis kaotab Eesti oma viimase rahuliku mehe — ja Nõukogude Liit umbes kaks rügementi.
 
 ## Struktuur
 
@@ -42,10 +42,10 @@ Juhan Taht on metsavend, kes on sõja lõpetanud, tanki kuuri lükanud ja hakanu
 
 - [x] Zoja «beebigurmee» monoloog: eraldi 6. stseen parteikomitees, kohe telefonikõne järel.
 - [x] Turutüdruk: toateenija kostüüm, sinimustvalge tanu, võrksukad ja viisud.
-- [ ] Kolmeharuline porgand peab III vaatuses tagasi tulema. Kelle taskus ta on, kui Zoja langeb?
-- [ ] Tank saab II vaatuses blingi, aga ei sõida III vaatuses kordagi. Kas peaks — või on nali just selles, et ei?
-- [ ] Saunaliin on praegu üks kaader. Kas jääbki üheks kaadriks?
-- [ ] «Kapsapea, minu nunnu» — täpsustada viide (tsitaat või stseeniparalleel 2. stseeni jaoks).
+- [x] Kolmeharuline porgand tuleb III vaatuses tagasi: kukub Dima taskust välja, kui see pärast Zoja langemist minema jookseb.
+- [x] Tank ei sõida. Pärast blingimist köhatab korra ja vaikib siis igaveseks.
+- [x] Saunaliin ongi üks kaader.
+- [x] «Kapsapea, minu nunnu» — Oskar Luts, «Kapsapea» (1913): saunarahva hiigelkapsas Nunnu, mille peremees Pliuhkam näituse jaoks ära võtab. «Meie Nunnu! Meie Nunnu!»
 
 ## Veebiversioon
 

@@ -44,9 +44,9 @@ Leti taga seisab [[Tegelased|turutüdruk]]. Must kleit, valge põll, lühike —
 
 Kaamera ei märka sellest midagi. Kaader on kaalul ja kätel. Kui tüdruk kaadris on, siis vööst ülevalt ja tööd tegemas. Ka teised turul ei vaata: naabrimutt kurdab talle hindade üle, keegi küsib teed. Kostüümi ei kommenteeri terve filmi jooksul mitte keegi.
 
-Juhan ostab kama. Tehing kestab kaua ja kaamera austab seda. Tüdruk kaalub, Juhan vaatab, keegi ei kiirusta. Kama läheb kotti nagu kama läheb kotti. Raha tagasi loetakse peo peale, senti kaupa.
+Juhan ostab kama. Tehing kestab kaua ja kaamera austab seda. Tüdruk kaalub, Juhan vaatab, keegi ei kiirusta. Kama läheb kotti nagu kama läheb kotti. Raha tagasi loetakse peo peale, müntides.
 
-Siis kummardub tüdruk leti alla ja tõstab välja kolmeharulise porgandi — keskmine haru lühem kui teised. Boonus. Ta ulatab selle üle kaalu, ilma sõnata, nagu ei annaks ta midagi. Juhan võtab kahe käega vastu. Muusika, mis siiani polnud eriti kohal, tuleb sisse.
+Siis kummardub tüdruk leti alla ja tõstab välja kolmeharulise porgandi — keskmine haru lühem kui teised. Boonus. Ta ulatab selle üle kaalu, ilma sõnadeta, nagu poleks see midagi erilist. Juhan võtab kahe käega vastu. Muusika, mis siiani polnud eriti kohal, tuleb sisse.
 
 Tüdruk on juba järgmise kliendi juures. Talle see hetk midagi ei tähenda.
 
@@ -54,6 +54,9 @@ See ei ole John Wicki kutsikas. See on «Kapsapea, minu nunnu» — eesti mees j
 
 > [!note] Ülesehitus
 > Publik peab sellest porgandist tõsiselt hoolima. Kui ta III vaatuses ekraanile naaseb, on ta tegelane, mitte rekvisiit.
+
+> [!note] Viide
+> Oskar Luts, «Kapsapea» (1913), naljamäng ühes vaatuses. Saunanaise Krõõda aias kasvab hiiglaslik kapsapea ja saunarahva jaoks on tal nimi: Nunnu. Peremees Pliuhkam tahab näituseauhinda ja võtab kapsa ära; väike Maali ahastab «Meie Nunnu! Meie Nunnu!». Näitus oli peetud juba eelmisel nädalal. Paralleel on täpne: juurvili, kellel on nimi, ja võim, kes võtab ta ära asja pärast, mida enam ei ole.
 
 ---
 
@@ -102,21 +105,25 @@ Bunkri kaitse on läbimõeldud: miiniväli, kurjad mägrad, vallikraav haide ja 
 
 Tõuks on miinide jaoks liiga kerge. Vallikraavi kohal on laudtee, mille Juhan ehitas ise, sest pitsa peab kohale jõudma soojalt.
 
-Mägrad oleksid pidanud kuulma. Mägradel on ülem ja ülem on [[Tegelased|Muri]].
+Mägrad oleksid pidanud kuulma. Mäkradel on ülem ja ülem on [[Tegelased|Muri]].
 
-Alla jookseb tiitel: **MURI, kaitsemägrade ülem**.
+All jookseb tiitel: **MURI, kaitsemäkrade ülem**.
 
 Tiitel jookseb üle kaadri, kus ta magab.
 
-Kuuri all on lähker. Juhanil on mesi ja mesest tuleb mõdu, ja mõdu seisab kuuri all sellepärast, et seal on jahe. Lähker on ümber läinud ja tühi.
+Kuuri all on lähker. Juhanil on mesi ja meest tuleb mõdu, ja mõdu seisab kuuri all sellepärast, et seal on jahe. Lähker on lahti ja pooltühi.
+
+On Muri sünnipäev. Kedagi ei kutsutud ja keegi ei tulnud, nii et ta tähistas üksi. Ülem on täis.
 
 Ülejäänud mägrad ootavad käsku. Käsku ei tule, sest ülem magab, ja ilma käsuta ei tee nemad ka midagi.
 
+Rooma päästsid kunagi haned. Haned ei oodanud käsku, nad lihtsalt kisasid. Mägrad ei ole haned.
+
 Kolm meest tõuksi peal. Aeglaselt. Vaikselt. Öö läbi ei lähe ükski laser tööle.
 
-Nad peksavad Juhani diivanipatjadega oimetuks. Võtavad kolmeharulise porgandi. Ja lahkudes komistab keegi laua otsa ning ajab sassi Paul Kerese võidupartii seisu, mille Juhan on nuppude kaupa üles ehitanud.
+Nad peksavad Juhani diivanipatjadega oimetuks. Võtavad kolmeharulise porgandi. Ja lahkudes komistab keegi laua otsa ning ajab sassi Paul Kerese võidupartii seisu.
 
-Juhan ärkab. Tõuseb istukile. Vaatab tühja lauda.
+Juhan ärkab. Tõuseb istukile.
 
 Malelaud tabab teda esimesena, sest ta on sellele lähemal. Nupud on laiali, seis on läinud, Kerese võit on kadunud koos sellega. Ta hakkab neid ükshaaval tagasi tõstma. Käsi peatub poole peal.
 
@@ -134,7 +141,7 @@ Lõige tagasi. Juhan paneb viimase malenupu lauale. Ei tõsta häält.
 > Sissemurdmise seletus tuleb sama stseeni sees ja täiesti tõsisel toonil. Kaitseliin, mida Juhan ei arvestanud, ehitas ta ise ja tegi seda sooja pitsa nimel.
 
 > [!note] Mõdu
-> Teine auk on samuti tema enda tehtud: mesi on tema, mõdu on mesest, lähker on kuuri all, sest seal on jahe. Ükski tegelane ei ütle seda välja ja Juhan ei heida Murile kordagi ette. Ainus, kes seda ööd mäletab, on mäger — ja kõik, mida ta III vaatuses mahalastud meeste juures teeb, tuleb sellest.
+> Teine auk on samuti tema enda tehtud: mesi on tema, mõdu on meest, lähker on kuuri all, sest seal on jahe. Ükski tegelane ei ütle seda välja ja Juhan ei heida Murile kordagi ette. Ainus, kes seda ööd mäletab, on mäger — ja kõik, mida ta III vaatuses mahalastud meeste juures teeb, tuleb sellest.
 
 > [!note] Ülem magab
 > Tiitel antakse talle täpselt sel hetkel, kui ta seda kõige vähem väärib, ja seda ei kommenteeri keegi. Sama žest nagu 0.3 ja 0.4 vahel, kus Kalevipoeg saab kuninga tiitli alles vees. Riik ja film panevad nimesilte inimeste külge siis, kui see kõige rohkem valutab.

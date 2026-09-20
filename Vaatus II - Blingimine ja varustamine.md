@@ -13,7 +13,7 @@ Süsteem saab teada, kelle porgand see oli. Viis stseeni. Vt [[Juhan Taht]]
 
 ---
 
-## 5. Porgandisündikaat
+## 5. Juurviljasündikaat
 
 **SISE. RESTORAN — ÕHTU** · *beat: maailm*
 
@@ -33,7 +33,7 @@ Ostrat ei vasta. Paneb kindad kätte ja avab koti. Kaamera on kätel ja see kest
 
 Kotis on üks porgand.
 
-Ostrat vaatab kotti veel korra, sest niimoodi ei tooda kaupa. Siis tõstab porgandi välja kahe käega — täpselt sama haardega, nagu Juhan teda turul vastu võttis. Kolm haru, keskmine lühem kui teised. Võtab taskurätiku ja paneb porgandi ettevaatlikult sellele.
+Ostrat vaatab kotti veel korra, sest niimoodi ei tooda kaupa. Siis tõstab porgandi välja kahe käega — täpselt sama hoolikalt, nagu Juhan seda turul vastu võttis. Kolm haru, keskmine lühem kui teised. Võtab taskurätiku ja paneb porgandi ettevaatlikult sellele.
 
 Ja alles siis pöördub ümber.
 
@@ -42,7 +42,7 @@ Ja alles siis pöördub ümber.
 >
 > *— Ostrat ja Dima*
 
-Ostrat annab talle silmapilkselt *dickpunchi*. Ilma vihata, ilma hoovõtuta, nagu paneks korgi pudelile tagasi. Dima läheb põlvili.
+Ostrat annab talle silmapilkselt *dickpunchi*. Ilma vihata, ilma hoovõtuta, nagu sirutaks kätt. Dima kukub põlvili.
 
 Klaver mängib edasi. Saalis ei pööra keegi pead.
 
@@ -78,7 +78,7 @@ Reporter ootab järge. Järge ei tule. Juhan seisab, hoiab porgandit kahe käega
 
 Paus venib. Operaator ei tea, kas lõigata. Ei lõika.
 
-Alla jookseb tiitel: **JOHANNES TÄHT, aednik**. Kaks täppi ja üks liide, mida keegi ei palunud.
+Alla ilmub tiitel: **JUHAN TÄHT, aednik**. Kaks täppi ja üks liide, mida keegi ei palunud.
 
 Juhan ei paranda seda, sest kui ta parandaks, siis vahetuks võim.
 
@@ -110,7 +110,7 @@ Dima tõuseb püsti. Ei ütle midagi. Võtab taskust Nokia 3310 ja valib pöidla
 
 Ostrat ei takista teda. Läheb kraani juurde ja hakkab käsi pesema. Kaua.
 
-> — See kokk siin lõi mind.
+> — Siin juurviljabaasis löödi mind.
 >
 > *— Dima · telefonis*
 
@@ -245,6 +245,8 @@ Juhan on kaadris kaasas ja noogutab viisakalt. Ta ei karju kaasa. Keegi ei pane 
 Montaaž lõpeb. Muusika lõpeb koos sellega ja midagi ei tule asemele.
 
 Kuuri uksed tõmmatakse lahti. Tank seisab hommikuvalguses: kahekümne kuue tollised kroomitud valuveljed, poldid roomikute vahelt läbi, nii et masin ei saa enam kuhugi sõita. Toru otsas vibreerib väike lipp. Torniluugist ripub alla diskopall ja pöörleb aeglaselt, sest keegi lülitas selle demonstratsiooniks sisse.
+
+Xzibit vajutab demonstratsiooniks ka käivitit. Mootor köhatab korra. Siis jääb ta vait ja rohkem ei tee ta seda kunagi, ei siin ega hiljem.
 
 Juhan astub ligi. Käib tanki ümber üks kord, terve ringi, ja ei puuduta seda.
 

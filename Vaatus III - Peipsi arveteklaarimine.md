@@ -50,5 +50,9 @@ Lõige. Zoja köök. Mäša teeb hommikusööki. Ta ei tea sõjast midagi. Ta ot
 
 Lahinguväljal sähvatab silmipimestav valgus. Kui kõik jälle näevad, seisab Zoja asemel Uku Suviste. Tulistamine lakkab. Keegi ei tea, mida öelda.
 
+[[Tegelased|Dima]] on ainus, kes liigub. Ta jookseb. Taskust kukub välja kolmeharuline porgand — keskmine haru lühem kui teised — ja jääb tallatud maale lamama. Dima ei vaata tagasi.
+
+Juhan võtab ta üles kahe käega.
+
 > [!note] Happy end
 > Viimane kaader: rukkilill tõuseb tallatud pinnasest tagasi püsti. Köögis maitseb Mäša omletti ja lisab soola.

@@ -46,7 +46,7 @@ Juhan on puhkusel. Ta ei tee midagi kiiresti.
 
 Ta seisab paja juures ja näitab kohalikele, kuidas käib: linnased, vesi, kannatus. Mehed maitsevad. Üks noogutab. Õlu on olemas.
 
-Lõige: kirjatundja kirjutab midagi savisse. Lõige: ehitajatele antakse kannud kätte. Palgapäev.
+Lõige: kirjatundja kirjutab midagi savisse. Lõige: ehitajatele antakse kannud kätte. Igal savikannul on silt: «Õlu». Palgapäev.
 
 Siis on nädalavahetus.
 
@@ -89,7 +89,7 @@ Aastad on läinud. Jõgi on madal.
 
 Kalevipoeg on vees ja tema oma mõõk on vee all. Tiitel tuleb ka siia, sama rahulikult: **KALEVIPOEG, kuningas**. Juhtub see, mis juhtub. Kaamera on kaldal, kaugel, ja ei lähe lähemale.
 
-Verd kannab allavoolu. Kaal kaob koos verega.
+Verd kannab allavoolu. Kaal kaob koos verega. Subtiiter: **Kiire kaalulangetus™**.
 
 Lõige metsaserva. Juhan seisab puude vahel ja on kohale jõudnud liiga hilja, aga mitte joostes. Ta ei lähe vette. Ta seisab seal, kuni asi on läbi.
 
@@ -117,19 +117,27 @@ Ta pöörab ümber ja läheb. Matustele ta ei lähe, sest teda ei kutsutud.
 
 Võõras mees kirjutuslaudadega. Tiitel: **[[Tegelased|CORNELIUS TACITUS]], ajaloolane**.
 
-Ta küsib. Juhani alla ei jookse midagi ja keegi ei märka, et midagi puudu on.
+Ta küsib. Kaamera läheb Juhanile. Tema alla ei jookse ühtegi tiitrit ja keegi ei märka, et midagi puudu on.
 
-Juhan vastab. Ühe sõnaga korraga, täpselt, ilma järjeta, nii nagu ta vastab kolmkümmend seitse põlvkonda hiljem [[Vaatus II - Blingimine ja varustamine|Aktuaalse kaamera]] reporterile.
+Juhan vastab. Lakooniliselt, nii nagu ta vastab kolmkümmend seitse põlvkonda hiljem [[Vaatus II - Blingimine ja varustamine|Aktuaalse kaamera]] reporterile.
 
 Ta näitab kätte jõed, ranniku, merevaigu ja selle, kes kellega kaupleb. Töö on töö ja tööd tehakse lõpuni.
 
 Võõras kirjutab. Kaamera vaatab, mida ta kirjutab, ja see ei ole see, mida Juhan ütles.
 
+Võõras pakib lauad kokku ja läheb lõuna poole. Juhan läheb kaasa, sest keegi ei ole öelnud, et töö on tehtud. Rannik jääb kaadrisse. Tema mitte.
+
 Montaaž, vaikne ja kiire, ilma aastaarvudeta:
 
-Võõras jääb vanaks. Võõras sureb. Keegi ei tule ütlema, et töö on tehtud, ja Juhan ei lähe ise ära.
+Võõras jääb vanaks. Võõras sureb — Roomas, ja Juhan seisab sel ajal ukse taga. Keegi ei tule ütlema, et töö on tehtud, ja Juhan ei lähe ise ära.
 
 Ta näitab maad kätte järgmistele. Ja järgmistele.
+
+Maad on iga kord teised. Tiitel: **LEIF ERIKSSON, meresõitja**. Juhan näitab käega läände.
+
+Tiitel: **MARCO POLO, kaupmees**. Juhan näitab käega itta.
+
+Kumbki kirjutab üles midagi muud.
 
 Kaugel, kaadri servas, ilma helita: mehed langevad ühel väljal — Madisepäev. Mehed mõõdavad maad nööriga ja kirjutavad paberile. Öö, tuled, karjed, ja siis vaikus — Jüriöö.
 
@@ -148,13 +156,13 @@ Ta ei ütle midagi. See on ainus stseen terves filmis, kus tema lauset ei tule.
 
 **VÄL. NARVA SILD — TALV** · *beat: must töö*
 
-Enne seda on üks lõige, mis kestab paar sekundit: eesti vanemad istuvad ringis ja otsustavad. Me ei kuule, mida. Juhan seisab ringi taga ja kuulab lõpuni.
+Enne seda on üks lõige, mis kestab paar sekundit: eesti vanemad istuvad ringis, nagu nad on alati istunud. Otsustada ei ole neil enam midagi — maa on ära jagatud ja otsused tehakse mujal, teises keeles. Nad istuvad ikkagi ja arutavad. Me ei kuule, mida. Juhan seisab ringi taga ja kuulab lõpuni.
 
-Otsus on osalt rumal. Mitte täiesti — osalt, ja see on hullem.
+See on osalt rumal. Mitte täiesti — osalt, ja see on hullem.
 
 Ta ei vaidle, ei plahvata ega pea kõnet. Ta lakkab ootamast, ja seda ei ole näost näha.
 
-Ta teeb tööd neile, kes parasjagu käsivad. Põhiliselt idasuunal.
+Ta teeb tööd neile, kes maksavad. Põhiliselt idasuunal.
 
 Sild. Morn mees läheb üle. Sama sild, teine sajand, teine vorm valvuri seljas: morn mees läheb üle. Kolmas kord: valvur ei küsi enam midagi, sest kõik teavad juba seda meest.
 
@@ -188,7 +196,7 @@ Juhan vaatab pilti korra. Ei ütle midagi ega paranda ka seda.
 
 Ta tõmbub tagasi täpselt mööda seda teed, mida mööda ta tuli, ega jäta endast maha ühtegi märki. Peeter jääb elama ja ajalugu läheb nii, nagu läheb.
 
-Luba ise oleks tulnud pärgamendil, vahakärbisega, kolm päeva hobuse seljas. Nii käib side.
+Luba ise oleks tulnud pärgamendil, musta pitseriga, kolm päeva hobuse seljas. Nii käib side.
 
 Tagasi jõudes annab ta aru. [[Tegelased|Kirjutaja]] kastab sule ja ootab. Tiitel: **KIRJUTAJA, kroonik**.
 
@@ -197,6 +205,10 @@ Tagasi jõudes annab ta aru. [[Tegelased|Kirjutaja]] kastab sule ja ootab. Tiite
 > *— Juhan Taht*
 
 Rohkem ei küsita ja rohkem ta ei ütle. Kirjutaja paneb pärgamendile kirja pikema lause, kui öeldi, rullib kokku ja pitseerib.
+
+Lõuend lüüakse laudkasti. Töö jäi tegemata, nii et pilti ei saa kuhugi riputada. Kastile põletatakse number.
+
+Mees lükkab kasti käruga lattu. Seal on samasuguseid kaste nii kaugele, kui silm ulatub: riiulid, vahekäigud, tolm. Kaamera tõuseb ja ladu ei lõpe.
 
 Mõned aastad hiljem võtavad venelased Eestimaa üle. Seda ei näidata: näidatakse ainult, kuidas Juhan paneb hangu kuuri seina äärde tagasi ja jääb seisma.
 
@@ -208,10 +220,10 @@ Naaber tuleb vaatama ja paneb käe taru peale. Ainult korra. Lõige on lühike j
 > See peab olema kaadris jäine ja täiesti tavaline: mitte kõhklus, mitte halastus, vaid tööreegel. Sama reegel murdub III vaatuses ühe juurvilja pärast ja seda ei kommenteeri keegi.
 
 > [!note] Erioperatsioon hanguga
-> Kogu ootamine mängitakse tänapäeva eriüksuse käekirjas — positsioon, kannatus, objekt tuvastatud, luba. Ainult ükski aparaat ei tohi kaadrisse sattuda: relv on hang, side on pärgament ja vahapitsat, ja luba tuleb kolme päeva tee kauguselt hobuse seljas. Anakronism on protseduuris, mitte esemetes, ja seda ei kommenteeri keegi. «Objekt oli sihikul» on aruanne, mitte vabandus.
+> Kogu ootamine mängitakse tänapäeva eriüksuse käekirjas — positsioon, kannatus, objekt tuvastatud, luba. Ainult ükski aparaat ei tohi kaadrisse sattuda: relv on hang, side on pärgament ja must pitser, ja luba tuleb kolme päeva tee kauguselt hobuse seljas. Anakronism on protseduuris, mitte esemetes, ja seda ei kommenteeri keegi. «Objekt oli sihikul» on aruanne, mitte vabandus.
 
 > [!note] Kaks valet ühest ööst
-> Lõuendil on Peeter maas ja pärgamendil on pikem lause, kui öeldi. Kumbki ei ole pahatahtlik: kunstnik maalis ette, sest niimoodi need pildid käivad, ja kirjutaja kirjutas ilusamini, sest niimoodi need aruanded käivad. Juhan ei paranda kumbagi, täpselt nii nagu ta ei paranda oma nime. Sama muster nagu Tacitusega, kaks tuhat aastat vahet, sama tulemus — ja kusagil ripub siiani pilt tööst, mida ei tehtud.
+> Lõuendil on Peeter maas ja pärgamendil on pikem lause, kui öeldi. Kumbki ei ole pahatahtlik: kunstnik maalis ette, sest niimoodi need pildid käivad, ja kirjutaja kirjutas ilusamini, sest niimoodi need aruanded käivad. Juhan ei paranda kumbagi, täpselt nii nagu ta ei paranda oma nime. Sama muster nagu Tacitusega, kaks tuhat aastat vahet, sama tulemus — ja kusagil laos seisab siiani kastis pilt tööst, mida ei tehtud.
 
 ---
 
@@ -223,28 +235,28 @@ Kakssada aastat on ta mesilas olnud ja mesilast välja tulnud ainult sööta ost
 
 Nüüd on lumi, nüüd on rööpad, nüüd on sõda, mille lõpus võib tulla riik.
 
-Soomusrong seisab. Tiitel: **SOOMUSRONG, seisab**. Vedur on külm, kivisütt ei ole ja mehed on vagunite peal — kolmsada tonni rauda, kahurid, kuulipildujad, kõik olemas ja mitte midagi ei liigu.
+Soomusrong seisab. Tiitel: **SOOMUSRONG, seisab**. Rongi viiakse ühest kohast teise, ilma meeskonnata. Peal on kaks inimest: vana vedurijuht ja väike poiss. Vedur on külm ja kivisütt ei ole — kolmsada tonni rauda, kahurid, kuulipildujad, kõik olemas, mitte ühtegi sõdurit ja mitte midagi ei liigu.
 
-Juhan tuleb mööda rööpaid kohale. Kellelegi ta ennast ei tutvusta.
+Juhan tuleb mööda rööpaid käsidresiiniga kohale. Kellelegi ta ennast ei tutvusta.
 
-Ta läheb rongi ette, võtab käsidresiini, seob selle raudrongi külge ja hakkab kangi vajutama. Üles-alla. Aeglaselt.
+Ta jääb veduri ees seisma, seob dresiini raudrongi külge ja hakkab uuesti kangi vajutama. Üles-alla. Aeglaselt.
 
 Rong hakkab liikuma.
 
 Kaamera ei tee sellest suurt asja: lai plaan, talvine metsaserv, üks mees pumpab kangi ja tema taga tuleb terve soomusrong. Kiirus on jalakäija kiirus. Kiirus jääb jalakäija kiiruseks kogu sõja jooksul.
 
-Vagunilt küsib keegi poiss midagi, sest kõik teised vaikivad.
+Vagunilt küsib poiss, sest vana vedurijuht vaikib.
 
 > — Mis te tsiviilis olete?
 > — Mesinik.
 >
-> *— soldat ja Juhan Taht*
+> *— poiss ja Juhan Taht*
 
-Punased tulevad vastu. Alguses ettevaatlikult, siis ülemeelikult, sest neid on palju ja rong sõidab jalgsi.
+Punased tulevad rongile vastu, mööda raudteetammi ja üle lagendiku. Alguses ettevaatlikult, siis ülemeelikult, sest neid on palju, rong liigub jalakäija kiirusel ja kahurite taga ei ole kedagi. Julgemad ronivad juba vagunite katusele.
 
-Juhan kummardub, võtab lund ja hakkab loopima.
+Juhan kummardub üle dresiini ääre, võtab ühe käega lund ja hakkab loopima. Teine käsi vajutab kangi edasi.
 
-Lumepallid on täpsed. Mehed lähevad katuselt maha, mehed lähevad kraavi, mehed lähevad tagasi sinna, kust tulid. Ühtegi lasku ei tehta ja ühtegi käsku ei anta. Kangi vajutamises ei tule pausi.
+Lumepallid on täpsed. Punased kukuvad vagunikatuselt alla, punased kukuvad tammilt kraavi ja ülejäänud pöörduvad ringi ning lähevad tagasi sinna, kust tulid. Rongilt ei tehta ühtegi lasku, sest seal ei ole kedagi, kes laseks, ja ühtegi käsku ei anna keegi. Kangi vajutamisse ei tule pausi.
 
 Rong läheb edasi.
 
@@ -278,7 +290,7 @@ Auto sõidab ära.
 
 Hiljem, teine päev, sama õu: raadio räägib vapsidest. Juhan kuulab lõpuni, seistes, käed mee sees.
 
-Herilased, vaablased, vapsid. Tema ala, kolm korda.
+Herilased, vaablased, vapsid. Kõik on jumala linnukesed.
 
 Telefon ei helise. Ta läheb tagasi tarude juurde.
 
@@ -288,23 +300,23 @@ Telefon ei helise. Ta läheb tagasi tarude juurde.
 
 **SISE. MESINIKU TUBA — ÖÖ** · *beat: paber*
 
-Laual on paberid. Pealmine on värske, tint pole veel päris kuiv: Molotov-Ribbentropi pakt, terve tekst, koos salajase lisaprotokolliga. Ükski valitsus ei ole seda veel näinud.
+Laual on toimik. Pealmine paber on värske, tint pole veel päris kuiv: Molotov-Ribbentropi pakt, terve tekst, koos salajase lisaprotokolliga. All on kaks allkirja, Molotov ja Ribbentrop. Ükski teine valitsus ei ole seda veel näinud.
 
 Juhan loeb selle läbi. Kaamera on paberil ja siis tema näol ja siis jälle paberil.
 
-Paberi all on kaks lõikepilti, nagu neid pannakse toimikusse: kaks nägu, kaks allkirja.
+Pakti all on kaks lõikepilti, nagu neid toimikusse pannakse: kaks nägu. Mitte need, kes alla kirjutasid, vaid need, kelle eest kirjutati.
 
-Esimene nägu. Tiitel: **JOSSIF STALIN, allakirjutanu**. Juhan vaatab seda niisama kaua, kui vaadatakse ilmateadet. Selle mehega ei aja ta asju, sest see on punane tibla, ja rohkem sellest ei räägita.
+Esimene nägu. Tiitel: **JOSSIF STALIN, tellija**. Juhan vaatab seda niisama kaua, kui vaadatakse ilmateadet. Selle mehega ei aja ta asju, sest see on punane tibla, ja rohkem sellest ei räägita.
 
-Teine nägu. Tiitel: **ADOLF HITLER, allakirjutanu**. Selle pildi juures ta peatub.
+Teine nägu. Tiitel: **ADOLF HITLER, tellija**. Selle pildi juures ta peatub.
 
 Toimikus on tema kohta ka muud: mees ei söö liha, ja mees on maalinud. Lõikepiltide vahel on üks reproduktsioon — akvarell, korralik maja, korralik perspektiiv, mitte ühtegi inimest.
 
 Juhan vaatab akvarelli kauem kui pakti.
 
-> — Taimetoitlane. Ja kunstnik.
+> — Taimetoitlane. Ja kunstnik. Selline ei saa ju riiki juhtida.
 >
-> *— Juhan Taht*
+> *— Juhan Taht · halvustavalt*
 
 Rohkem diagnoosi ei tule ja rohkem ei ole vaja.
 
@@ -312,18 +324,12 @@ Ta paneb pakti käest.
 
 Pätsiga on ta tülis. Keegi ei ole küsinud. Ilma küsimata ta ei tee.
 
-Ta võtab lambi, paneb mütsi pähe ja läheb välja. Uks jääb praokile. Paber jääb lauale.
+Ta võtab lambi, paneb mütsi pähe ja läheb välja. Uks jääb praokile. Toimik jääb lauale.
 
 Mesilased tahavad talveks sööta.
 
 > [!note] Ainus arvamus
-> Juhan ei ütle terve filmi jooksul ühegi inimese kohta midagi hinnangulist peale nende kahe rea, ja mõlemad on siin. Stalinist saab poole lausega üle, sest tema on lihtsalt see, kes ta on. Hitleri juures ta peatub, ja peatub maali pärast, mitte poliitika pärast. Vaatus ei seleta seda kordagi ega anna talle õigust — mees, kes on üheksa tuhat aastat vaikinud, ütleb ühe diagnoosi ja eksib sellega ajaloo mastaabis nii rängalt, kui üldse eksida saab.
-
-> [!note] Akvarell ja lõuend
-> Teine kord kahe stseeni jooksul, kui maal ütleb tõtt, mida keegi ei loe. [[Vaatus 0 - Enne porgandit|0.6]] lõuendil oli töö, mida ei tehtud; siin on maja, kus ei ole ühtegi inimest. Juhan vaatab mõlemat korra ja läheb edasi. Kummalgi korral ei tee ta midagi ja mõlemal korral oleks pidanud.
-
-> [!note] Kaal
-> Kaal on tahtlikult vale ja seda ei paranda mitte keegi. Maailmasõda jääb vahele tüli pärast, mis käis herilaste üle. Kui keegi kaadris seda kaalu välja ütleks, oleks stseen naljanumber; kuna keegi ei ütle, on ta kohutav.
+> Juhan ei ütle terve filmi jooksul ühegi inimese kohta midagi hinnangulist peale nende kahe rea, ja mõlemad on siin. Stalinist saab poole lausega üle, sest tema on lihtsalt see, kes ta on. Hitleri juures ta peatub, ja peatub maali pärast, mitte poliitika pärast. Vaatus ei seleta seda kordagi. Diagnoos on õige: tibla ja kunstnik on mõlemad kehvad riigijuhid, ja mees, kes on üheksa tuhat aastat vaikinud, paneb selle ühe reaga paika.
 
 ---
 
@@ -337,13 +343,21 @@ Enne kui keegi kuhugi jookseb, on üks kaader: telefon seinal. See ei helise.
 
 Ta ütles Pätsule, et see oli viimane kord. See ei olnud ähvardus, vaid ajakava.
 
-Maantee käib õuest mööda. Mööda jooksevad punased. Hiljem jooksevad mööda sakslased. Hiljem jooksevad mööda jälle punased.
+Maantee käib õuest mööda. Mööda jooksevad punased. Hiljem jooksevad mööda sakslased.
 
-Suund muutub kolm korda. Tool ei muutu kordagi. Kaader on sama kaader, sama kõrgus, sama nurk, ainult valgus ja vorm on iga kord teine.
+Tool ei muutu. Kaader on sama kaader, sama kõrgus, sama nurk, ainult valgus ja vorm on iga kord teine.
 
 Kedagi ei kutsuta sisse ja kedagi ei takistata. Keegi ei küsi midagi.
 
-Siis tõuseb ta püsti, sest tal on asja.
+Siis tuleb väravast naine. Naabritalu perenaine, rätik peas, käed põlle all. Õue peale ta ei tule, jääb värava juurde seisma.
+
+> — Mul on kaks poega Sinimägedes. Viige neile mett.
+>
+> *— perenaine*
+
+Rohkem ta ei ütle. Ta ei seleta, kus Sinimäed on, ja ei ütle, mis seal parasjagu toimub.
+
+Juhan tõuseb püsti. Kiiktool kiigub tühjalt veel paar korda. Ta läheb sahvrisse ja tuleb tagasi kannuga.
 
 **VÄL. SINIMÄED — SUVI**
 
@@ -351,7 +365,9 @@ Kraavid, savi, väsinud poisid, keeduvesi tulel.
 
 Juhan vaatab korra itta. Sealpool, kahekümne kilomeetri kaugusel, on jõgi ja jõe peal sild, mida ta paarsada aastat mööda üle ja tagasi käis. Siit ei ole seda näha ja ta vaatab sinnapoole ikka. Kaamera järgneb pilgule ja leiab ainult metsa.
 
-Juhan annab üle kannu mett. Tee jaoks, sest tee ilma meeta ei ole tee.
+Juhan annab kannu üle esimesele, kes ette jääb. Ta ei küsi, kelle poeg see on. Tee jaoks, sest tee ilma meeta ei ole tee.
+
+Kann läheb käest kätte mööda kraavi edasi, sest poegi on siin rohkem kui kaks.
 
 > — Aitäh.
 >
@@ -377,9 +393,13 @@ Kroonikas ei ole kaadrit mehest, kes tuli mäest alla valet nõlva mööda. Kroo
 
 **VÄL. TALUÕU — SAMA SUVI**
 
-Kiiktool. Juhan istub tagasi. Sõda käib edasi ja tema enam kaasa ei lähe.
+Kiiktool. Juhan istub tagasi: sama kaader, sama kõrgus, sama nurk. Sõda käib edasi ja tema enam kaasa ei lähe.
 
 Rinne Sinimägedes seisab. Punased otsustavad rünnata mujalt.
+
+Sügisel jooksevad maanteed mööda jälle punased. Nad tulevad mujalt.
+
+Suund muutus kolm korda. Tool mitte kordagi. Ära käis ta ühe korra, mett viimas.
 
 > [!note] Mida ei näidata
 > Lahingut ei ole ekraanil ega helis. Enne on mesi ja pärast on tool; vahepeal on lõige. Kogu töö teeb ära see, et me juba teame, mida see mees teeb, kui talle jalgu jäädakse.
@@ -430,11 +450,11 @@ Ja sellest päevast peale hakkab mäger tegema asju, mida mägrad ei tee.
 
 Bunkri juures on mägraliin juba olemas. Juhan ei õpeta neid ega korralda midagi — ta lihtsalt viib Muri sinna korra kaasa, ja järgmisel korral tulevad ülejäänud tema järel. Nii ta ülemaks saabki, ilma et keegi seda kunagi ütleks.
 
-Nädal hiljem läheb loom halvaks. Suu vahutab, silm ei kannata valgust, vett ta ei joo, kuigi kauss on kaks sammu eemal. Marutaud — ja mitte alguses. Lõualuu ei kuula, tagajalad ei kanna, vesi teeb hirmu. See on lõppfaas.
+Nädal hiljem jääb loom haigeks. Suu vahutab, silmad ei kannata valgust, vett ta ei joo, kuigi kauss on kaks sammu eemal. Marutaud. Lõualuu ei kuula, tagajalad ei kanna, vesi teeb hirmu. See on lõppfaas.
 
 Lõppfaasist ei ole välja tulnud ükski loom ega ükski inimene, mitte kusagil, mitte kunagi.
 
-Juhan vaatab teda üle kuuri ukse ühe õhtu ja terve öö. Hommikul läheb ta ligi.
+Juhan käib teda kaks korda vaatamas, õhtul ja öösel, ja jääb kummalgi korral kuuri uksele seisma. Hommikul läheb ta ligi.
 
 Ta ei võta pussi ega püssi. Ta kükitab maha ja lööb korra rusikaga pähe. Kaamera on kaugel ja plaan on üks: hoop, tolm, vaikus.
 
@@ -447,12 +467,12 @@ Värisemine jääb. Seda ei ravi ükski hoop, ja Juhan ei proovi teist korda.
 Mäger ei lähe enam kunagi üle rööbaste. Ta käib nende ümber, ka siis, kui see on kaks kilomeetrit pikem tee. Seda ei seleta film kordagi.
 
 > [!note] Miks see stseen on Vaatuses 0
-> Loomavaguni lugu jutustatakse [[Vaatus II - Blingimine ja varustamine|II vaatuses]] ja siin seda ei korrata — siin on ainult tagajärg, kes tuleb kraavist välja. Kaks kaadrit vaguniustest on ainus vihje ja publik ei oska neid veel lugeda. Kui ta neid II vaatuses uuesti näeb, saab ta aru, et ta on seda mäkra juba kohtunud tema elu kõige halvemal aastal.
+> Loomavaguni lugu jutustatakse [[Vaatus II - Blingimine ja varustamine|II vaatuses]] ja siin seda ei korrata — siin on ainult tagajärg, kes tuleb kraavist välja. Kaks kaadrit vaguniustest on ainus vihje ja publik ei oska neid veel lugeda. Kui ta neid II vaatuses uuesti näeb, saab ta aru, et ta on seda mäkra juba kohtunud tema elu kõige halvemal etapil.
 
 > [!note] Nimi
-> Kogu vaatus käib sellest, et Juhanit ei kirjuta keegi õigesti kirja. Ainus kord, kui ta ise kellelegi nime paneb, paneb ta mägrale koeranime. Ta ei tee sellega nalja ega paranda seda hiljem. See on ainus tiiter terves vaatuses, mis on kellelegi antud tema enda suust — ja seegi on natuke vale.
+> Terve vaatuse jooksul panevad teised asju valesti kirja: Rooma, kirjutaja, kunstnik, kroonika. Siin teeb Juhan seda ise. See on ainus kord, kui ta kellelegi nime paneb, ja ta paneb mägrale koeranime. Ta ei tee sellega nalja ega paranda seda hiljem. See on vaatuse ainus tiiter, mis tuleb tema enda suust, ja seegi on natuke vale.
 >
-> Ja see on ka ainus kord, kui vale kirjapanek midagi muudab. Mäger võtab nime tõsiselt. Kõik, mida Muri hiljem teeb ja mida ükski mäger looduses ei tee, tuleb sellest ühest sõnast — seda ei seleta film kordagi ja mitte keegi ei tohi seda seost välja öelda.
+> See on ka ainus kord, kui vale kirjapanek midagi muudab. Mäger võtab nime tõsiselt. Kõik, mida Muri hiljem teeb ja mida ükski mäger looduses ei tee, tuleb sellest ühest sõnast. Film ei seleta seda kordagi ja seda seost ei tohi keegi välja öelda.
 
 > [!note] Ravi
 > Lõppfaasi marutaud on sada protsenti surmav ja see ei ole liialdus, vaid meditsiin — täpselt sellepärast peab stseen olema võimalikult kuiv. Mängitakse sama tõsiselt nagu 0.4 tehnilist järelvaatlust: haigus tuvastatakse, staadium fikseeritakse, ravi teostatakse, tulemus fikseeritakse. Hoop ei ole vihahoog ega halastussurm ja seda ei näidata lähedalt. Kogu nali on selles, et film ei märka üldse, et midagi imelikku juhtus — ja kohe pärast seda tuleb lause, mida ükski hoop ei paranda.
