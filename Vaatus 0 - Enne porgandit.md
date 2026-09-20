@@ -502,7 +502,7 @@ Ta keerab linna poole.
 ---
 
 > [!note] Tiitrid
-> Tiitel on riigi žest: riik ütleb, kes sa oled. Vaatuses 0 saab selle igaüks peale Juhani — kuningas, ajaloolane, tsaar, president, isegi kirjutaja ja kunstnik vesti peal. Juhani all ei jookse mitte kordagi midagi. Esimene kord, kui film ta nime kirja paneb, on 5. stseeni Aktuaalses kaameras, ja see on vale nimi. Üheksa tuhat aastat ilma tiitrita, siis üks tiiter, ja see on **JOHANNES TÄHT, aednik**.
+> Tiitel on riigi žest: riik ütleb, kes sa oled. Vaatuses 0 saab selle igaüks peale Juhani — kuningas, ajaloolane, tsaar, president, isegi kirjutaja ja kunstnik vesti peal. Juhani all ei jookse mitte kordagi midagi. Esimene kord, kui film ta nime kirja paneb, on 5. stseeni Aktuaalses kaameras, ja see on vale nimi. Üheksa tuhat aastat ilma tiitrita, siis üks tiiter, ja see on **JUHAN TÄHT, aednik**.
 
 > [!note] Vest
 > Ainus kord, kui nimesilt on kaadris eseme, mitte tiitrina. Ta töötab täpselt nii, nagu tänapäeval töötab helkurvest: et omad sind pimedas ära tunneksid. Seda ei kommenteerita ja kaamera ei jää selle peale seisma — vest on lihtsalt olemas, nagu hang on relv ja pärgament on side.

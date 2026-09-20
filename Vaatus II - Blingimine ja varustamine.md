@@ -78,7 +78,7 @@ Reporter ootab järge. Järge ei tule. Juhan seisab, hoiab porgandit kahe käega
 
 Paus venib. Operaator ei tea, kas lõigata. Ei lõika.
 
-Alla ilmub tiitel: **JUHAN TÄHT, aednik**. Kaks täppi ja üks liide, mida keegi ei palunud.
+Alla ilmub tiitel: **JUHAN TÄHT, aednik**. Kaks täppi, mida keegi ei palunud.
 
 Juhan ei paranda seda, sest kui ta parandaks, siis vahetuks võim.
 

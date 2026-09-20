@@ -30,7 +30,7 @@ Subtiitrid ei tõlgi seda venet. Nad tõlgivad vestlust, mis tegelikult käib: t
 
 Riigi hääl filmis on Aktuaalne kaamera ja ainult tema. Esimene saade läks eetrisse 11. märtsil 1956, igapäevaseks sai ta alles 1958 — seega on iga saade sündmus ja televiisoreid on vähe. Mida seal näidatakse, seda on näinud kogu vabariik.
 
-Reporter on ainus tegelane, kes ütleb «Võidu väljak». Riigi tiitrites on Juhani nimi JOHANNES TÄHT. Riik ei kirjuta tema nime valesti, ta üritab teda kustutada.
+Reporter on ainus tegelane, kes ütleb «Võidu väljak». Riigi tiitrites on Juhani nimi JUHAN TÄHT. Riik ei kirjuta tema nime valesti, ta üritab teda kustutada.
 
 ## Küla, mitte kangelane
 

@@ -99,7 +99,7 @@ Ta ei ütle selle kohta kordagi mitte midagi. Ei filmis, ei enne filmi, ei kelle
 
 ## Nimi
 
-Ükski kirjapanija ei ole tema nime õigesti kirja saanud. J. Tuhk, Tuhka, Tacht, hiljem *aestide juures üks mees*, veel hiljem **JOHANNES TÄHT, aednik**.
+Ükski kirjapanija ei ole tema nime õigesti kirja saanud. J. Tuhk, Tuhka, Tacht, hiljem *aestide juures üks mees*, veel hiljem **JUHAN TÄHT, aednik**.
 
 Ta ei paranda kunagi kedagi. Parandamine tähendaks, et tal on tähtis, mismoodi teda kirja pannakse, ja sellest hetkest oleks nimi nende oma.
 
